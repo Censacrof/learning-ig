@@ -16,7 +16,7 @@
   fhir:ImplementationGuide.version [ fhir:value "0.1.0"]; # 
   fhir:ImplementationGuide.name [ fhir:value "learningig"]; # 
   fhir:ImplementationGuide.status [ fhir:value "draft"]; # 
-  fhir:ImplementationGuide.date [ fhir:value "2022-12-15T14:38:24+00:00"^^xsd:dateTime]; # 
+  fhir:ImplementationGuide.date [ fhir:value "2022-12-15T14:46:28+00:00"^^xsd:dateTime]; # 
   fhir:ImplementationGuide.publisher [ fhir:value "Example Publisher"]; # 
   fhir:ImplementationGuide.contact [
      fhir:index 0;
@@ -24,7 +24,7 @@
      fhir:ContactDetail.telecom [
        fhir:index 0;
        fhir:ContactPoint.system [ fhir:value "url" ];
-       fhir:ContactPoint.value [ fhir:value "http://example.org/example-publisher" ]
+       fhir:ContactPoint.value [ fhir:value "https://censacrof.github.io/learning-ig/branches/master/" ]
      ]
   ]; # 
   fhir:ImplementationGuide.packageId [ fhir:value "learning-ig.censacrof.github.com"]; # 

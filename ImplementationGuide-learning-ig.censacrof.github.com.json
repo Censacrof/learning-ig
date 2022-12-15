@@ -9,13 +9,13 @@
   "version" : "0.1.0",
   "name" : "learningig",
   "status" : "draft",
-  "date" : "2022-12-15T14:38:24+00:00",
+  "date" : "2022-12-15T14:46:28+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
     "telecom" : [{
       "system" : "url",
-      "value" : "http://example.org/example-publisher"
+      "value" : "https://censacrof.github.io/learning-ig/branches/master/"
     }]
   }],
   "packageId" : "learning-ig.censacrof.github.com",

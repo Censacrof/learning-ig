@@ -17,13 +17,13 @@
   <version value="0.1.0"/>
   <name value="MyPatient"/>
   <status value="active"/>
-  <date value="2022-12-15T14:38:24+00:00"/>
+  <date value="2022-12-15T14:46:28+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>
     <telecom>
       <system value="url"/>
-      <value value="http://example.org/example-publisher"/>
+      <value value="https://censacrof.github.io/learning-ig/branches/master/"/>
     </telecom>
   </contact>
   <description value="An example profile of the Patient resource."/>
