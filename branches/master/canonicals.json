@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "learning-ig.censacrof.github.com",
+    "type" : "ImplementationGuide",
+    "url" : "learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
+    "version" : "0.1.0",
+    "name" : "learningig"
+  },
+  {
+    "id" : "MyPatient",
+    "type" : "StructureDefinition",
+    "url" : "learning-ig.censacrof.github.com/StructureDefinition/MyPatient",
+    "version" : "0.1.0",
+    "name" : "MyPatient"
+  }
+]

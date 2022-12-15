@@ -1,0 +1,12 @@
+{
+  "url" : "learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
+  "name" : "learningig",
+  "package-id" : "learning-ig.censacrof.github.com",
+  "ig-ver" : "0.1.0",
+  "date" : "Thu, 15 Dec, 2022 14:30:11 +0000",
+  "errs" : 5,
+  "warnings" : 6,
+  "hints" : 0,
+  "version" : "4.0.1",
+  "tool" : "5.0.0-snapshot2 (3)"
+}

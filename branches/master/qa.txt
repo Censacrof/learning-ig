@@ -1,0 +1,26 @@
+﻿learningig : Validation Results
+=========================================
+
+err = 5, warn = 6, info = 0
+IG Publisher Version: 1.2.24
+Generated Thu Dec 15 14:30:23 UTC 2022. FHIR version 4.0.1 for learning-ig.censacrof.github.com#0.1.0 (canonical = learning-ig.censacrof.github.com)
+ Build Errors : 1 / 4 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-learning-ig.censacrof.github.com : 2 / 1 / 1
+ /github/workspace/fsh-generated/resources/Patient-PatientExample : 1 / 1 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-MyPatient : 1 / 0 / 1
+</table>
+== n/a ==
+ERROR: ?pkp-1?: The reference learning-ig.censacrof.github.com/StructureDefinition/MyPatient could not be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-learning-ig.censacrof.github.com.json ==
+WARNING: ImplementationGuide/learning-ig.censacrof.github.com: ImplementationGuide: Rule ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation' Failed
+ERROR: ImplementationGuide/learning-ig.censacrof.github.com: ImplementationGuide.url: Canonical URLs must be absolute URLs if they are not fragment references (learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com)
+ERROR: ImplementationGuide/learning-ig.censacrof.github.com: ImplementationGuide.definition.resource[1].example.ofType(canonical): Canonical URLs must be absolute URLs if they are not fragment references (learning-ig.censacrof.github.com/StructureDefinition/MyPatient)
+== fsh-generated/resources/Patient-PatientExample.json ==
+ERROR: Patient/PatientExample: Patient.meta.profile[0]: Canonical URLs must be absolute URLs if they are not fragment references (learning-ig.censacrof.github.com/StructureDefinition/MyPatient)
+WARNING: Patient/PatientExample: Patient.meta.profile[0]: Profile reference 'learning-ig.censacrof.github.com/StructureDefinition/MyPatient' has not been checked because it is unknown, and the validator is set to not fetch unknown profiles
+== fsh-generated/resources/StructureDefinition-MyPatient.json ==
+ERROR: StructureDefinition/MyPatient: StructureDefinition.url: Canonical URLs must be absolute URLs if they are not fragment references (learning-ig.censacrof.github.com/StructureDefinition/MyPatient)
