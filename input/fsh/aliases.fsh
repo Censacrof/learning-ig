@@ -1,0 +1,1 @@
+Alias: $edqm-standardterms = https://standardterms.edqm.eu/#
