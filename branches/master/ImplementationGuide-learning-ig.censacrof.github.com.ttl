@@ -16,7 +16,7 @@
   fhir:ImplementationGuide.version [ fhir:value "0.1.0"]; # 
   fhir:ImplementationGuide.name [ fhir:value "learningig"]; # 
   fhir:ImplementationGuide.status [ fhir:value "draft"]; # 
-  fhir:ImplementationGuide.date [ fhir:value "2022-12-15T14:46:28+00:00"^^xsd:dateTime]; # 
+  fhir:ImplementationGuide.date [ fhir:value "2022-12-15T15:54:12+00:00"^^xsd:dateTime]; # 
   fhir:ImplementationGuide.publisher [ fhir:value "Example Publisher"]; # 
   fhir:ImplementationGuide.contact [
      fhir:index 0;
@@ -631,32 +631,295 @@
        fhir:Element.extension [
          fhir:index 0;
          fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
-         fhir:Extension.valueString [ fhir:value "StructureDefinition:resource" ]
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/StructureDefinition/MyPatient>;
-         fhir:Reference.reference [ fhir:value "StructureDefinition/MyPatient" ]
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/Filter-label>;
+         fhir:Reference.reference [ fhir:value "ValueSet/Filter-label" ]
        ];
-       fhir:ImplementationGuide.definition.resource.name [ fhir:value "MyPatient" ];
-       fhir:ImplementationGuide.definition.resource.description [ fhir:value "An example profile of the Patient resource." ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "Filter-label" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Filter label from EDQM, FIL, see https://standardterms.edqm.eu/#" ];
        fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
      ], [
        fhir:index 1;
        fhir:Element.extension [
          fhir:index 0;
          fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
-         fhir:Extension.valueString [ fhir:value "Patient" ]
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/Patient/PatientExample>;
-         fhir:Reference.reference [ fhir:value "Patient/PatientExample" ]
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/administration-device>;
+         fhir:Reference.reference [ fhir:value "ValueSet/administration-device" ]
        ];
-       fhir:ImplementationGuide.definition.resource.name [ fhir:value "PatientExample" ];
-       fhir:ImplementationGuide.definition.resource.description [ fhir:value "An example of a patient with a license to krill." ];
-       fhir:ImplementationGuide.definition.resource.exampleCanonical [
-         fhir:value "learning-ig.censacrof.github.com/StructureDefinition/MyPatient";
-         fhir:link <learning-ig.censacrof.github.com/learning-ig.censacrof.github.com/StructureDefinition/MyPatient>
-       ]
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "administration-device" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Administration device from EDQM, DEV, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 2;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/administration-method>;
+         fhir:Reference.reference [ fhir:value "ValueSet/administration-method" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "administration-method" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Administration method from EDQM, AME, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 3;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/basic-dose-form>;
+         fhir:Reference.reference [ fhir:value "ValueSet/basic-dose-form" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "basic-dose-form" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Basic dose form from EDQM, BDF, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 4;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/closure>;
+         fhir:Reference.reference [ fhir:value "ValueSet/closure" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "closure" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Closure from EDQM, CLO, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 5;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/combination-pack>;
+         fhir:Reference.reference [ fhir:value "ValueSet/combination-pack" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "combination-pack" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Combination pack from EDQM, CMP, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 6;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/combined-pharmaceutical-dose-form>;
+         fhir:Reference.reference [ fhir:value "ValueSet/combined-pharmaceutical-dose-form" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "combined-pharmaceutical-dose-form" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Combined pharmaceutical dose form from EDQM, CDF, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 7;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/combined-term>;
+         fhir:Reference.reference [ fhir:value "ValueSet/combined-term" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "combined-term" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Combined term from EDQM, CMT, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 8;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/container>;
+         fhir:Reference.reference [ fhir:value "ValueSet/container" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "container" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Container from EDQM, CON, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 9;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit>;
+         fhir:Reference.reference [ fhir:value "ValueSet/ehdsi-ucum-unit" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "ehdsi-ucum-unit" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet for UCUM units to be used in eHDSI" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 10;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/intended-site>;
+         fhir:Reference.reference [ fhir:value "ValueSet/intended-site" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "intended-site" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Intended site from EDQM, ISI, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 11;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/mapping>;
+         fhir:Reference.reference [ fhir:value "ValueSet/mapping" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "mapping" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Mapping from EDQM, MAP, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 12;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/packaging-category>;
+         fhir:Reference.reference [ fhir:value "ValueSet/packaging-category" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "packaging-category" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Packaging category from EDQM, PAC, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 13;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/patient-friendly-term>;
+         fhir:Reference.reference [ fhir:value "ValueSet/patient-friendly-term" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "patient-friendly-term" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Patient-friendly term from EDQM, PFT, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 14;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/pharmaceutical-dose-form>;
+         fhir:Reference.reference [ fhir:value "ValueSet/pharmaceutical-dose-form" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "pharmaceutical-dose-form" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Pharmaceutical dose form from EDQM, PDF, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 15;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/release-characteristics>;
+         fhir:Reference.reference [ fhir:value "ValueSet/release-characteristics" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "release-characteristics" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Release characteristics from EDQM, RCA, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 16;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/route-of-administration>;
+         fhir:Reference.reference [ fhir:value "ValueSet/route-of-administration" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "route-of-administration" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Route of administration from EDQM, ROA, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 17;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/state-of-matter>;
+         fhir:Reference.reference [ fhir:value "ValueSet/state-of-matter" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "state-of-matter" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet State of matter from EDQM, SOM, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 18;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/substance>;
+         fhir:Reference.reference [ fhir:value "ValueSet/substance" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "substance" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Substance from SMS, see https://spor.ema.europa.eu/smswi/#/" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 19;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/transformation>;
+         fhir:Reference.reference [ fhir:value "ValueSet/transformation" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "transformation" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Transformation from EDQM, TRA, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
+     ], [
+       fhir:index 20;
+       fhir:Element.extension [
+         fhir:index 0;
+         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ];
+         fhir:Extension.valueString [ fhir:value "ValueSet" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.reference [
+         fhir:link <learning-ig.censacrof.github.com/ValueSet/unit-of-presentation>;
+         fhir:Reference.reference [ fhir:value "ValueSet/unit-of-presentation" ]
+       ];
+       fhir:ImplementationGuide.definition.resource.name [ fhir:value "unit-of-presentation" ];
+       fhir:ImplementationGuide.definition.resource.description [ fhir:value "ValueSet Unit of presentation from EDQM, UOP, see https://standardterms.edqm.eu/#" ];
+       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
      ];
      fhir:ImplementationGuide.definition.page [
        fhir:Element.extension [

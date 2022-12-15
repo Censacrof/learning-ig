@@ -9,7 +9,7 @@
   <version value="0.1.0"/>
   <name value="learningig"/>
   <status value="draft"/>
-  <date value="2022-12-15T14:46:28+00:00"/>
+  <date value="2022-12-15T15:54:12+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>
@@ -416,25 +416,234 @@
     </extension>
     <resource>
       <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
-        <valueString value="StructureDefinition:resource"/>
+        <valueString value="ValueSet"/>
       </extension>
       <reference>
-        <reference value="StructureDefinition/MyPatient"/>
+        <reference value="ValueSet/Filter-label"/>
       </reference>
-      <name value="MyPatient"/>
-      <description value="An example profile of the Patient resource."/>
+      <name value="Filter-label"/>
+      <description value="ValueSet Filter label from EDQM, FIL, see https://standardterms.edqm.eu/#"/>
       <exampleBoolean value="false"/>
     </resource>
     <resource>
       <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
-        <valueString value="Patient"/>
+        <valueString value="ValueSet"/>
       </extension>
       <reference>
-        <reference value="Patient/PatientExample"/>
+        <reference value="ValueSet/administration-device"/>
       </reference>
-      <name value="PatientExample"/>
-      <description value="An example of a patient with a license to krill."/>
-      <exampleCanonical value="learning-ig.censacrof.github.com/StructureDefinition/MyPatient"/>
+      <name value="administration-device"/>
+      <description value="ValueSet Administration device from EDQM, DEV, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/administration-method"/>
+      </reference>
+      <name value="administration-method"/>
+      <description value="ValueSet Administration method from EDQM, AME, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/basic-dose-form"/>
+      </reference>
+      <name value="basic-dose-form"/>
+      <description value="ValueSet Basic dose form from EDQM, BDF, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/closure"/>
+      </reference>
+      <name value="closure"/>
+      <description value="ValueSet Closure from EDQM, CLO, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/combination-pack"/>
+      </reference>
+      <name value="combination-pack"/>
+      <description value="ValueSet Combination pack from EDQM, CMP, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/combined-pharmaceutical-dose-form"/>
+      </reference>
+      <name value="combined-pharmaceutical-dose-form"/>
+      <description value="ValueSet Combined pharmaceutical dose form from EDQM, CDF, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/combined-term"/>
+      </reference>
+      <name value="combined-term"/>
+      <description value="ValueSet Combined term from EDQM, CMT, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/container"/>
+      </reference>
+      <name value="container"/>
+      <description value="ValueSet Container from EDQM, CON, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/ehdsi-ucum-unit"/>
+      </reference>
+      <name value="ehdsi-ucum-unit"/>
+      <description value="ValueSet for UCUM units to be used in eHDSI"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/intended-site"/>
+      </reference>
+      <name value="intended-site"/>
+      <description value="ValueSet Intended site from EDQM, ISI, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/mapping"/>
+      </reference>
+      <name value="mapping"/>
+      <description value="ValueSet Mapping from EDQM, MAP, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/packaging-category"/>
+      </reference>
+      <name value="packaging-category"/>
+      <description value="ValueSet Packaging category from EDQM, PAC, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/patient-friendly-term"/>
+      </reference>
+      <name value="patient-friendly-term"/>
+      <description value="ValueSet Patient-friendly term from EDQM, PFT, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/pharmaceutical-dose-form"/>
+      </reference>
+      <name value="pharmaceutical-dose-form"/>
+      <description value="ValueSet Pharmaceutical dose form from EDQM, PDF, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/release-characteristics"/>
+      </reference>
+      <name value="release-characteristics"/>
+      <description value="ValueSet Release characteristics from EDQM, RCA, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/route-of-administration"/>
+      </reference>
+      <name value="route-of-administration"/>
+      <description value="ValueSet Route of administration from EDQM, ROA, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/state-of-matter"/>
+      </reference>
+      <name value="state-of-matter"/>
+      <description value="ValueSet State of matter from EDQM, SOM, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/substance"/>
+      </reference>
+      <name value="substance"/>
+      <description value="ValueSet Substance from SMS, see https://spor.ema.europa.eu/smswi/#/"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/transformation"/>
+      </reference>
+      <name value="transformation"/>
+      <description value="ValueSet Transformation from EDQM, TRA, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
+    </resource>
+    <resource>
+      <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
+        <valueString value="ValueSet"/>
+      </extension>
+      <reference>
+        <reference value="ValueSet/unit-of-presentation"/>
+      </reference>
+      <name value="unit-of-presentation"/>
+      <description value="ValueSet Unit of presentation from EDQM, UOP, see https://standardterms.edqm.eu/#"/>
+      <exampleBoolean value="false"/>
     </resource>
     <page>
       <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-page-name">
