@@ -9,7 +9,7 @@
   "version" : "0.1.0",
   "name" : "learningig",
   "status" : "draft",
-  "date" : "2022-12-15T14:46:28+00:00",
+  "date" : "2022-12-15T15:54:12+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
@@ -563,26 +563,254 @@
     "resource" : [{
       "extension" : [{
         "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
-        "valueString" : "StructureDefinition:resource"
+        "valueString" : "ValueSet"
       }],
       "reference" : {
-        "reference" : "StructureDefinition/MyPatient"
+        "reference" : "ValueSet/Filter-label"
       },
-      "name" : "MyPatient",
-      "description" : "An example profile of the Patient resource.",
+      "name" : "Filter-label",
+      "description" : "ValueSet Filter label from EDQM, FIL, see https://standardterms.edqm.eu/#",
       "exampleBoolean" : false
     },
     {
       "extension" : [{
         "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
-        "valueString" : "Patient"
+        "valueString" : "ValueSet"
       }],
       "reference" : {
-        "reference" : "Patient/PatientExample"
+        "reference" : "ValueSet/administration-device"
       },
-      "name" : "PatientExample",
-      "description" : "An example of a patient with a license to krill.",
-      "exampleCanonical" : "learning-ig.censacrof.github.com/StructureDefinition/MyPatient"
+      "name" : "administration-device",
+      "description" : "ValueSet Administration device from EDQM, DEV, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/administration-method"
+      },
+      "name" : "administration-method",
+      "description" : "ValueSet Administration method from EDQM, AME, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/basic-dose-form"
+      },
+      "name" : "basic-dose-form",
+      "description" : "ValueSet Basic dose form from EDQM, BDF, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/closure"
+      },
+      "name" : "closure",
+      "description" : "ValueSet Closure from EDQM, CLO, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/combination-pack"
+      },
+      "name" : "combination-pack",
+      "description" : "ValueSet Combination pack from EDQM, CMP, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/combined-pharmaceutical-dose-form"
+      },
+      "name" : "combined-pharmaceutical-dose-form",
+      "description" : "ValueSet Combined pharmaceutical dose form from EDQM, CDF, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/combined-term"
+      },
+      "name" : "combined-term",
+      "description" : "ValueSet Combined term from EDQM, CMT, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/container"
+      },
+      "name" : "container",
+      "description" : "ValueSet Container from EDQM, CON, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/ehdsi-ucum-unit"
+      },
+      "name" : "ehdsi-ucum-unit",
+      "description" : "ValueSet for UCUM units to be used in eHDSI",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/intended-site"
+      },
+      "name" : "intended-site",
+      "description" : "ValueSet Intended site from EDQM, ISI, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/mapping"
+      },
+      "name" : "mapping",
+      "description" : "ValueSet Mapping from EDQM, MAP, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/packaging-category"
+      },
+      "name" : "packaging-category",
+      "description" : "ValueSet Packaging category from EDQM, PAC, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/patient-friendly-term"
+      },
+      "name" : "patient-friendly-term",
+      "description" : "ValueSet Patient-friendly term from EDQM, PFT, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/pharmaceutical-dose-form"
+      },
+      "name" : "pharmaceutical-dose-form",
+      "description" : "ValueSet Pharmaceutical dose form from EDQM, PDF, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/release-characteristics"
+      },
+      "name" : "release-characteristics",
+      "description" : "ValueSet Release characteristics from EDQM, RCA, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/route-of-administration"
+      },
+      "name" : "route-of-administration",
+      "description" : "ValueSet Route of administration from EDQM, ROA, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/state-of-matter"
+      },
+      "name" : "state-of-matter",
+      "description" : "ValueSet State of matter from EDQM, SOM, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/substance"
+      },
+      "name" : "substance",
+      "description" : "ValueSet Substance from SMS, see https://spor.ema.europa.eu/smswi/#/",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/transformation"
+      },
+      "name" : "transformation",
+      "description" : "ValueSet Transformation from EDQM, TRA, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
+    },
+    {
+      "extension" : [{
+        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+        "valueString" : "ValueSet"
+      }],
+      "reference" : {
+        "reference" : "ValueSet/unit-of-presentation"
+      },
+      "name" : "unit-of-presentation",
+      "description" : "ValueSet Unit of presentation from EDQM, UOP, see https://standardterms.edqm.eu/#",
+      "exampleBoolean" : false
     }],
     "page" : {
       "extension" : [{

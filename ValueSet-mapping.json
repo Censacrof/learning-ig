@@ -1,0 +1,30 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "mapping",
+  "text" : {
+    "status" : "generated",
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include all codes defined in <code>https://standardterms.edqm.eu/#</code></li></ul></div>"
+  },
+  "url" : "learning-ig.censacrof.github.com/ValueSet/mapping",
+  "version" : "0.1.0",
+  "name" : "Mapping",
+  "title" : "Mapping",
+  "status" : "active",
+  "experimental" : false,
+  "date" : "2022-12-15T15:54:12+00:00",
+  "publisher" : "Example Publisher",
+  "contact" : [{
+    "name" : "Example Publisher",
+    "telecom" : [{
+      "system" : "url",
+      "value" : "https://censacrof.github.io/learning-ig/branches/master/"
+    }]
+  }],
+  "description" : "ValueSet Mapping from EDQM, MAP, see https://standardterms.edqm.eu/#",
+  "immutable" : false,
+  "compose" : {
+    "include" : [{
+      "system" : "https://standardterms.edqm.eu/#"
+    }]
+  }
+}
