@@ -25,7 +25,7 @@
   fhir:StructureDefinition.version [ fhir:value "0.1.0"]; # 
   fhir:StructureDefinition.name [ fhir:value "MyPatient"]; # 
   fhir:StructureDefinition.status [ fhir:value "active"]; # 
-  fhir:StructureDefinition.date [ fhir:value "2022-12-15T14:38:24+00:00"^^xsd:dateTime]; # 
+  fhir:StructureDefinition.date [ fhir:value "2022-12-15T14:46:28+00:00"^^xsd:dateTime]; # 
   fhir:StructureDefinition.publisher [ fhir:value "Example Publisher"]; # 
   fhir:StructureDefinition.contact [
      fhir:index 0;
@@ -33,7 +33,7 @@
      fhir:ContactDetail.telecom [
        fhir:index 0;
        fhir:ContactPoint.system [ fhir:value "url" ];
-       fhir:ContactPoint.value [ fhir:value "http://example.org/example-publisher" ]
+       fhir:ContactPoint.value [ fhir:value "https://censacrof.github.io/learning-ig/branches/master/" ]
      ]
   ]; # 
   fhir:StructureDefinition.description [ fhir:value "An example profile of the Patient resource."]; # 
