@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: learning-ig.censacrof.github.com
-canonical: learning-ig.censacrof.github.com
+canonical: http://learning-ig.censacrof.github.com
 name: learning-ig
 # title: Example Title
 # description: Example Implementation Guide for getting started with SUSHI
