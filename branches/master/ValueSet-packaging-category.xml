@@ -5,13 +5,13 @@
   <text>
     <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class="none"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>0001</td><td>Container</td></tr><tr><td>0002</td><td>Closure</td></tr><tr><td>0003</td><td>Administration device</td></tr></table></li></ul></div>
   </text>
-  <url value="learning-ig.censacrof.github.com/ValueSet/packaging-category"/>
+  <url value="http://learning-ig.censacrof.github.com/ValueSet/packaging-category"/>
   <version value="0.1.0"/>
   <name value="PackagingCategory"/>
   <title value="Packaging category"/>
   <status value="active"/>
   <experimental value="false"/>
-  <date value="2022-12-15T15:54:12+00:00"/>
+  <date value="2022-12-20T11:58:14+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>

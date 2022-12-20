@@ -2,154 +2,154 @@
   {
     "id" : "learning-ig.censacrof.github.com",
     "type" : "ImplementationGuide",
-    "url" : "learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
+    "url" : "http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
     "version" : "0.1.0",
     "name" : "learningig"
   },
   {
     "id" : "Filter-label",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/Filter-label",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/Filter-label",
     "version" : "0.1.0",
     "name" : "FilterLabel"
   },
   {
     "id" : "administration-device",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/administration-device",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/administration-device",
     "version" : "0.1.0",
     "name" : "AdministrationDevice"
   },
   {
     "id" : "administration-method",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/administration-method",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/administration-method",
     "version" : "0.1.0",
     "name" : "AdministrationMethod"
   },
   {
     "id" : "basic-dose-form",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/basic-dose-form",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/basic-dose-form",
     "version" : "0.1.0",
     "name" : "BasicDoseForm"
   },
   {
     "id" : "closure",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/closure",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/closure",
     "version" : "0.1.0",
     "name" : "Closure"
   },
   {
     "id" : "combination-pack",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/combination-pack",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/combination-pack",
     "version" : "0.1.0",
     "name" : "CombinationPack"
   },
   {
     "id" : "combined-pharmaceutical-dose-form",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/combined-pharmaceutical-dose-form",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/combined-pharmaceutical-dose-form",
     "version" : "0.1.0",
     "name" : "CombinedPharmaceuticalDoseForm"
   },
   {
     "id" : "combined-term",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/combined-term",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/combined-term",
     "version" : "0.1.0",
     "name" : "CombinedTerm"
   },
   {
     "id" : "container",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/container",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/container",
     "version" : "0.1.0",
     "name" : "Container"
   },
   {
     "id" : "ehdsi-ucum-unit",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit",
     "version" : "0.1.0",
     "name" : "EhdsiUcumUnit"
   },
   {
     "id" : "intended-site",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/intended-site",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/intended-site",
     "version" : "0.1.0",
     "name" : "IntendedSite"
   },
   {
     "id" : "mapping",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/mapping",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/mapping",
     "version" : "0.1.0",
     "name" : "Mapping"
   },
   {
     "id" : "packaging-category",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/packaging-category",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/packaging-category",
     "version" : "0.1.0",
     "name" : "PackagingCategory"
   },
   {
     "id" : "patient-friendly-term",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/patient-friendly-term",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/patient-friendly-term",
     "version" : "0.1.0",
     "name" : "PatientFriendlyTerm"
   },
   {
     "id" : "pharmaceutical-dose-form",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/pharmaceutical-dose-form",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/pharmaceutical-dose-form",
     "version" : "0.1.0",
     "name" : "PharmaceuticalDoseForm"
   },
   {
     "id" : "release-characteristics",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/release-characteristics",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/release-characteristics",
     "version" : "0.1.0",
     "name" : "ReleaseCharacteristics"
   },
   {
     "id" : "route-of-administration",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/route-of-administration",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/route-of-administration",
     "version" : "0.1.0",
     "name" : "RouteOfAdministration"
   },
   {
     "id" : "state-of-matter",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/state-of-matter",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/state-of-matter",
     "version" : "0.1.0",
     "name" : "StateOfMatter"
   },
   {
     "id" : "substance",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/substance",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/substance",
     "version" : "0.1.0",
     "name" : "Substance"
   },
   {
     "id" : "transformation",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/transformation",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/transformation",
     "version" : "0.1.0",
     "name" : "Transformation"
   },
   {
     "id" : "unit-of-presentation",
     "type" : "ValueSet",
-    "url" : "learning-ig.censacrof.github.com/ValueSet/unit-of-presentation",
+    "url" : "http://learning-ig.censacrof.github.com/ValueSet/unit-of-presentation",
     "version" : "0.1.0",
     "name" : "UnitOfPresentation"
   }

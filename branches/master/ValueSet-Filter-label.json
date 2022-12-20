@@ -5,13 +5,13 @@
     "status" : "generated",
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include all codes defined in <code>https://standardterms.edqm.eu/#</code></li></ul></div>"
   },
-  "url" : "learning-ig.censacrof.github.com/ValueSet/Filter-label",
+  "url" : "http://learning-ig.censacrof.github.com/ValueSet/Filter-label",
   "version" : "0.1.0",
   "name" : "FilterLabel",
   "title" : "Filter label",
   "status" : "active",
   "experimental" : false,
-  "date" : "2022-12-15T15:54:12+00:00",
+  "date" : "2022-12-20T11:58:14+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",

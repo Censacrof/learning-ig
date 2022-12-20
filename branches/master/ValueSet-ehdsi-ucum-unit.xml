@@ -7,13 +7,13 @@
 </td><td>Torr 
 </td></tr><tr><td>10*12/L</td><td>trillion per liter</td><td>trillion per liter</td></tr><tr><td>[oz_tr]</td><td>Troy ounce</td><td>Troy ounce</td></tr><tr><td>[tb'U]</td><td>tuberculin unit</td><td>tuberculin unit</td></tr><tr><td>V</td><td>volt</td><td>volt</td></tr><tr><td>Wb</td><td>Weber</td><td>Weber</td></tr><tr><td>wk</td><td>week</td><td>week</td></tr><tr><td>{WBCs}</td><td>white blood cells</td><td>white blood cells</td></tr><tr><td>[yd_i]</td><td>yard (international)</td><td>yard (international)</td></tr><tr><td>a</td><td>year</td><td>year</td></tr><tr><td>1</td><td>Unit</td><td>Unit</td></tr></table></li></ul></div>
   </text>
-  <url value="learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit"/>
+  <url value="http://learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit"/>
   <version value="0.1.0"/>
   <name value="EhdsiUcumUnit"/>
   <title value="eHDSI UCUM unit"/>
   <status value="active"/>
   <experimental value="false"/>
-  <date value="2022-12-15T15:54:12+00:00"/>
+  <date value="2022-12-20T11:58:14+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>

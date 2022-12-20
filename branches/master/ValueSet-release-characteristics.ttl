@@ -5,20 +5,20 @@
 
 # - resource -------------------------------------------------------------------
 
-<learning-ig.censacrof.github.com/ValueSet/release-characteristics> a fhir:ValueSet;
+<http://learning-ig.censacrof.github.com/ValueSet/release-characteristics> a fhir:ValueSet;
   fhir:nodeRole fhir:treeRoot;
   fhir:Resource.id [ fhir:value "release-characteristics"]; # 
   fhir:DomainResource.text [
      fhir:Narrative.status [ fhir:value "generated" ];
      fhir:Narrative.div "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>0044</td><td>Delayed</td></tr><tr><td>0045</td><td>Prolonged</td></tr><tr><td>0046</td><td>Modified</td></tr><tr><td>0047</td><td>Conventional</td></tr><tr><td>0048</td><td>Unknown</td></tr></table></li></ul></div>"
   ]; # 
-  fhir:ValueSet.url [ fhir:value "learning-ig.censacrof.github.com/ValueSet/release-characteristics"]; # 
+  fhir:ValueSet.url [ fhir:value "http://learning-ig.censacrof.github.com/ValueSet/release-characteristics"]; # 
   fhir:ValueSet.version [ fhir:value "0.1.0"]; # 
   fhir:ValueSet.name [ fhir:value "ReleaseCharacteristics"]; # 
   fhir:ValueSet.title [ fhir:value "Release characteristics"]; # 
   fhir:ValueSet.status [ fhir:value "active"]; # 
   fhir:ValueSet.experimental [ fhir:value "false"^^xsd:boolean]; # 
-  fhir:ValueSet.date [ fhir:value "2022-12-15T15:54:12+00:00"^^xsd:dateTime]; # 
+  fhir:ValueSet.date [ fhir:value "2022-12-20T11:58:14+00:00"^^xsd:dateTime]; # 
   fhir:ValueSet.publisher [ fhir:value "Example Publisher"]; # 
   fhir:ValueSet.contact [
      fhir:index 0;
@@ -61,7 +61,7 @@
 
 # - ontology header ------------------------------------------------------------
 
-<learning-ig.censacrof.github.com/ValueSet/release-characteristics.ttl> a owl:Ontology;
+<http://learning-ig.censacrof.github.com/ValueSet/release-characteristics.ttl> a owl:Ontology;
   owl:imports fhir:fhir.ttl .
 
 # -------------------------------------------------------------------------------------

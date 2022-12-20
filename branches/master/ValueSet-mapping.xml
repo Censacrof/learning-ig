@@ -5,13 +5,13 @@
   <text>
     <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Include all codes defined in <code>https://standardterms.edqm.eu/#</code></li></ul></div>
   </text>
-  <url value="learning-ig.censacrof.github.com/ValueSet/mapping"/>
+  <url value="http://learning-ig.censacrof.github.com/ValueSet/mapping"/>
   <version value="0.1.0"/>
   <name value="Mapping"/>
   <title value="Mapping"/>
   <status value="active"/>
   <experimental value="false"/>
-  <date value="2022-12-15T15:54:12+00:00"/>
+  <date value="2022-12-20T11:58:14+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>

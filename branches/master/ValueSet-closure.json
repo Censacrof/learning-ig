@@ -3,15 +3,15 @@
   "id" : "closure",
   "text" : {
     "status" : "generated",
-    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13070000</td><td>Valve</td></tr><tr><td>13132000</td><td>Lid</td></tr><tr><td>30011000</td><td>Brush applicator</td></tr><tr><td>30013000</td><td>Cap</td></tr><tr><td>30015000</td><td>Child-resistant closure</td></tr><tr><td>30035000</td><td>Metering pump</td></tr><tr><td>30036000</td><td>Metering valve</td></tr><tr><td>30043000</td><td>Needle applicator</td></tr><tr><td>30047000</td><td>Pipette applicator</td></tr><tr><td>30056000</td><td>Screw cap</td></tr><tr><td>30061000</td><td>Spray pump</td></tr><tr><td>30062000</td><td>Spray valve</td></tr><tr><td>30064000</td><td>Stopper</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>bg</b></td><td><b>bs</b></td><td><b>Czech (cs)</b></td><td><b>Dansk (Danish, da)</b></td><td><b>Deutsch (Deutschland) (German (Germany), de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (Spain) (es)</b></td><td><b>et</b></td><td><b>Finnish (fi)</b></td><td><b>French (France) (fr)</b></td><td><b>ga</b></td><td><b>Croatian (hr)</b></td><td><b>hu</b></td><td><b>is</b></td><td><b>Italian (Italy) (it)</b></td><td><b>kk</b></td><td><b>lt</b></td><td><b>lv</b></td><td><b>mk</b></td><td><b>mt</b></td><td><b>Nederlands (Nederland) (Dutch (Netherlands), nl)</b></td><td><b>Norwegian (Norway) (no)</b></td><td><b>Polskie (Polish, pl)</b></td><td><b>Portuguese (pt)</b></td><td><b>ro</b></td><td><b>Русский (Россия) (Russian (Russia), ru)</b></td><td><b>sk</b></td><td><b>sl</b></td><td><b>sq</b></td><td><b>Serbian (Serbia) (sr)</b></td><td><b>Swedish (Sweden) (sv)</b></td><td><b>tr</b></td><td><b>uk</b></td><td><b>中文 （中国） (Chinese (China), zh)</b></td></tr><tr><td>13070000</td><td>Вентил</td><td></td><td>Ventil</td><td>Ventil</td><td>Ventil</td><td>Βαλβίδα</td><td>Válvula</td><td>Klapp</td><td>Venttiili</td><td>Valve</td><td>Comhla</td><td>Ventil</td><td></td><td>Loki</td><td>Valvola</td><td></td><td>Vožtuvas</td><td>Vārsts</td><td></td><td></td><td>Ventiel</td><td>Ventil</td><td>Zawór</td><td>Válvula</td><td>Valvă</td><td>Клапан</td><td>Ventil</td><td>Ventil</td><td></td><td>Ventil</td><td>Ventil</td><td>Vana</td><td></td><td></td></tr><tr><td>13132000</td><td>Капак</td><td></td><td>Těsnící víčko</td><td></td><td>Verschlusskappe</td><td></td><td>Tapa a presión</td><td>Kaas</td><td>Kansi</td><td></td><td>Claibín</td><td>Poklopac</td><td></td><td>Lok</td><td>Coperchio di protezione</td><td></td><td>Dangtis</td><td>Vāks</td><td></td><td></td><td></td><td>Lokk</td><td>Pokrywa</td><td>Tampa de pressão</td><td></td><td></td><td></td><td>Pokrov</td><td></td><td></td><td>Snäpplock</td><td></td><td></td><td></td></tr><tr><td>30011000</td><td>Апликатор-четка</td><td>Zatvarač  sa četkicom</td><td>Štětečkový aplikátor</td><td>Penselindsats</td><td>Verschluss mit Pinsel</td><td>Ψυκτροφόρο πώμα</td><td>Pincel aplicador</td><td>pintselaplikaator</td><td>Sivellinasetin</td><td>Embout avec pinceau</td><td>Forchuradóir scuaibe</td><td>Zatvarač s četkicom</td><td>Ecsettelőfeltét</td><td>Pensillok</td><td>Tappo con applicatore a pennello</td><td>Шөтке-аппликатор</td><td>Aplikatorius su teptuku</td><td>aplikators ar sariņiem</td><td>Затворач со четкица</td><td>Applikatur forma ta' pinzell</td><td>Sluiting met penseel</td><td>Penselapplikator</td><td>Aplikator z pędzelkiem</td><td>Fecho com pincel</td><td>Sistem de închidere cu pensulă</td><td>Аппликатор-щетка</td><td>Štetcový aplikátor</td><td>Zaporka s čopičem</td><td>Aplikator për furçe</td><td>Zatvarač sa četkicom</td><td>Borsthuvud</td><td>Fırçalı aplikatör</td><td>Аплікатор з щіточкою</td><td>带刷瓶盖</td></tr><tr><td>30013000</td><td>Капачка</td><td>Zatvarač</td><td>Víčko</td><td>Låg</td><td>Schutzkappe</td><td>Πώμα</td><td>Cápsula de cierre</td><td>kork</td><td>Korkki</td><td>Opercule</td><td>Caipín</td><td>Kapica</td><td>Kupak</td><td>Lok</td><td>Capsula di chiusura</td><td>Қақпақ</td><td>Dangtelis</td><td>vāciņš</td><td>Затворач</td><td>Għatu</td><td>Dop</td><td>Lokk</td><td>Wieczko</td><td>Cápsula de fecho</td><td>Capac fără filet</td><td>Крышка</td><td>Viečko</td><td>zaporka</td><td>Kapak</td><td>Zatvarač</td><td>Lock</td><td>Kapak</td><td>Кришка</td><td>瓶盖</td></tr><tr><td>30015000</td><td>Защитена от деца запушалка</td><td>Sigurnosni zatvarač za djecu</td><td>Dětský bezpečnostní uzávěr</td><td>Børnesikret lukke</td><td>kindergesicherter Verschluss</td><td>Πώμα ασφαλείας για παιδιά</td><td>Cierre de seguridad a prueba de niños</td><td>lastekindel kork</td><td>Turvasuljin</td><td>Fermeture de sécurité enfant</td><td>Dúntóir sábháilteachta leanaí</td><td>Zatvarač siguran za djecu</td><td>Gyermekbiztos zárás</td><td>Barnaöryggislok</td><td>Chiusura a prova di bambino</td><td>Баладан қорғап жабу</td><td>Vaikų sunkiai atidaromas uždoris</td><td>bērniem neatverama aizdare</td><td>Детски сигурносен затворач</td><td>Għatu li ma jinfetaħx mit-tfal</td><td>Kindveilige sluiting</td><td>Barnesikret lukkeanordning</td><td>Zamknięcie zabezpieczające przed dostępem dzieci</td><td>Fecho resistente à abertura por crianças</td><td>Sistem de închidere securizat pentru copii</td><td>Укупорочный элемент недоступный для вскрытия детьми</td><td>Detský bezpečnostný uzáver</td><td>Za otroke varna zaporka</td><td>Mbyllje rezistente për fëmijë</td><td>Sigurnosni zatvarač za decu</td><td>Barnskyddande förslutning</td><td>Çocuk emniyetli kapak</td><td>Засіб недоступний для відкриття дітьми</td><td>儿童安全盖</td></tr><tr><td>30035000</td><td>Дозираща помпа</td><td></td><td>Dávkovací pumpa</td><td>Doseringspumpe</td><td>Dosierpumpe</td><td>Δοσιμετρική αντλία</td><td>Bomba dosificadora</td><td>mõõtepump</td><td>Annospumppu</td><td>Pompe doseuse</td><td>Caidéal méadraithe</td><td>Odmjerna pumpica</td><td>Adagolópumpa</td><td>Mælipumpa</td><td>Pompa dosatrice</td><td>Дозалайтын насос</td><td>Dozavimo pompa</td><td>dozējošais sūknis</td><td>Пумпа за дозирање</td><td>Pompa tal-kejl</td><td>Doseerpomp</td><td>Doseringspumpe</td><td>Pompka dozująca</td><td>Fecho com bomba doseadora</td><td>Pompă dozatoare</td><td>Насос дозирующий</td><td>Dávkovacia pumpa</td><td>Odmerna črpalka</td><td>Pompë dozuese</td><td>Pumpa za doziranje</td><td>Doseringspump</td><td>Ölçme pompası</td><td>Дозуючий насос</td><td>计量泵</td></tr><tr><td>30036000</td><td>Дозиращ вентил</td><td></td><td>Dávkovací ventil</td><td>Doseringsventil</td><td>Dosierventil</td><td>Δοσιμετρική βαλβίδα</td><td>Válvula dosificadora</td><td>mõõteklapp</td><td>Annosventtiili</td><td>Valve doseuse</td><td>Comhla méadraithe</td><td>Odmjerni ventil</td><td>Adagolószelep</td><td>Mæliloki</td><td>Valvola dosatrice</td><td>Дозалайтын бұранда</td><td>Dozavimo vožtuvas</td><td>Dozēšanas vārsts</td><td>Вентил за дозирање</td><td>Valv tal-kejl</td><td>Doseerventiel</td><td>Doseringsventil</td><td>Zawór dozujący</td><td>Fecho com válvula doseadora</td><td>Valvă dozatoare</td><td>Клапан дозирующий</td><td>Dávkovací ventil</td><td>Odmerni ventil</td><td>Valvol dozuese</td><td>Ventil za doziranje</td><td>Doseringsventil</td><td>ölçme valfı</td><td>Дозуючий клапан</td><td>计量阀</td></tr><tr><td>30043000</td><td>Апликатор-игла</td><td></td><td>Jehlový aplikátor</td><td>Applikator med nål</td><td>Verschluss mit Nadel</td><td>Σύστημα εφαρμογής με βελόνα</td><td>Cierre con aguja incorporada</td><td>nõelaplikaator</td><td>Neula-asetin</td><td>Embout avec aiguille</td><td>Forchuradóir snáthaide</td><td>Aplikator s iglom</td><td>Tűvel ellátott feltét</td><td>Nálarlok</td><td>Applicatore con ago</td><td>Ине-аппликатор</td><td>Aplikatorius su adata</td><td>aplikators ar adatu</td><td>Затворач со игла</td><td>Applikatur forma ta' labra</td><td>Sluiting met naald</td><td>Applikator med nål</td><td>Zamknięcie z igłą</td><td>Fecho com agulha</td><td>Sistem de închidere cu ac</td><td>Аппликатор-игла</td><td>Ihlový aplikátor</td><td>Zaporka z iglo</td><td>Aplikator për gjilpërë</td><td>Aplikator sa iglom</td><td>Ampin</td><td>Iğne aplikatörü</td><td>Аплікатор-голка</td><td>带针的瓶盖</td></tr><tr><td>30047000</td><td>Апликатор-пипета</td><td></td><td>Pipetový aplikátor</td><td>Pipetteindsats</td><td>Verschluss mit Pipette</td><td>Ογκομετρικό πώμα</td><td>Pipeta aplicadora</td><td>pipettaplikaator</td><td>Mittapipetti</td><td>Embout pipette</td><td>Forchuradóir pípéid</td><td>Zatvarač s pipetom</td><td>Pipettás zárókupak</td><td>Pìpettulok</td><td>Chiusura con pipetta</td><td>Тамшуыр-аппликатор</td><td>Aplikatorius su pipete</td><td>aplikators ar pipeti</td><td>Затворач со пипета</td><td>Applikatur forma ta' pipetta</td><td>Dop met pipet</td><td>Pipetteinnsats</td><td>Zamknięcie z pipetką</td><td>Fecho com pipeta</td><td>Sistem de închidere cu pipetă</td><td>Аппликатор-пипетка</td><td>Pipetový aplikátor</td><td>Zaporka z merilno kapalko</td><td>Aplikator pipete</td><td>Zatvarač sa pipetom</td><td>Pipettförslutning</td><td>Pipet aplikatörü</td><td>Аплікатор-піпетка</td><td>带滴管的瓶盖</td></tr><tr><td>30056000</td><td>Капачка на винт</td><td></td><td>Šroubovací uzávěr</td><td>Skruelåg</td><td>Schraubdeckel</td><td>Βιδωτό πώμα</td><td>Cierre de rosca</td><td>keeratav kork</td><td>Kierrekorkki</td><td>Bouchon à vis</td><td>Caipín scriú</td><td>Zatvarač s navojem</td><td>Csavaros kupak</td><td>Skrúflok</td><td>Tappo a vite</td><td>Бұрама қақпақ</td><td>Užsukamasis dangtelis</td><td>uzskrūvējams vāciņš</td><td>Навоен затворач</td><td>Għatu bil-kamin</td><td>Schroefdop</td><td>Skrulokk</td><td>Zakrętka</td><td>Fecho com rosca</td><td>Capac cu filet</td><td>Крышка навинчивающаяся</td><td>Uzáver so závitom</td><td>Navojna zaporka</td><td>Kapak me vidhë</td><td>Zatvarač sa navojem</td><td>Skruvlock</td><td>Vidalı kapak</td><td>Кришка, що нагвинчується</td><td>螺纹盖</td></tr><tr><td>30061000</td><td>Спрей помпа</td><td></td><td>Mechanický rozprašovač</td><td>Pumpespray</td><td>Sprühpumpe</td><td>Αντλία ψεκασμού</td><td>Bomba pulverizadora</td><td>spreipump</td><td>Sumutepumppu</td><td>Pompe pour pulvérisation</td><td>Spraechaidéal</td><td>pumpica raspršivača</td><td>Permetpumpa</td><td>Úðapumpa</td><td>Pompa spray</td><td>Бүріккіш насос</td><td>Purškalo pompa</td><td>mehāniskais izsmidzinātājs</td><td>Пумпа за распрскување</td><td>Sprej bil-pompa</td><td>Spraypomp</td><td>Spraypumpe</td><td>Pompka rozpylająca</td><td>Fecho com bomba nebulizadora</td><td>Pompă de pulverizare</td><td>Насос-спрей</td><td>Mechanický rozprašovač</td><td>zaporka z mehanskim pršilnikom</td><td>Pompë sprucuese</td><td>Sprej pumpa</td><td>Spraypump</td><td>Sprey pompası</td><td>Насос-спрей</td><td>喷雾泵</td></tr><tr><td>30062000</td><td>Спрей вентил</td><td></td><td>Kontinuální rozprašovací ventil</td><td>Sprayventil</td><td>Sprühventil</td><td>Βαλβίδα ψεκασμού</td><td>Válvula pulverizadora</td><td>spreiklapp</td><td>Sumuteventtiili</td><td>Valve</td><td>Spraechomhla</td><td>ventil raspršivača</td><td>Permetszelep</td><td>Úðaloki</td><td>Valvola spray</td><td>Бұрандалы бүріккіш</td><td>Purškalo vožtuvas</td><td>Aerosola vārsts</td><td>Вентил за распрскување</td><td>Sprej bil-valv</td><td>Sprayventiel</td><td>Sprayventil</td><td>Zawór rozpylający</td><td>Fecho com válvula nebulizadora</td><td>Valvă de pulverizare</td><td>Клапан-спрей</td><td>Ventil aerodisperzie</td><td>zaporka s pršilnim ventilom</td><td>Valvol sprucuese</td><td>Ventil za raspršivanje</td><td>Sprayventil</td><td>Sprey valfı</td><td>Клапан-спрей</td><td>喷雾阀</td></tr><tr><td>30064000</td><td>Запушалка</td><td></td><td>Zátka</td><td>Prop</td><td>Stopfen</td><td>Πώμα εισχώρησης</td><td>Tapón</td><td>Punnkork</td><td>Tulppa</td><td>Bouchon</td><td>Stopallán</td><td>čep</td><td>Dugó</td><td>Tappi</td><td>Tappo</td><td>Тығын</td><td>Kamštis</td><td>aizbāznis</td><td>Чеп</td><td>Tapp</td><td>Stop</td><td>Propp</td><td>Korek</td><td>Rolha</td><td>Dop</td><td>Пробка</td><td>Zátka</td><td>zamašek</td><td>Tapë</td><td>Čep</td><td>Propp</td><td>Tıpa</td><td>Пробка</td><td>瓶塞</td></tr></table></div>"
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13070000</td><td>Valve</td></tr><tr><td>13132000</td><td>Lid</td></tr><tr><td>30011000</td><td>Brush applicator</td></tr><tr><td>30013000</td><td>Cap</td></tr><tr><td>30015000</td><td>Child-resistant closure</td></tr><tr><td>30035000</td><td>Metering pump</td></tr><tr><td>30036000</td><td>Metering valve</td></tr><tr><td>30043000</td><td>Needle applicator</td></tr><tr><td>30047000</td><td>Pipette applicator</td></tr><tr><td>30056000</td><td>Screw cap</td></tr><tr><td>30061000</td><td>Spray pump</td></tr><tr><td>30062000</td><td>Spray valve</td></tr><tr><td>30064000</td><td>Stopper</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>Deutsch (German, de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (es)</b></td><td><b>French (fr)</b></td><td><b>Italian (it)</b></td><td><b>Portuguese (pt)</b></td></tr><tr><td>13070000</td><td>Ventil</td><td>Βαλβίδα</td><td>Válvula</td><td>Valve</td><td>Valvola</td><td>Válvula</td></tr><tr><td>13132000</td><td>Verschlusskappe</td><td></td><td>Tapa a presión</td><td></td><td>Coperchio di protezione</td><td>Tampa de pressão</td></tr><tr><td>30011000</td><td>Verschluss mit Pinsel</td><td>Ψυκτροφόρο πώμα</td><td>Pincel aplicador</td><td>Embout avec pinceau</td><td>Tappo con applicatore a pennello</td><td>Fecho com pincel</td></tr><tr><td>30013000</td><td>Schutzkappe</td><td>Πώμα</td><td>Cápsula de cierre</td><td>Opercule</td><td>Capsula di chiusura</td><td>Cápsula de fecho</td></tr><tr><td>30015000</td><td>kindergesicherter Verschluss</td><td>Πώμα ασφαλείας για παιδιά</td><td>Cierre de seguridad a prueba de niños</td><td>Fermeture de sécurité enfant</td><td>Chiusura a prova di bambino</td><td>Fecho resistente à abertura por crianças</td></tr><tr><td>30035000</td><td>Dosierpumpe</td><td>Δοσιμετρική αντλία</td><td>Bomba dosificadora</td><td>Pompe doseuse</td><td>Pompa dosatrice</td><td>Fecho com bomba doseadora</td></tr><tr><td>30036000</td><td>Dosierventil</td><td>Δοσιμετρική βαλβίδα</td><td>Válvula dosificadora</td><td>Valve doseuse</td><td>Valvola dosatrice</td><td>Fecho com válvula doseadora</td></tr><tr><td>30043000</td><td>Verschluss mit Nadel</td><td>Σύστημα εφαρμογής με βελόνα</td><td>Cierre con aguja incorporada</td><td>Embout avec aiguille</td><td>Applicatore con ago</td><td>Fecho com agulha</td></tr><tr><td>30047000</td><td>Verschluss mit Pipette</td><td>Ογκομετρικό πώμα</td><td>Pipeta aplicadora</td><td>Embout pipette</td><td>Chiusura con pipetta</td><td>Fecho com pipeta</td></tr><tr><td>30056000</td><td>Schraubdeckel</td><td>Βιδωτό πώμα</td><td>Cierre de rosca</td><td>Bouchon à vis</td><td>Tappo a vite</td><td>Fecho com rosca</td></tr><tr><td>30061000</td><td>Sprühpumpe</td><td>Αντλία ψεκασμού</td><td>Bomba pulverizadora</td><td>Pompe pour pulvérisation</td><td>Pompa spray</td><td>Fecho com bomba nebulizadora</td></tr><tr><td>30062000</td><td>Sprühventil</td><td>Βαλβίδα ψεκασμού</td><td>Válvula pulverizadora</td><td>Valve</td><td>Valvola spray</td><td>Fecho com válvula nebulizadora</td></tr><tr><td>30064000</td><td>Stopfen</td><td>Πώμα εισχώρησης</td><td>Tapón</td><td>Bouchon</td><td>Tappo</td><td>Rolha</td></tr></table></div>"
   },
-  "url" : "learning-ig.censacrof.github.com/ValueSet/closure",
+  "url" : "http://learning-ig.censacrof.github.com/ValueSet/closure",
   "version" : "0.1.0",
   "name" : "Closure",
   "title" : "Closure",
   "status" : "active",
   "experimental" : false,
-  "date" : "2022-12-15T15:54:12+00:00",
+  "date" : "2022-12-20T11:58:14+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
@@ -29,1688 +29,356 @@
         "code" : "13070000",
         "display" : "Valve",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Вентил"
-        },
-        {
-          "language" : "cs-CZ",
+          "language" : "de",
           "value" : "Ventil"
         },
         {
-          "language" : "da-DK",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "de-DE",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Βαλβίδα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Válvula"
         },
         {
-          "language" : "et-EE",
-          "value" : "Klapp"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Venttiili"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Valve"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Comhla"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Loki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Valvola"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Vožtuvas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Vārsts"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Ventiel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zawór"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Válvula"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Valvă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Клапан"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Ventil"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Vana"
         }]
       },
       {
         "code" : "13132000",
         "display" : "Lid",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Капак"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Těsnící víčko"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschlusskappe"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Tapa a presión"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kaas"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kansi"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Claibín"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Poklopac"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Lok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Coperchio di protezione"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Dangtis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Vāks"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Lokk"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Pokrywa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Tampa de pressão"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Pokrov"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Snäpplock"
         }]
       },
       {
         "code" : "30011000",
         "display" : "Brush applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор-четка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Zatvarač  sa četkicom"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Štětečkový aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Penselindsats"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Pinsel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ψυκτροφόρο πώμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pincel aplicador"
         },
         {
-          "language" : "et-EE",
-          "value" : "pintselaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sivellinasetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout avec pinceau"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir scuaibe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač s četkicom"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Ecsettelőfeltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Pensillok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Tappo con applicatore a pennello"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Шөтке-аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su teptuku"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators ar sariņiem"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со четкица"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur forma ta' pinzell"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Sluiting met penseel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Penselapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator z pędzelkiem"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com pincel"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Sistem de închidere cu pensulă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор-щетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Štetcový aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Zaporka s čopičem"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për furçe"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač sa četkicom"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Borsthuvud"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Fırçalı aplikatör"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор з щіточкою"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "带刷瓶盖"
         }]
       },
       {
         "code" : "30013000",
         "display" : "Cap",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Капачка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Zatvarač"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Víčko"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Låg"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Schutzkappe"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πώμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cápsula de cierre"
         },
         {
-          "language" : "et-EE",
-          "value" : "kork"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Korkki"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Opercule"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Caipín"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kapica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Kupak"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Lok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Capsula di chiusura"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Қақпақ"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Dangtelis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "vāciņš"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Għatu"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Dop"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Lokk"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wieczko"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Cápsula de fecho"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Capac fără filet"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крышка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Viečko"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "zaporka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Kapak"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Lock"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Kapak"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Кришка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "瓶盖"
         }]
       },
       {
         "code" : "30015000",
         "display" : "Child-resistant closure",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Защитена от деца запушалка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Sigurnosni zatvarač za djecu"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Dětský bezpečnostní uzávěr"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Børnesikret lukke"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "kindergesicherter Verschluss"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πώμα ασφαλείας για παιδιά"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cierre de seguridad a prueba de niños"
         },
         {
-          "language" : "et-EE",
-          "value" : "lastekindel kork"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Turvasuljin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Fermeture de sécurité enfant"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Dúntóir sábháilteachta leanaí"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač siguran za djecu"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Gyermekbiztos zárás"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Barnaöryggislok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Chiusura a prova di bambino"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Баладан қорғап жабу"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Vaikų sunkiai atidaromas uždoris"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "bērniem neatverama aizdare"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Детски сигурносен затворач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Għatu li ma jinfetaħx mit-tfal"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Kindveilige sluiting"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Barnesikret lukkeanordning"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zamknięcie zabezpieczające przed dostępem dzieci"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho resistente à abertura por crianças"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Sistem de închidere securizat pentru copii"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Укупорочный элемент недоступный для вскрытия детьми"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Detský bezpečnostný uzáver"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Za otroke varna zaporka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Mbyllje rezistente për fëmijë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Sigurnosni zatvarač za decu"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Barnskyddande förslutning"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Çocuk emniyetli kapak"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Засіб недоступний для відкриття дітьми"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "儿童安全盖"
         }]
       },
       {
         "code" : "30035000",
         "display" : "Metering pump",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Дозираща помпа"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Dávkovací pumpa"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Doseringspumpe"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Dosierpumpe"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσιμετρική αντλία"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Bomba dosificadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "mõõtepump"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Annospumppu"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Pompe doseuse"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Caidéal méadraithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Odmjerna pumpica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagolópumpa"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mælipumpa"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Pompa dosatrice"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Дозалайтын насос"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Dozavimo pompa"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "dozējošais sūknis"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Пумпа за дозирање"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Pompa tal-kejl"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerpomp"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Doseringspumpe"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Pompka dozująca"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com bomba doseadora"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Pompă dozatoare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Насос дозирующий"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Dávkovacia pumpa"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Odmerna črpalka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pompë dozuese"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Pumpa za doziranje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringspump"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ölçme pompası"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Дозуючий насос"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "计量泵"
         }]
       },
       {
         "code" : "30036000",
         "display" : "Metering valve",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Дозиращ вентил"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Dávkovací ventil"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Doseringsventil"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Dosierventil"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσιμετρική βαλβίδα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Válvula dosificadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "mõõteklapp"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Annosventtiili"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Valve doseuse"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Comhla méadraithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Odmjerni ventil"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagolószelep"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mæliloki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Valvola dosatrice"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Дозалайтын бұранда"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Dozavimo vožtuvas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Dozēšanas vārsts"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Вентил за дозирање"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Valv tal-kejl"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerventiel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Doseringsventil"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zawór dozujący"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com válvula doseadora"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Valvă dozatoare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Клапан дозирующий"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Dávkovací ventil"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Odmerni ventil"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Valvol dozuese"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Ventil za doziranje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringsventil"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "ölçme valfı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Дозуючий клапан"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "计量阀"
         }]
       },
       {
         "code" : "30043000",
         "display" : "Needle applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор-игла"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Jehlový aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Applikator med nål"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Nadel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύστημα εφαρμογής με βελόνα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cierre con aguja incorporada"
         },
         {
-          "language" : "et-EE",
-          "value" : "nõelaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Neula-asetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout avec aiguille"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir snáthaide"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator s iglom"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Tűvel ellátott feltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Nálarlok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore con ago"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Ине-аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su adata"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators ar adatu"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со игла"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur forma ta' labra"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Sluiting met naald"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Applikator med nål"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zamknięcie z igłą"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com agulha"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Sistem de închidere cu ac"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор-игла"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Ihlový aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Zaporka z iglo"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për gjilpërë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator sa iglom"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Ampin"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Iğne aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор-голка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "带针的瓶盖"
         }]
       },
       {
         "code" : "30047000",
         "display" : "Pipette applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор-пипета"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Pipetový aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Pipetteindsats"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Pipette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ογκομετρικό πώμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pipeta aplicadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "pipettaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Mittapipetti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout pipette"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir pípéid"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač s pipetom"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Pipettás zárókupak"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Pìpettulok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Chiusura con pipetta"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Тамшуыр-аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su pipete"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators ar pipeti"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со пипета"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur forma ta' pipetta"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Dop met pipet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Pipetteinnsats"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zamknięcie z pipetką"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com pipeta"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Sistem de închidere cu pipetă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор-пипетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pipetový aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Zaporka z merilno kapalko"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator pipete"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač sa pipetom"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Pipettförslutning"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Pipet aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор-піпетка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "带滴管的瓶盖"
         }]
       },
       {
         "code" : "30056000",
         "display" : "Screw cap",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Капачка на винт"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Šroubovací uzávěr"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Skruelåg"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Schraubdeckel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Βιδωτό πώμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cierre de rosca"
         },
         {
-          "language" : "et-EE",
-          "value" : "keeratav kork"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kierrekorkki"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Bouchon à vis"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Caipín scriú"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač s navojem"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Csavaros kupak"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Skrúflok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Tappo a vite"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Бұрама қақпақ"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Užsukamasis dangtelis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "uzskrūvējams vāciņš"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Навоен затворач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Għatu bil-kamin"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Schroefdop"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Skrulokk"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zakrętka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com rosca"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Capac cu filet"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крышка навинчивающаяся"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Uzáver so závitom"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Navojna zaporka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Kapak me vidhë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač sa navojem"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Skruvlock"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Vidalı kapak"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Кришка, що нагвинчується"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "螺纹盖"
         }]
       },
       {
         "code" : "30061000",
         "display" : "Spray pump",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Спрей помпа"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Mechanický rozprašovač"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Pumpespray"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Sprühpumpe"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Αντλία ψεκασμού"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Bomba pulverizadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "spreipump"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sumutepumppu"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Pompe pour pulvérisation"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Spraechaidéal"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "pumpica raspršivača"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Permetpumpa"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Úðapumpa"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Pompa spray"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Бүріккіш насос"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Purškalo pompa"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "mehāniskais izsmidzinātājs"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Пумпа за распрскување"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Sprej bil-pompa"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Spraypomp"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Spraypumpe"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Pompka rozpylająca"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com bomba nebulizadora"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Pompă de pulverizare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Насос-спрей"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Mechanický rozprašovač"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "zaporka z mehanskim pršilnikom"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pompë sprucuese"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Sprej pumpa"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Spraypump"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Sprey pompası"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Насос-спрей"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "喷雾泵"
         }]
       },
       {
         "code" : "30062000",
         "display" : "Spray valve",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Спрей вентил"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Kontinuální rozprašovací ventil"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Sprayventil"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Sprühventil"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Βαλβίδα ψεκασμού"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Válvula pulverizadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "spreiklapp"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sumuteventtiili"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Valve"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Spraechomhla"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "ventil raspršivača"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Permetszelep"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Úðaloki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Valvola spray"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Бұрандалы бүріккіш"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Purškalo vožtuvas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Aerosola vārsts"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Вентил за распрскување"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Sprej bil-valv"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Sprayventiel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Sprayventil"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zawór rozpylający"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com válvula nebulizadora"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Valvă de pulverizare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Клапан-спрей"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Ventil aerodisperzie"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "zaporka s pršilnim ventilom"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Valvol sprucuese"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Ventil za raspršivanje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Sprayventil"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Sprey valfı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Клапан-спрей"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "喷雾阀"
         }]
       },
       {
         "code" : "30064000",
         "display" : "Stopper",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Запушалка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Zátka"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Prop"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Stopfen"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πώμα εισχώρησης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Tapón"
         },
         {
-          "language" : "et-EE",
-          "value" : "Punnkork"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tulppa"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Bouchon"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Stopallán"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "čep"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Dugó"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Tappi"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Tappo"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Тығын"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Kamštis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aizbāznis"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Чеп"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Tapp"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Stop"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Propp"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Korek"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Rolha"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Dop"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Пробка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Zátka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "zamašek"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Tapë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Čep"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Propp"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Tıpa"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Пробка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "瓶塞"
         }]
       }]
     }]

@@ -3,15 +3,15 @@
   "id" : "combination-pack",
   "text" : {
     "status" : "generated",
-    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>14001000</td><td>Cream + pessary</td></tr><tr><td>14002000</td><td>Cutaneous solution + medicated sponge</td></tr><tr><td>14003000</td><td>Gastro-resistant tablet + rectal suspension</td></tr><tr><td>14004000</td><td>Vaginal capsule, soft + vaginal cream</td></tr><tr><td>14005000</td><td>Vaginal cream + vaginal tablet</td></tr><tr><td>14006000</td><td>Effervescent granules + film-coated tablet</td></tr><tr><td>14007000</td><td>Effervescent tablet + film-coated tablet</td></tr><tr><td>14008000</td><td>Tablet + vaginal tablet</td></tr><tr><td>14009000</td><td>Cream + vaginal capsule, soft</td></tr><tr><td>14010000</td><td>Cream + vaginal tablet</td></tr><tr><td>14011000</td><td>Film-coated tablet + pessary</td></tr><tr><td>14012000</td><td>Capsule, soft + tablet</td></tr><tr><td>14013000</td><td>Capsule, hard + tablet</td></tr><tr><td>14014000</td><td>Film-coated tablet + tablet</td></tr><tr><td>14015000</td><td>Ointment + vaginal tablet</td></tr><tr><td>14016000</td><td>Effervescent granules + gastro-resistant tablet</td></tr><tr><td>14017000</td><td>Eye drops, solution + eye ointment</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>bg</b></td><td><b>bs</b></td><td><b>Czech (cs)</b></td><td><b>Dansk (Danish, da)</b></td><td><b>Deutsch (Deutschland) (German (Germany), de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (Spain) (es)</b></td><td><b>et</b></td><td><b>Finnish (fi)</b></td><td><b>French (France) (fr)</b></td><td><b>ga</b></td><td><b>Croatian (hr)</b></td><td><b>is</b></td><td><b>Italian (Italy) (it)</b></td><td><b>lt</b></td><td><b>lv</b></td><td><b>Nederlands (Nederland) (Dutch (Netherlands), nl)</b></td><td><b>Norwegian (Norway) (no)</b></td><td><b>Polskie (Polish, pl)</b></td><td><b>Portuguese (pt)</b></td><td><b>ro</b></td><td><b>Русский (Россия) (Russian (Russia), ru)</b></td><td><b>sk</b></td><td><b>sl</b></td><td><b>Serbian (Serbia) (sr)</b></td><td><b>Swedish (Sweden) (sv)</b></td><td><b>tr</b></td></tr><tr><td>14001000</td><td>Крем + песар</td><td></td><td>Krém + vaginální kulička</td><td></td><td>Creme und Vaginalzäpfchen</td><td>Κρέμα +  Κολπικό υπόθετο</td><td>Crema + óvulo</td><td>Kreem + vaginaalsuposiit</td><td>Emulsiovoide + emätinpuikko</td><td>Crème + ovule</td><td>Uachtar + peasaire</td><td>Krema + vagitorij</td><td>Krem + leggangastíll</td><td>Crema + ovulo</td><td>Kremas ir ovulė</td><td>Krēms+pesārijs</td><td>Crème + ovule</td><td>Krem + vagitorie</td><td>Krem + globulka</td><td>Creme + óvulo</td><td>Cremă + ovul</td><td>Крем + пессарий</td><td>Krém + vaginálna guľôčka</td><td>Krema + vaginalna globula</td><td>Krem + vagitorija</td><td>Kräm+ vagitorium</td><td>Krem + ovül</td></tr><tr><td>14002000</td><td>Разтвор за кожа + лечебна гъба</td><td></td><td>Kožní roztok + léčivá hubka</td><td></td><td></td><td>Δερματικό διάλυμα + Σπόγγος φαρμακούχος</td><td>Solución cutánea + esponja medicamentosa</td><td>Nahalahus + ravimkäsn</td><td>Liuos iholle + lääketyyny</td><td>Solution cutanée + éponge médicamenteuse</td><td>Tuaslagán craicneach + spúinse íocleasaithe</td><td>Otopina za kožu + ljekovita spužvica</td><td>Húðlausn + lyfjasvampur</td><td>Soluzione cutanea + spugna medicata</td><td>Odos tirpalas ir vaistinė kempinė</td><td>Uz ādas lietojams šķīdums + ārstnieciskais sūklis</td><td>Oplossing voor cutaan gebruik + medicinale spons</td><td>Liniment, oppløsning + medisinert svamp</td><td>Roztwór na skórę + gąbka lecznicza</td><td>Solução cutânea + esponja medicamentosa</td><td>Soluție cutanată + burete medicamentos</td><td>Раствор накожный + губка лекарственная</td><td>Dermálny roztok + liečivá hubka</td><td>Dermalna raztopina + zdravilna gobica</td><td>Rastvor za kožu + lekoviti sunđer</td><td>Kutan lösning + medicinerad svamp</td><td>Deri çözeltisi + tıbbi sünger</td></tr><tr><td>14003000</td><td>Стомашно-устойчива таблетка + ректална суспензия</td><td></td><td>Enterosolventní tableta + rektální suspenze</td><td></td><td>Magensaftresistente Tablette und Rektalsuspension</td><td>Γαστροανθεκτικό δισκίο + Ορθικό εναιώρημα</td><td>Comprimido gastrorresistente + suspensión rectal</td><td>Gastroresistentne tablett + rektaalsuspensioon</td><td>Enterotabletti + peräruiskesuspensio</td><td>Comprimé gastrorésistant + suspension rectale</td><td>Táibléad gastraifhriotaíoch + fuaidreán reicteach</td><td>Želučanootporna tableta + rektalna suspenzija</td><td>Magasýruþolin tafla + endaþarmsdreifa</td><td>Compressa gastroresistente + sospensione rettale</td><td>Skrandyje neiri tabletė ir tiesiosios žarnos suspensija</td><td>Zarnās šķīstošā tablete + rektālā suspensija</td><td>Maagsapresistente tablet + suspensie voor rectaal gebruik</td><td>Enterotablett + rektalvæske, suspensjon</td><td>Tabletka dojelitowa + zawiesina doodbytnicza</td><td>Comprimido gastrorresistente + suspensão retal</td><td>Comprimat gastrorezistent + suspensie rectală</td><td>Таблетка кишечнорастворимая + суспензия ректальная</td><td>Gastrorezistentná tableta + rektálna suspenzia</td><td>Gastrorezistentna tableta + rektalna suspenzija</td><td>Gastrorezistentna tableta + rektalna suspenzija</td><td>Enterotablett + rektalsuspension</td><td>Midede dayanıklı tablet + makattan süspansiyon</td></tr><tr><td>14004000</td><td>Вагинална капсула, мека + вагинален крем</td><td></td><td>Měkká vaginální tobolka + vaginální krém</td><td></td><td>Weichkapsel zur vaginalen Anwendung und Vaginalcreme</td><td>Κολπικό καψάκιο, μαλακό + κολπική κρέμα</td><td>Cápsula blanda vaginal + crema vaginal</td><td>Vaginaalpehmekapsel + vaginaalkreem</td><td>Emätinpuikko, pehmeä kapseli + emätinemulsiovoide</td><td>Capsule molle vaginale + crème vaginale</td><td>Capsúl faighne, bog + uachtar faighne</td><td>Kapsula za rodnicu, meka + krema za rodnicu</td><td>Mjúkt leggangahylki + leggangakrem</td><td>Capsula molle vaginale + crema vaginale</td><td>Makšties minkštoji kapsulė ir makšties kremas</td><td>Vaginālā kapsula, mīkstā + vaginālais krēms</td><td>Capsule voor vaginaal gebruik, zacht + crème voor vaginaal gebruik</td><td>Vaginalkapsel, myk + vaginalkrem</td><td>Kapsułka dopochwowa, miękka + krem dopochwowy</td><td>Cápsula mole vaginal + creme vaginal</td><td>Capsulă moale vaginală + cremă vaginală</td><td>Капсула вагинальная, мягкая + крем вагинальный</td><td>Mäkká vaginálna kapsula + vaginálny krém</td><td>Vaginalna kapsula, mehka + vaginalna krema</td><td>Vaginalna kapsula, meka + vaginalni krem</td><td>Vaginalkapsel, mjuk + vaginalkräm</td><td>Vajinal kapsül, yumuşak + vajinal krem</td></tr><tr><td>14005000</td><td>Вагинален крем + вагинална таблетка</td><td></td><td>Vaginální krém + vaginální tableta</td><td></td><td>Vaginalcreme und Vaginaltablette</td><td>Κολπική κρέμα + κολπικό δισκίο</td><td>Crema vaginal + comprimido vaginal</td><td>Vaginaalkreem + vaginaaltablett</td><td>Emätinemulsiovoide + emätinpuikko, tabletti</td><td>Crème vaginale + comprimé vaginal</td><td>Uachtar faighne + táibléad faighne</td><td>Krema za rodnicu + tableta za rodnicu</td><td>Leggangakrem + leggangatafla</td><td>Crema vaginale + compressa vaginale</td><td>Makšties kremas ir makšties tabletė</td><td>Vaginālais krēms + vaginālā tablete</td><td>Crème voor vaginaal gebruik + tablet voor vaginaal gebruik</td><td>Vaginalkrem + vaginaltablett</td><td>Krem dopochwowy + tabletka dopochwowa</td><td>Creme vaginal + comprimido vaginal</td><td>Cremă vaginală + comprimat vaginal</td><td>Крем вагинальный + таблетка вагинальная</td><td>Vaginálny krém + vaginálna tableta</td><td>Vaginalna krema + vaginalna tableta</td><td>Vaginalni krem + vaginalna tableta</td><td>Vaginalkräm + vaginaltablett</td><td>Vajinal krem + vajinal tablet</td></tr><tr><td>14006000</td><td>Ефервесцентни гранули + филмирана таблетка</td><td></td><td>Šumivé granule + potahovaná tableta</td><td></td><td>Brausegranulat und Filmtablette</td><td>Αναβράζοντα κοκκία + επικαλυμμένο με λεπτό υμένιο δισκίο</td><td>Granulado efervescente + comprimido recubierto con película</td><td>Kihisevad graanulid + õhukese polümeerikattega tablett</td><td>Porerakeet + kalvopäällysteinen tabletti</td><td>Granulés effervescents + comprimé pelliculé</td><td>Gráinníní broidearnúla + táibléad sceobhrataithe</td><td>Šumeće granule + filmom obložena tableta</td><td>Freyðikyrni + filmuhúðuð tafla</td><td>Granulato effervescente + compressa rivestita con film</td><td>Šnypščiosios granulės ir plėvele dengta tabletė</td><td>Putojošās granulas + apvalkotā tablete</td><td>Bruisgranulaat + filmomhulde tablet</td><td>Brusegranulat + tablett, filmdrasjert</td><td>Granulat musujący + tabletka powlekana</td><td>Granulado efervescente + comprimido revestido por película</td><td>Granule efervescente + comprimat filmat</td><td>Гранулы шипучие + таблетка, покрытая пленочной оболочкой</td><td>Šumivý granulát + filmom obalená tableta</td><td>Šumeča zrnca + filmsko obložena tableta</td><td>Šumeće granule + film tableta</td><td>Brusgranulat + filmdragerad tablett</td><td>Fışırdayan granül + film kaplı tablet</td></tr><tr><td>14007000</td><td>Ефервесцентна таблетка + филмирана таблетка</td><td></td><td>Šumivá tableta + potahovaná tableta</td><td></td><td>Brausetablette und Filmtablette</td><td>Αναβράζον δισκίο +  επικαλυμμένο με λεπτό υμένιο δισκίο</td><td>Comprimido efervescente + comprimido recubierto con película</td><td>Kihisev tablett + õhukese polümeerikattega tablett</td><td>Poretabletti + kalvopäällysteinen tabletti</td><td>Comprimé effervescent + comprimé pelliculé</td><td>Táibléad broidearnúil + táibléad sceobhrataithe</td><td>Šumeća tableta + filmom obložena tableta</td><td>Freyðitafla + filmuhúðuð tafla</td><td>Compressa effervescente + compressa rivestita con film</td><td>Šnypščioji tabletė ir plėvele dengta tabletė</td><td>Putojošā tablete + apvalkotā tablete</td><td>Bruistablet + filmomhulde tablet</td><td>Brusetablett + tablett, filmdrasjert</td><td>Tabletka musująca + tabletka powlekana</td><td>Comprimido efervescente + comprimido revestido por película</td><td>Comprimat efervescent + comprimat filmat</td><td>Таблетка шипучая + таблетка, покрытая пленочной оболочкой</td><td>Šumivá tableta + filmom obalená tableta</td><td>Šumeča tableta + filmsko obložena tableta</td><td>Šumeća tableta + film tableta</td><td>Brustablett + filmdragerad tablett</td><td>Fışırdayan tablet + film kaplı tablet</td></tr><tr><td>14008000</td><td>Таблетка + вагинална таблетка</td><td></td><td>Tableta + vaginální tableta</td><td>Tablet + Vaginaltablet</td><td>Tablette und Vaginaltablette</td><td>Δισκίο + κολπικό δισκίο</td><td>Comprimido + comprimido vaginal</td><td>Tablett + vaginaaltablett</td><td>Tabletti + emätinpuikko, tabletti</td><td>Comprimé + comprimé vaginal</td><td>Táibléad + táibléad faighne</td><td>Tableta + tableta za rodnicu</td><td>Tafla + leggangatafla</td><td>Compressa + compressa vaginale</td><td>Tabletė ir makšties tabletė</td><td>Tablete + vaginālā tablete</td><td>Tablet + tablet voor vaginaal gebruik</td><td>Tablett + vaginaltablett</td><td>Tabletka + tabletka dopochwowa</td><td>Comprimido + comprimido vaginal</td><td>Comprimat + comprimat vaginal</td><td>Таблетка + таблетка вагинальная</td><td>Tableta + vaginálna tableta</td><td>Tableta + vaginalna tableta</td><td>Tableta + vaginalna tableta</td><td>Tablett + vaginaltablett</td><td>Tablet + vajinal tablet</td></tr><tr><td>14009000</td><td>Крем + вагинална капсула, мека</td><td></td><td>Krém + měkká vaginální tobolka</td><td>Creme + vaginalkapsel, blød</td><td>Creme und Weichkapsel zur vaginalen Anwendung</td><td>Κρέμα + κολπικό καψάκιο, μαλακό</td><td>Crema + cápsula vaginal blanda</td><td>Kreem + vaginaalpehmekapsel</td><td>Emulsiovoide + emätinpuikko, kapseli, pehmeä</td><td>Crème + capsule molle vaginale</td><td>Uachtar + capsúl faighne, bog</td><td>Krema + kapsula za rodnicu, meka</td><td>Krem + mjúkt leggangahylki</td><td>Crema + capsula molle vaginale</td><td>Kremas ir makšties minkštoji kapsulė</td><td>Krēms + vaginālā kapsula, mīkstā</td><td>Crème + capsule voor vaginaal gebruik, zacht</td><td>Krem + vaginalkapsel, myk</td><td>Krem + kapsułka dopochwowa, miękka</td><td>Creme + cápsula mole vaginal</td><td>Cremă + capsulă moale vaginală</td><td>Крем + капсула вагинальная, мягкая</td><td>Krém + mäkká vaginálna kapsula</td><td>Krema + vaginalna kapsula, mehka</td><td>Krem + vaginalna kapsula, meka</td><td>Kräm + vaginalkapsel, mjuk</td><td>Krem + vajinal kapsül, yumuşak</td></tr><tr><td>14010000</td><td>Крем + вагинална таблетка</td><td></td><td>Krém + vaginální tableta</td><td>Creme + vaginaltablet</td><td>Creme und Vaginaltablette</td><td>Κρέμα + κολπικό δισκίο</td><td>Crema + comprimido vaginal</td><td>Kreem + vaginaaltablett</td><td>Emulsiovoide + emätinpuikko, tabletti</td><td>Crème + comprimé vaginal</td><td>Uachtar + táibléad faighne</td><td>Krema + tableta za rodnicu</td><td>Krem + leggangatafla</td><td>Crema + compressa vaginale</td><td>Kremas ir makšties tabletė</td><td>Krēms + vaginālā tablete</td><td>Crème + tablet voor vaginaal gebruik</td><td>Krem + vaginaltablett</td><td>Krem + tabletka dopochwowa</td><td>Creme + comprimido vaginal</td><td>Cremă + comprimat vaginal</td><td>Крем + таблетка вагинальная</td><td>Krém + vaginálna tableta</td><td>Krema + vaginalna tableta</td><td>Krem + vaginalna tableta</td><td>Kräm + vaginaltablett</td><td>Krem + vajinal tablet</td></tr><tr><td>14011000</td><td>Филмирана таблетка + песар</td><td>Filmom obložena tableta + vagitorija</td><td>Potahovaná tableta  + vaginální kulička</td><td>Filmovertrukket tablet + vagitorie</td><td>Filmtablette und Vaginalzäpfchen</td><td>Επικαλυμμένο με λεπτό υμένιο δισκίο + κολπικό υπόθετο</td><td>Comprimido recubierto con película + óvulo</td><td>Õhukese polümeerikattega tablett + vaginaalsuposiit</td><td>Tabletti, kalvopäällysteinen + emätinpuikko</td><td></td><td>Táibléad sceobhrataithe + peasaire</td><td>Filmom obložena tableta + vagitorij</td><td>Filmuhúðuð tafla + leggangastíll</td><td>Compressa rivestita con film + ovulo</td><td>Plėvele dengta tabletė ir ovulė</td><td>Apvalkotā tablete + pesārijs</td><td>Filmomhulde tablet + ovule</td><td>Tablett, filmdrasjert + vagitorie</td><td>Tabletka powlekana + globulka</td><td>Comprimido revestido por película + óvulo</td><td>Comprimat filmat + ovul</td><td>Таблетка, покрытая пленочной оболочкой, + пессарий</td><td></td><td>Filmsko obložena tableta + vaginalna globula</td><td>Film tableta + vagitorija</td><td>Filmdragerad tablett + vagitorium</td><td></td></tr><tr><td>14012000</td><td>Капсула, мека + таблетка</td><td>Kapsula, meka + tableta</td><td>Měkká tobolka + tableta</td><td>Kapsel, blød + tablet</td><td>Weichkapsel und Tablette</td><td></td><td>Cápsula blanda + comprimido</td><td>Pehmekapsel + tablett</td><td>Kapseli, pehmeä + tabletti</td><td></td><td>Capsúl, bog + táibléad</td><td>Kapsula, meka + tableta</td><td>Mjúkt hylki + tafla</td><td>Capsula molle + compressa</td><td>Minkštoji kapsulė ir tabletė</td><td>Kapsula, mīkstā + tablete</td><td>Capsule, zacht + tablet</td><td>Kapsel, myk + tablett</td><td>Kapsułka, miękka + tabletka</td><td>Cápsula mole + comprimido</td><td>Capsulă moale + comprimat</td><td>Капсула, мягкая + таблетка</td><td>Mäkká kapsula + tableta</td><td>Kapsula, mehka + tableta</td><td>Kapsula, meka + tableta</td><td>Kapsel, mjuk + tablett</td><td></td></tr><tr><td>14013000</td><td>Капсула, твърда + таблетка</td><td>Kapsula, tvrda + tableta</td><td>Tvrdá tobolka + tableta</td><td>Kapsel, hård + tablet</td><td>Hartkapsel und Tablette</td><td></td><td>Cápsula dura + comprimido</td><td>Kõvakapsel + tablett</td><td>Kapseli, kova + tabletti</td><td></td><td>Capsúl, crua + táibléad</td><td>Kapsula, tvrda + tableta</td><td>Hart hylki + tafla</td><td>Capsula rigida + compressa</td><td>Kietoji kapsulė ir tabletė</td><td>Kapsula, cietā + tablete</td><td>Capsule, hard + tablet</td><td>Kapsel, hard + tablett</td><td>Kapsułka, twarda + tabletka</td><td>Cápsula + comprimido</td><td>Capsulă + comprimat</td><td>Капсула, твердая + таблетка</td><td>Tvrdá kapsula + tableta</td><td>Kapsula, trda + tableta</td><td>Kapsula, tvrda + tableta</td><td>Kapsel, hård + tablett</td><td></td></tr><tr><td>14014000</td><td>Филмирана таблетка + таблетка</td><td>Filmom obložena tableta + tableta</td><td>Potahovaná tableta  + tableta</td><td>Filmovertrukket tablet + tablet</td><td>Filmtablette und Tablette</td><td></td><td>Comprimido recubierto con película + comprimido</td><td>Õhukese polümeerikattega tablett + tablett</td><td>Tabletti, kalvopäällysteinen + tabletti</td><td></td><td>Táibléad sceobhrataithe + táibléad</td><td>Filmom obložena tableta + tableta</td><td>Filmuhúðuð tafla + tafla</td><td>Compressa rivestita con film + compressa</td><td>Plėvele dengta tabletė ir tabletė</td><td>Apvalkotā tablete + tablete</td><td>Filmomhulde tablet + tablet</td><td>Tablett, filmdrasjert + tablett</td><td>Tabletka powlekana + tabletka</td><td>Comprimido revestido por película + comprimido</td><td>Comprimat filmat + comprimat</td><td>Таблетка, покрытая пленочной оболочкой, + таблетка</td><td>Filmom obalená tableta + tableta</td><td>Filmsko obložena tableta + tableta</td><td>Film tableta + tableta</td><td>Filmdragerad tablett + tablett</td><td></td></tr><tr><td>14015000</td><td>Маз + вагинална таблетка</td><td></td><td>Mast + vaginální tableta</td><td></td><td></td><td></td><td>Pomada + comprimido vaginal</td><td>Salv + vaginaaltablett</td><td>Voide + emätinpuikko, tabletti</td><td></td><td>Ungadh + táibléad faighne</td><td>Mast + tableta za rodnicu</td><td>Smyrsli + leggangatafla</td><td>Unguento + compressa vaginale</td><td>Tepalas ir makšties tabletė</td><td></td><td>Zalf + tablet voor vaginaal gebruik</td><td>Salve + vaginaltablett</td><td>Maść + tabletka dopochwowa</td><td>Pomada + Comprimido vaginal</td><td></td><td>Мазь + таблетка вагинальная</td><td></td><td>Mazilo + vaginalna tableta</td><td></td><td>Salva + vaginaltablett</td><td></td></tr><tr><td>14016000</td><td>Ефервесцентни гранули + стомашно-устойчива таблетка</td><td></td><td>Šumivé granule + enterosolventní tableta</td><td></td><td></td><td></td><td>Granulado efervescente + Comprimido gastrorresistente</td><td>Kihisevad graanulid + gastroresistentne tablett</td><td>Porerakeet + enterotabletti</td><td>Granulés effervescents + comprimé gastrorésistant</td><td>Gráinníní broidearnúla + táibléad gastraifhriotaíoch</td><td>Šumeće granule + želučanootporna tableta</td><td>Freyðikyrni + magasýruþolin tafla</td><td>Granulato effervescente + compressa gastroresistente</td><td>Šnypščiosios granulės ir skrandyje neiri tabletė</td><td></td><td>Bruisgranulaat + maagsapresistente tablet</td><td>Brusegranulat + enterotablett</td><td>Granulat musujący + tabletka dojelitowa</td><td>Granulado efervescente + comprimido gastrorresistente</td><td></td><td>Гранулы шипучие + таблетки кишечнорастворимые</td><td></td><td>Šumeča zrnca + gastrorezistentna tableta</td><td></td><td>Brusgranulat + enterotablett</td><td></td></tr><tr><td>14017000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Silmatilgad, lahus + silmasalv</td><td>Silmätipat, liuos + silmävoide</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Oogdruppels, oplossing + oogzalf</td><td>Øyedråper, oppløsning + øyesalve</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Ögondroppar, lösning + ögonsalva</td><td></td></tr></table></div>"
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>14001000</td><td>Cream + pessary</td></tr><tr><td>14002000</td><td>Cutaneous solution + medicated sponge</td></tr><tr><td>14003000</td><td>Gastro-resistant tablet + rectal suspension</td></tr><tr><td>14004000</td><td>Vaginal capsule, soft + vaginal cream</td></tr><tr><td>14005000</td><td>Vaginal cream + vaginal tablet</td></tr><tr><td>14006000</td><td>Effervescent granules + film-coated tablet</td></tr><tr><td>14007000</td><td>Effervescent tablet + film-coated tablet</td></tr><tr><td>14008000</td><td>Tablet + vaginal tablet</td></tr><tr><td>14009000</td><td>Cream + vaginal capsule, soft</td></tr><tr><td>14010000</td><td>Cream + vaginal tablet</td></tr><tr><td>14011000</td><td>Film-coated tablet + pessary</td></tr><tr><td>14012000</td><td>Capsule, soft + tablet</td></tr><tr><td>14013000</td><td>Capsule, hard + tablet</td></tr><tr><td>14014000</td><td>Film-coated tablet + tablet</td></tr><tr><td>14015000</td><td>Ointment + vaginal tablet</td></tr><tr><td>14016000</td><td>Effervescent granules + gastro-resistant tablet</td></tr><tr><td>14017000</td><td>Eye drops, solution + eye ointment</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>Deutsch (German, de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (es)</b></td><td><b>French (fr)</b></td><td><b>Italian (it)</b></td><td><b>Portuguese (pt)</b></td></tr><tr><td>14001000</td><td>Creme und Vaginalzäpfchen</td><td>Κρέμα +  Κολπικό υπόθετο</td><td>Crema + óvulo</td><td>Crème + ovule</td><td>Crema + ovulo</td><td>Creme + óvulo</td></tr><tr><td>14002000</td><td></td><td>Δερματικό διάλυμα + Σπόγγος φαρμακούχος</td><td>Solución cutánea + esponja medicamentosa</td><td>Solution cutanée + éponge médicamenteuse</td><td>Soluzione cutanea + spugna medicata</td><td>Solução cutânea + esponja medicamentosa</td></tr><tr><td>14003000</td><td>Magensaftresistente Tablette und Rektalsuspension</td><td>Γαστροανθεκτικό δισκίο + Ορθικό εναιώρημα</td><td>Comprimido gastrorresistente + suspensión rectal</td><td>Comprimé gastrorésistant + suspension rectale</td><td>Compressa gastroresistente + sospensione rettale</td><td>Comprimido gastrorresistente + suspensão retal</td></tr><tr><td>14004000</td><td>Weichkapsel zur vaginalen Anwendung und Vaginalcreme</td><td>Κολπικό καψάκιο, μαλακό + κολπική κρέμα</td><td>Cápsula blanda vaginal + crema vaginal</td><td>Capsule molle vaginale + crème vaginale</td><td>Capsula molle vaginale + crema vaginale</td><td>Cápsula mole vaginal + creme vaginal</td></tr><tr><td>14005000</td><td>Vaginalcreme und Vaginaltablette</td><td>Κολπική κρέμα + κολπικό δισκίο</td><td>Crema vaginal + comprimido vaginal</td><td>Crème vaginale + comprimé vaginal</td><td>Crema vaginale + compressa vaginale</td><td>Creme vaginal + comprimido vaginal</td></tr><tr><td>14006000</td><td>Brausegranulat und Filmtablette</td><td>Αναβράζοντα κοκκία + επικαλυμμένο με λεπτό υμένιο δισκίο</td><td>Granulado efervescente + comprimido recubierto con película</td><td>Granulés effervescents + comprimé pelliculé</td><td>Granulato effervescente + compressa rivestita con film</td><td>Granulado efervescente + comprimido revestido por película</td></tr><tr><td>14007000</td><td>Brausetablette und Filmtablette</td><td>Αναβράζον δισκίο +  επικαλυμμένο με λεπτό υμένιο δισκίο</td><td>Comprimido efervescente + comprimido recubierto con película</td><td>Comprimé effervescent + comprimé pelliculé</td><td>Compressa effervescente + compressa rivestita con film</td><td>Comprimido efervescente + comprimido revestido por película</td></tr><tr><td>14008000</td><td>Tablette und Vaginaltablette</td><td>Δισκίο + κολπικό δισκίο</td><td>Comprimido + comprimido vaginal</td><td>Comprimé + comprimé vaginal</td><td>Compressa + compressa vaginale</td><td>Comprimido + comprimido vaginal</td></tr><tr><td>14009000</td><td>Creme und Weichkapsel zur vaginalen Anwendung</td><td>Κρέμα + κολπικό καψάκιο, μαλακό</td><td>Crema + cápsula vaginal blanda</td><td>Crème + capsule molle vaginale</td><td>Crema + capsula molle vaginale</td><td>Creme + cápsula mole vaginal</td></tr><tr><td>14010000</td><td>Creme und Vaginaltablette</td><td>Κρέμα + κολπικό δισκίο</td><td>Crema + comprimido vaginal</td><td>Crème + comprimé vaginal</td><td>Crema + compressa vaginale</td><td>Creme + comprimido vaginal</td></tr><tr><td>14011000</td><td>Filmtablette und Vaginalzäpfchen</td><td>Επικαλυμμένο με λεπτό υμένιο δισκίο + κολπικό υπόθετο</td><td>Comprimido recubierto con película + óvulo</td><td></td><td>Compressa rivestita con film + ovulo</td><td>Comprimido revestido por película + óvulo</td></tr><tr><td>14012000</td><td>Weichkapsel und Tablette</td><td></td><td>Cápsula blanda + comprimido</td><td></td><td>Capsula molle + compressa</td><td>Cápsula mole + comprimido</td></tr><tr><td>14013000</td><td>Hartkapsel und Tablette</td><td></td><td>Cápsula dura + comprimido</td><td></td><td>Capsula rigida + compressa</td><td>Cápsula + comprimido</td></tr><tr><td>14014000</td><td>Filmtablette und Tablette</td><td></td><td>Comprimido recubierto con película + comprimido</td><td></td><td>Compressa rivestita con film + compressa</td><td>Comprimido revestido por película + comprimido</td></tr><tr><td>14015000</td><td></td><td></td><td>Pomada + comprimido vaginal</td><td></td><td>Unguento + compressa vaginale</td><td>Pomada + Comprimido vaginal</td></tr><tr><td>14016000</td><td></td><td></td><td>Granulado efervescente + Comprimido gastrorresistente</td><td>Granulés effervescents + comprimé gastrorésistant</td><td>Granulato effervescente + compressa gastroresistente</td><td>Granulado efervescente + comprimido gastrorresistente</td></tr><tr><td>14017000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></div>"
   },
-  "url" : "learning-ig.censacrof.github.com/ValueSet/combination-pack",
+  "url" : "http://learning-ig.censacrof.github.com/ValueSet/combination-pack",
   "version" : "0.1.0",
   "name" : "CombinationPack",
   "title" : "Combination pack",
   "status" : "active",
   "experimental" : false,
-  "date" : "2022-12-15T15:54:12+00:00",
+  "date" : "2022-12-20T11:58:14+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
@@ -29,1621 +29,401 @@
         "code" : "14001000",
         "display" : "Cream + pessary",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Крем + песар"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Krém + vaginální kulička"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Creme und Vaginalzäpfchen"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κρέμα +  Κολπικό υπόθετο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Crema + óvulo"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kreem + vaginaalsuposiit"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emulsiovoide + emätinpuikko"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Crème + ovule"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Uachtar + peasaire"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Krema + vagitorij"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Krem + leggangastíll"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Crema + ovulo"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Kremas ir ovulė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Krēms+pesārijs"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Crème + ovule"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Krem + vagitorie"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Krem + globulka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Creme + óvulo"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Cremă + ovul"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крем + пессарий"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Krém + vaginálna guľôčka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Krema + vaginalna globula"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Krem + vagitorija"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kräm+ vagitorium"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Krem + ovül"
         }]
       },
       {
         "code" : "14002000",
         "display" : "Cutaneous solution + medicated sponge",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Разтвор за кожа + лечебна гъба"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Kožní roztok + léčivá hubka"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δερματικό διάλυμα + Σπόγγος φαρμακούχος"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Solución cutánea + esponja medicamentosa"
         },
         {
-          "language" : "et-EE",
-          "value" : "Nahalahus + ravimkäsn"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Liuos iholle + lääketyyny"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Solution cutanée + éponge médicamenteuse"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Tuaslagán craicneach + spúinse íocleasaithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Otopina za kožu + ljekovita spužvica"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Húðlausn + lyfjasvampur"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Soluzione cutanea + spugna medicata"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Odos tirpalas ir vaistinė kempinė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Uz ādas lietojams šķīdums + ārstnieciskais sūklis"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Oplossing voor cutaan gebruik + medicinale spons"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Liniment, oppløsning + medisinert svamp"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Roztwór na skórę + gąbka lecznicza"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Solução cutânea + esponja medicamentosa"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Soluție cutanată + burete medicamentos"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Раствор накожный + губка лекарственная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Dermálny roztok + liečivá hubka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Dermalna raztopina + zdravilna gobica"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Rastvor za kožu + lekoviti sunđer"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kutan lösning + medicinerad svamp"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Deri çözeltisi + tıbbi sünger"
         }]
       },
       {
         "code" : "14003000",
         "display" : "Gastro-resistant tablet + rectal suspension",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Стомашно-устойчива таблетка + ректална суспензия"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Enterosolventní tableta + rektální suspenze"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Magensaftresistente Tablette und Rektalsuspension"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Γαστροανθεκτικό δισκίο + Ορθικό εναιώρημα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Comprimido gastrorresistente + suspensión rectal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Gastroresistentne tablett + rektaalsuspensioon"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Enterotabletti + peräruiskesuspensio"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Comprimé gastrorésistant + suspension rectale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Táibléad gastraifhriotaíoch + fuaidreán reicteach"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Želučanootporna tableta + rektalna suspenzija"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Magasýruþolin tafla + endaþarmsdreifa"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Compressa gastroresistente + sospensione rettale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Skrandyje neiri tabletė ir tiesiosios žarnos suspensija"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Zarnās šķīstošā tablete + rektālā suspensija"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Maagsapresistente tablet + suspensie voor rectaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Enterotablett + rektalvæske, suspensjon"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tabletka dojelitowa + zawiesina doodbytnicza"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Comprimido gastrorresistente + suspensão retal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Comprimat gastrorezistent + suspensie rectală"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Таблетка кишечнорастворимая + суспензия ректальная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Gastrorezistentná tableta + rektálna suspenzia"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Gastrorezistentna tableta + rektalna suspenzija"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Gastrorezistentna tableta + rektalna suspenzija"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Enterotablett + rektalsuspension"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Midede dayanıklı tablet + makattan süspansiyon"
         }]
       },
       {
         "code" : "14004000",
         "display" : "Vaginal capsule, soft + vaginal cream",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Вагинална капсула, мека + вагинален крем"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Měkká vaginální tobolka + vaginální krém"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Weichkapsel zur vaginalen Anwendung und Vaginalcreme"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κολπικό καψάκιο, μαλακό + κολπική κρέμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cápsula blanda vaginal + crema vaginal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Vaginaalpehmekapsel + vaginaalkreem"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emätinpuikko, pehmeä kapseli + emätinemulsiovoide"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Capsule molle vaginale + crème vaginale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Capsúl faighne, bog + uachtar faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kapsula za rodnicu, meka + krema za rodnicu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mjúkt leggangahylki + leggangakrem"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Capsula molle vaginale + crema vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Makšties minkštoji kapsulė ir makšties kremas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Vaginālā kapsula, mīkstā + vaginālais krēms"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Capsule voor vaginaal gebruik, zacht + crème voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Vaginalkapsel, myk + vaginalkrem"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Kapsułka dopochwowa, miękka + krem dopochwowy"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Cápsula mole vaginal + creme vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Capsulă moale vaginală + cremă vaginală"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Капсула вагинальная, мягкая + крем вагинальный"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Mäkká vaginálna kapsula + vaginálny krém"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Vaginalna kapsula, mehka + vaginalna krema"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Vaginalna kapsula, meka + vaginalni krem"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Vaginalkapsel, mjuk + vaginalkräm"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Vajinal kapsül, yumuşak + vajinal krem"
         }]
       },
       {
         "code" : "14005000",
         "display" : "Vaginal cream + vaginal tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Вагинален крем + вагинална таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Vaginální krém + vaginální tableta"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Vaginalcreme und Vaginaltablette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κολπική κρέμα + κολπικό δισκίο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Crema vaginal + comprimido vaginal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Vaginaalkreem + vaginaaltablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emätinemulsiovoide + emätinpuikko, tabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Crème vaginale + comprimé vaginal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Uachtar faighne + táibléad faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Krema za rodnicu + tableta za rodnicu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Leggangakrem + leggangatafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Crema vaginale + compressa vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Makšties kremas ir makšties tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Vaginālais krēms + vaginālā tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Crème voor vaginaal gebruik + tablet voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Vaginalkrem + vaginaltablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Krem dopochwowy + tabletka dopochwowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Creme vaginal + comprimido vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Cremă vaginală + comprimat vaginal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крем вагинальный + таблетка вагинальная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Vaginálny krém + vaginálna tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Vaginalna krema + vaginalna tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Vaginalni krem + vaginalna tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Vaginalkräm + vaginaltablett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Vajinal krem + vajinal tablet"
         }]
       },
       {
         "code" : "14006000",
         "display" : "Effervescent granules + film-coated tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Ефервесцентни гранули + филмирана таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Šumivé granule + potahovaná tableta"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Brausegranulat und Filmtablette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Αναβράζοντα κοκκία + επικαλυμμένο με λεπτό υμένιο δισκίο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Granulado efervescente + comprimido recubierto con película"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kihisevad graanulid + õhukese polümeerikattega tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Porerakeet + kalvopäällysteinen tabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Granulés effervescents + comprimé pelliculé"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gráinníní broidearnúla + táibléad sceobhrataithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Šumeće granule + filmom obložena tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Freyðikyrni + filmuhúðuð tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Granulato effervescente + compressa rivestita con film"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Šnypščiosios granulės ir plėvele dengta tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Putojošās granulas + apvalkotā tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Bruisgranulaat + filmomhulde tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Brusegranulat + tablett, filmdrasjert"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Granulat musujący + tabletka powlekana"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Granulado efervescente + comprimido revestido por película"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Granule efervescente + comprimat filmat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Гранулы шипучие + таблетка, покрытая пленочной оболочкой"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Šumivý granulát + filmom obalená tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Šumeča zrnca + filmsko obložena tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Šumeće granule + film tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Brusgranulat + filmdragerad tablett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Fışırdayan granül + film kaplı tablet"
         }]
       },
       {
         "code" : "14007000",
         "display" : "Effervescent tablet + film-coated tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Ефервесцентна таблетка + филмирана таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Šumivá tableta + potahovaná tableta"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Brausetablette und Filmtablette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Αναβράζον δισκίο +  επικαλυμμένο με λεπτό υμένιο δισκίο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Comprimido efervescente + comprimido recubierto con película"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kihisev tablett + õhukese polümeerikattega tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Poretabletti + kalvopäällysteinen tabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Comprimé effervescent + comprimé pelliculé"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Táibléad broidearnúil + táibléad sceobhrataithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Šumeća tableta + filmom obložena tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Freyðitafla + filmuhúðuð tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Compressa effervescente + compressa rivestita con film"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Šnypščioji tabletė ir plėvele dengta tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Putojošā tablete + apvalkotā tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Bruistablet + filmomhulde tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Brusetablett + tablett, filmdrasjert"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tabletka musująca + tabletka powlekana"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Comprimido efervescente + comprimido revestido por película"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Comprimat efervescent + comprimat filmat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Таблетка шипучая + таблетка, покрытая пленочной оболочкой"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Šumivá tableta + filmom obalená tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Šumeča tableta + filmsko obložena tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Šumeća tableta + film tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Brustablett + filmdragerad tablett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Fışırdayan tablet + film kaplı tablet"
         }]
       },
       {
         "code" : "14008000",
         "display" : "Tablet + vaginal tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Таблетка + вагинална таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Tableta + vaginální tableta"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Tablet + Vaginaltablet"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Tablette und Vaginaltablette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δισκίο + κολπικό δισκίο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Comprimido + comprimido vaginal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Tablett + vaginaaltablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tabletti + emätinpuikko, tabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Comprimé + comprimé vaginal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Táibléad + táibléad faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Tableta + tableta za rodnicu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Tafla + leggangatafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Compressa + compressa vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Tabletė ir makšties tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Tablete + vaginālā tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Tablet + tablet voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Tablett + vaginaltablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tabletka + tabletka dopochwowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Comprimido + comprimido vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Comprimat + comprimat vaginal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Таблетка + таблетка вагинальная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Tableta + vaginálna tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Tableta + vaginalna tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Tableta + vaginalna tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Tablett + vaginaltablett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Tablet + vajinal tablet"
         }]
       },
       {
         "code" : "14009000",
         "display" : "Cream + vaginal capsule, soft",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Крем + вагинална капсула, мека"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Krém + měkká vaginální tobolka"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Creme + vaginalkapsel, blød"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Creme und Weichkapsel zur vaginalen Anwendung"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κρέμα + κολπικό καψάκιο, μαλακό"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Crema + cápsula vaginal blanda"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kreem + vaginaalpehmekapsel"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emulsiovoide + emätinpuikko, kapseli, pehmeä"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Crème + capsule molle vaginale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Uachtar + capsúl faighne, bog"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Krema + kapsula za rodnicu, meka"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Krem + mjúkt leggangahylki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Crema + capsula molle vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Kremas ir makšties minkštoji kapsulė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Krēms + vaginālā kapsula, mīkstā"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Crème + capsule voor vaginaal gebruik, zacht"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Krem + vaginalkapsel, myk"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Krem + kapsułka dopochwowa, miękka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Creme + cápsula mole vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Cremă + capsulă moale vaginală"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крем + капсула вагинальная, мягкая"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Krém + mäkká vaginálna kapsula"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Krema + vaginalna kapsula, mehka"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Krem + vaginalna kapsula, meka"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kräm + vaginalkapsel, mjuk"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Krem + vajinal kapsül, yumuşak"
         }]
       },
       {
         "code" : "14010000",
         "display" : "Cream + vaginal tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Крем + вагинална таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Krém + vaginální tableta"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Creme + vaginaltablet"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Creme und Vaginaltablette"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κρέμα + κολπικό δισκίο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Crema + comprimido vaginal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kreem + vaginaaltablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emulsiovoide + emätinpuikko, tabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Crème + comprimé vaginal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Uachtar + táibléad faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Krema + tableta za rodnicu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Krem + leggangatafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Crema + compressa vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Kremas ir makšties tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Krēms + vaginālā tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Crème + tablet voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Krem + vaginaltablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Krem + tabletka dopochwowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Creme + comprimido vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Cremă + comprimat vaginal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Крем + таблетка вагинальная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Krém + vaginálna tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Krema + vaginalna tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Krem + vaginalna tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kräm + vaginaltablett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Krem + vajinal tablet"
         }]
       },
       {
         "code" : "14011000",
         "display" : "Film-coated tablet + pessary",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Филмирана таблетка + песар"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Filmom obložena tableta + vagitorija"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Potahovaná tableta  + vaginální kulička"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Filmovertrukket tablet + vagitorie"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Filmtablette und Vaginalzäpfchen"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Επικαλυμμένο με λεπτό υμένιο δισκίο + κολπικό υπόθετο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Comprimido recubierto con película + óvulo"
         },
         {
-          "language" : "et-EE",
-          "value" : "Õhukese polümeerikattega tablett + vaginaalsuposiit"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tabletti, kalvopäällysteinen + emätinpuikko"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Táibléad sceobhrataithe + peasaire"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Filmom obložena tableta + vagitorij"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Filmuhúðuð tafla + leggangastíll"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Compressa rivestita con film + ovulo"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Plėvele dengta tabletė ir ovulė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Apvalkotā tablete + pesārijs"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Filmomhulde tablet + ovule"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Tablett, filmdrasjert + vagitorie"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tabletka powlekana + globulka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Comprimido revestido por película + óvulo"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Comprimat filmat + ovul"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Таблетка, покрытая пленочной оболочкой, + пессарий"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Filmsko obložena tableta + vaginalna globula"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Film tableta + vagitorija"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Filmdragerad tablett + vagitorium"
         }]
       },
       {
         "code" : "14012000",
         "display" : "Capsule, soft + tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Капсула, мека + таблетка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Kapsula, meka + tableta"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Měkká tobolka + tableta"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Kapsel, blød + tablet"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Weichkapsel und Tablette"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cápsula blanda + comprimido"
         },
         {
-          "language" : "et-EE",
-          "value" : "Pehmekapsel + tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kapseli, pehmeä + tabletti"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Capsúl, bog + táibléad"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kapsula, meka + tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mjúkt hylki + tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Capsula molle + compressa"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Minkštoji kapsulė ir tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Kapsula, mīkstā + tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Capsule, zacht + tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Kapsel, myk + tablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Kapsułka, miękka + tabletka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Cápsula mole + comprimido"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Capsulă moale + comprimat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Капсула, мягкая + таблетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Mäkká kapsula + tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Kapsula, mehka + tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Kapsula, meka + tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kapsel, mjuk + tablett"
         }]
       },
       {
         "code" : "14013000",
         "display" : "Capsule, hard + tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Капсула, твърда + таблетка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Kapsula, tvrda + tableta"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Tvrdá tobolka + tableta"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Kapsel, hård + tablet"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Hartkapsel und Tablette"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cápsula dura + comprimido"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kõvakapsel + tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kapseli, kova + tabletti"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Capsúl, crua + táibléad"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kapsula, tvrda + tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Hart hylki + tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Capsula rigida + compressa"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Kietoji kapsulė ir tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Kapsula, cietā + tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Capsule, hard + tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Kapsel, hard + tablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Kapsułka, twarda + tabletka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Cápsula + comprimido"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Capsulă + comprimat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Капсула, твердая + таблетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Tvrdá kapsula + tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Kapsula, trda + tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Kapsula, tvrda + tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kapsel, hård + tablett"
         }]
       },
       {
         "code" : "14014000",
         "display" : "Film-coated tablet + tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Филмирана таблетка + таблетка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Filmom obložena tableta + tableta"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Potahovaná tableta  + tableta"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Filmovertrukket tablet + tablet"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Filmtablette und Tablette"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Comprimido recubierto con película + comprimido"
         },
         {
-          "language" : "et-EE",
-          "value" : "Õhukese polümeerikattega tablett + tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tabletti, kalvopäällysteinen + tabletti"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Táibléad sceobhrataithe + táibléad"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Filmom obložena tableta + tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Filmuhúðuð tafla + tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Compressa rivestita con film + compressa"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Plėvele dengta tabletė ir tabletė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Apvalkotā tablete + tablete"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Filmomhulde tablet + tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Tablett, filmdrasjert + tablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tabletka powlekana + tabletka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Comprimido revestido por película + comprimido"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Comprimat filmat + comprimat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Таблетка, покрытая пленочной оболочкой, + таблетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Filmom obalená tableta + tableta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Filmsko obložena tableta + tableta"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Film tableta + tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Filmdragerad tablett + tablett"
         }]
       },
       {
         "code" : "14015000",
         "display" : "Ointment + vaginal tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Маз + вагинална таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Mast + vaginální tableta"
-        },
-        {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pomada + comprimido vaginal"
         },
         {
-          "language" : "et-EE",
-          "value" : "Salv + vaginaaltablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Voide + emätinpuikko, tabletti"
-        },
-        {
-          "language" : "ga-EU",
-          "value" : "Ungadh + táibléad faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Mast + tableta za rodnicu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Smyrsli + leggangatafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Unguento + compressa vaginale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Tepalas ir makšties tabletė"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Zalf + tablet voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Salve + vaginaltablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Maść + tabletka dopochwowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Pomada + Comprimido vaginal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Мазь + таблетка вагинальная"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Mazilo + vaginalna tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Salva + vaginaltablett"
         }]
       },
       {
         "code" : "14016000",
         "display" : "Effervescent granules + gastro-resistant tablet",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Ефервесцентни гранули + стомашно-устойчива таблетка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Šumivé granule + enterosolventní tableta"
-        },
-        {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Granulado efervescente + Comprimido gastrorresistente"
         },
         {
-          "language" : "et-EE",
-          "value" : "Kihisevad graanulid + gastroresistentne tablett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Porerakeet + enterotabletti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Granulés effervescents + comprimé gastrorésistant"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gráinníní broidearnúla + táibléad gastraifhriotaíoch"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Šumeće granule + želučanootporna tableta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Freyðikyrni + magasýruþolin tafla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Granulato effervescente + compressa gastroresistente"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Šnypščiosios granulės ir skrandyje neiri tabletė"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Bruisgranulaat + maagsapresistente tablet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Brusegranulat + enterotablett"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Granulat musujący + tabletka dojelitowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Granulado efervescente + comprimido gastrorresistente"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Гранулы шипучие + таблетки кишечнорастворимые"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Šumeča zrnca + gastrorezistentna tableta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Brusgranulat + enterotablett"
         }]
       },
       {
         "code" : "14017000",
-        "display" : "Eye drops, solution + eye ointment",
-        "designation" : [{
-          "language" : "et-EE",
-          "value" : "Silmatilgad, lahus + silmasalv"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Silmätipat, liuos + silmävoide"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Oogdruppels, oplossing + oogzalf"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Øyedråper, oppløsning + øyesalve"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Ögondroppar, lösning + ögonsalva"
-        }]
+        "display" : "Eye drops, solution + eye ointment"
       }]
     }]
   }
