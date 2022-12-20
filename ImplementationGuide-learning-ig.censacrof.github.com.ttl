@@ -5,18 +5,18 @@
 
 # - resource -------------------------------------------------------------------
 
-<learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com> a fhir:ImplementationGuide;
+<http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com> a fhir:ImplementationGuide;
   fhir:nodeRole fhir:treeRoot;
   fhir:Resource.id [ fhir:value "learning-ig.censacrof.github.com"]; # 
   fhir:DomainResource.text [
      fhir:Narrative.status [ fhir:value "extensions" ];
-     fhir:Narrative.div "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>"
+     fhir:Narrative.div "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>"
   ]; # 
-  fhir:ImplementationGuide.url [ fhir:value "learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com"]; # 
+  fhir:ImplementationGuide.url [ fhir:value "http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com"]; # 
   fhir:ImplementationGuide.version [ fhir:value "0.1.0"]; # 
   fhir:ImplementationGuide.name [ fhir:value "learningig"]; # 
   fhir:ImplementationGuide.status [ fhir:value "draft"]; # 
-  fhir:ImplementationGuide.date [ fhir:value "2022-12-15T15:54:12+00:00"^^xsd:dateTime]; # 
+  fhir:ImplementationGuide.date [ fhir:value "2022-12-20T11:58:14+00:00"^^xsd:dateTime]; # 
   fhir:ImplementationGuide.publisher [ fhir:value "Example Publisher"]; # 
   fhir:ImplementationGuide.contact [
      fhir:index 0;
@@ -166,7 +166,7 @@
        ], [
          fhir:index 1;
          fhir:Extension.url [ fhir:value "value" ];
-         fhir:Extension.valueString [ fhir:value "learning-ig.censacrof.github.com/history.html" ]
+         fhir:Extension.valueString [ fhir:value "http://learning-ig.censacrof.github.com/history.html" ]
        ];
        fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter" ]
      ], [
@@ -454,7 +454,7 @@
        ], [
          fhir:index 1;
          fhir:Extension.url [ fhir:value "value" ];
-         fhir:Extension.valueString [ fhir:value "learning-ig.censacrof.github.com/history.html" ]
+         fhir:Extension.valueString [ fhir:value "http://learning-ig.censacrof.github.com/history.html" ]
        ];
        fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter" ]
      ], [
@@ -634,7 +634,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/Filter-label>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/Filter-label>;
          fhir:Reference.reference [ fhir:value "ValueSet/Filter-label" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "Filter-label" ];
@@ -648,7 +648,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/administration-device>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/administration-device>;
          fhir:Reference.reference [ fhir:value "ValueSet/administration-device" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "administration-device" ];
@@ -662,7 +662,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/administration-method>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/administration-method>;
          fhir:Reference.reference [ fhir:value "ValueSet/administration-method" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "administration-method" ];
@@ -676,7 +676,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/basic-dose-form>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/basic-dose-form>;
          fhir:Reference.reference [ fhir:value "ValueSet/basic-dose-form" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "basic-dose-form" ];
@@ -690,7 +690,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/closure>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/closure>;
          fhir:Reference.reference [ fhir:value "ValueSet/closure" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "closure" ];
@@ -704,7 +704,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/combination-pack>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/combination-pack>;
          fhir:Reference.reference [ fhir:value "ValueSet/combination-pack" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "combination-pack" ];
@@ -718,7 +718,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/combined-pharmaceutical-dose-form>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/combined-pharmaceutical-dose-form>;
          fhir:Reference.reference [ fhir:value "ValueSet/combined-pharmaceutical-dose-form" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "combined-pharmaceutical-dose-form" ];
@@ -732,7 +732,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/combined-term>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/combined-term>;
          fhir:Reference.reference [ fhir:value "ValueSet/combined-term" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "combined-term" ];
@@ -746,7 +746,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/container>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/container>;
          fhir:Reference.reference [ fhir:value "ValueSet/container" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "container" ];
@@ -760,7 +760,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/ehdsi-ucum-unit>;
          fhir:Reference.reference [ fhir:value "ValueSet/ehdsi-ucum-unit" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "ehdsi-ucum-unit" ];
@@ -774,7 +774,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/intended-site>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/intended-site>;
          fhir:Reference.reference [ fhir:value "ValueSet/intended-site" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "intended-site" ];
@@ -788,7 +788,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/mapping>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/mapping>;
          fhir:Reference.reference [ fhir:value "ValueSet/mapping" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "mapping" ];
@@ -802,7 +802,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/packaging-category>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/packaging-category>;
          fhir:Reference.reference [ fhir:value "ValueSet/packaging-category" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "packaging-category" ];
@@ -816,7 +816,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/patient-friendly-term>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/patient-friendly-term>;
          fhir:Reference.reference [ fhir:value "ValueSet/patient-friendly-term" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "patient-friendly-term" ];
@@ -830,7 +830,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/pharmaceutical-dose-form>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/pharmaceutical-dose-form>;
          fhir:Reference.reference [ fhir:value "ValueSet/pharmaceutical-dose-form" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "pharmaceutical-dose-form" ];
@@ -844,7 +844,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/release-characteristics>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/release-characteristics>;
          fhir:Reference.reference [ fhir:value "ValueSet/release-characteristics" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "release-characteristics" ];
@@ -858,7 +858,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/route-of-administration>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/route-of-administration>;
          fhir:Reference.reference [ fhir:value "ValueSet/route-of-administration" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "route-of-administration" ];
@@ -872,7 +872,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/state-of-matter>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/state-of-matter>;
          fhir:Reference.reference [ fhir:value "ValueSet/state-of-matter" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "state-of-matter" ];
@@ -886,7 +886,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/substance>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/substance>;
          fhir:Reference.reference [ fhir:value "ValueSet/substance" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "substance" ];
@@ -900,7 +900,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/transformation>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/transformation>;
          fhir:Reference.reference [ fhir:value "ValueSet/transformation" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "transformation" ];
@@ -914,7 +914,7 @@
          fhir:Extension.valueString [ fhir:value "ValueSet" ]
        ];
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <learning-ig.censacrof.github.com/ValueSet/unit-of-presentation>;
+         fhir:link <http://learning-ig.censacrof.github.com/ValueSet/unit-of-presentation>;
          fhir:Reference.reference [ fhir:value "ValueSet/unit-of-presentation" ]
        ];
        fhir:ImplementationGuide.definition.resource.name [ fhir:value "unit-of-presentation" ];
@@ -1007,7 +1007,7 @@
 
 # - ontology header ------------------------------------------------------------
 
-<learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com.ttl> a owl:Ontology;
+<http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com.ttl> a owl:Ontology;
   owl:imports fhir:fhir.ttl .
 
 # -------------------------------------------------------------------------------------

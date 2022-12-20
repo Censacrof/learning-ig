@@ -3,13 +3,13 @@
   "id" : "learning-ig.censacrof.github.com",
   "text" : {
     "status" : "extensions",
-    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>"
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>"
   },
-  "url" : "learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
+  "url" : "http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com",
   "version" : "0.1.0",
   "name" : "learningig",
   "status" : "draft",
-  "date" : "2022-12-15T15:54:12+00:00",
+  "date" : "2022-12-20T11:58:14+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
@@ -138,7 +138,7 @@
       },
       {
         "url" : "value",
-        "valueString" : "learning-ig.censacrof.github.com/history.html"
+        "valueString" : "http://learning-ig.censacrof.github.com/history.html"
       }],
       "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter"
     },
@@ -402,7 +402,7 @@
       },
       {
         "url" : "value",
-        "valueString" : "learning-ig.censacrof.github.com/history.html"
+        "valueString" : "http://learning-ig.censacrof.github.com/history.html"
       }],
       "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter"
     },

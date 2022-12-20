@@ -3,15 +3,15 @@
 <ValueSet xmlns="http://hl7.org/fhir">
   <id value="closure"/>
   <text>
-    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class="none"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13070000</td><td>Valve</td></tr><tr><td>13132000</td><td>Lid</td></tr><tr><td>30011000</td><td>Brush applicator</td></tr><tr><td>30013000</td><td>Cap</td></tr><tr><td>30015000</td><td>Child-resistant closure</td></tr><tr><td>30035000</td><td>Metering pump</td></tr><tr><td>30036000</td><td>Metering valve</td></tr><tr><td>30043000</td><td>Needle applicator</td></tr><tr><td>30047000</td><td>Pipette applicator</td></tr><tr><td>30056000</td><td>Screw cap</td></tr><tr><td>30061000</td><td>Spray pump</td></tr><tr><td>30062000</td><td>Spray valve</td></tr><tr><td>30064000</td><td>Stopper</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class="codes"><tr><td><b>Code</b></td><td><b>bg</b></td><td><b>bs</b></td><td><b>Czech (cs)</b></td><td><b>Dansk (Danish, da)</b></td><td><b>Deutsch (Deutschland) (German (Germany), de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (Spain) (es)</b></td><td><b>et</b></td><td><b>Finnish (fi)</b></td><td><b>French (France) (fr)</b></td><td><b>ga</b></td><td><b>Croatian (hr)</b></td><td><b>hu</b></td><td><b>is</b></td><td><b>Italian (Italy) (it)</b></td><td><b>kk</b></td><td><b>lt</b></td><td><b>lv</b></td><td><b>mk</b></td><td><b>mt</b></td><td><b>Nederlands (Nederland) (Dutch (Netherlands), nl)</b></td><td><b>Norwegian (Norway) (no)</b></td><td><b>Polskie (Polish, pl)</b></td><td><b>Portuguese (pt)</b></td><td><b>ro</b></td><td><b>Русский (Россия) (Russian (Russia), ru)</b></td><td><b>sk</b></td><td><b>sl</b></td><td><b>sq</b></td><td><b>Serbian (Serbia) (sr)</b></td><td><b>Swedish (Sweden) (sv)</b></td><td><b>tr</b></td><td><b>uk</b></td><td><b>中文 （中国） (Chinese (China), zh)</b></td></tr><tr><td>13070000</td><td>Вентил</td><td></td><td>Ventil</td><td>Ventil</td><td>Ventil</td><td>Βαλβίδα</td><td>Válvula</td><td>Klapp</td><td>Venttiili</td><td>Valve</td><td>Comhla</td><td>Ventil</td><td></td><td>Loki</td><td>Valvola</td><td></td><td>Vožtuvas</td><td>Vārsts</td><td></td><td></td><td>Ventiel</td><td>Ventil</td><td>Zawór</td><td>Válvula</td><td>Valvă</td><td>Клапан</td><td>Ventil</td><td>Ventil</td><td></td><td>Ventil</td><td>Ventil</td><td>Vana</td><td></td><td></td></tr><tr><td>13132000</td><td>Капак</td><td></td><td>Těsnící víčko</td><td></td><td>Verschlusskappe</td><td></td><td>Tapa a presión</td><td>Kaas</td><td>Kansi</td><td></td><td>Claibín</td><td>Poklopac</td><td></td><td>Lok</td><td>Coperchio di protezione</td><td></td><td>Dangtis</td><td>Vāks</td><td></td><td></td><td></td><td>Lokk</td><td>Pokrywa</td><td>Tampa de pressão</td><td></td><td></td><td></td><td>Pokrov</td><td></td><td></td><td>Snäpplock</td><td></td><td></td><td></td></tr><tr><td>30011000</td><td>Апликатор-четка</td><td>Zatvarač  sa četkicom</td><td>Štětečkový aplikátor</td><td>Penselindsats</td><td>Verschluss mit Pinsel</td><td>Ψυκτροφόρο πώμα</td><td>Pincel aplicador</td><td>pintselaplikaator</td><td>Sivellinasetin</td><td>Embout avec pinceau</td><td>Forchuradóir scuaibe</td><td>Zatvarač s četkicom</td><td>Ecsettelőfeltét</td><td>Pensillok</td><td>Tappo con applicatore a pennello</td><td>Шөтке-аппликатор</td><td>Aplikatorius su teptuku</td><td>aplikators ar sariņiem</td><td>Затворач со четкица</td><td>Applikatur forma ta' pinzell</td><td>Sluiting met penseel</td><td>Penselapplikator</td><td>Aplikator z pędzelkiem</td><td>Fecho com pincel</td><td>Sistem de închidere cu pensulă</td><td>Аппликатор-щетка</td><td>Štetcový aplikátor</td><td>Zaporka s čopičem</td><td>Aplikator për furçe</td><td>Zatvarač sa četkicom</td><td>Borsthuvud</td><td>Fırçalı aplikatör</td><td>Аплікатор з щіточкою</td><td>带刷瓶盖</td></tr><tr><td>30013000</td><td>Капачка</td><td>Zatvarač</td><td>Víčko</td><td>Låg</td><td>Schutzkappe</td><td>Πώμα</td><td>Cápsula de cierre</td><td>kork</td><td>Korkki</td><td>Opercule</td><td>Caipín</td><td>Kapica</td><td>Kupak</td><td>Lok</td><td>Capsula di chiusura</td><td>Қақпақ</td><td>Dangtelis</td><td>vāciņš</td><td>Затворач</td><td>Għatu</td><td>Dop</td><td>Lokk</td><td>Wieczko</td><td>Cápsula de fecho</td><td>Capac fără filet</td><td>Крышка</td><td>Viečko</td><td>zaporka</td><td>Kapak</td><td>Zatvarač</td><td>Lock</td><td>Kapak</td><td>Кришка</td><td>瓶盖</td></tr><tr><td>30015000</td><td>Защитена от деца запушалка</td><td>Sigurnosni zatvarač za djecu</td><td>Dětský bezpečnostní uzávěr</td><td>Børnesikret lukke</td><td>kindergesicherter Verschluss</td><td>Πώμα ασφαλείας για παιδιά</td><td>Cierre de seguridad a prueba de niños</td><td>lastekindel kork</td><td>Turvasuljin</td><td>Fermeture de sécurité enfant</td><td>Dúntóir sábháilteachta leanaí</td><td>Zatvarač siguran za djecu</td><td>Gyermekbiztos zárás</td><td>Barnaöryggislok</td><td>Chiusura a prova di bambino</td><td>Баладан қорғап жабу</td><td>Vaikų sunkiai atidaromas uždoris</td><td>bērniem neatverama aizdare</td><td>Детски сигурносен затворач</td><td>Għatu li ma jinfetaħx mit-tfal</td><td>Kindveilige sluiting</td><td>Barnesikret lukkeanordning</td><td>Zamknięcie zabezpieczające przed dostępem dzieci</td><td>Fecho resistente à abertura por crianças</td><td>Sistem de închidere securizat pentru copii</td><td>Укупорочный элемент недоступный для вскрытия детьми</td><td>Detský bezpečnostný uzáver</td><td>Za otroke varna zaporka</td><td>Mbyllje rezistente për fëmijë</td><td>Sigurnosni zatvarač za decu</td><td>Barnskyddande förslutning</td><td>Çocuk emniyetli kapak</td><td>Засіб недоступний для відкриття дітьми</td><td>儿童安全盖</td></tr><tr><td>30035000</td><td>Дозираща помпа</td><td></td><td>Dávkovací pumpa</td><td>Doseringspumpe</td><td>Dosierpumpe</td><td>Δοσιμετρική αντλία</td><td>Bomba dosificadora</td><td>mõõtepump</td><td>Annospumppu</td><td>Pompe doseuse</td><td>Caidéal méadraithe</td><td>Odmjerna pumpica</td><td>Adagolópumpa</td><td>Mælipumpa</td><td>Pompa dosatrice</td><td>Дозалайтын насос</td><td>Dozavimo pompa</td><td>dozējošais sūknis</td><td>Пумпа за дозирање</td><td>Pompa tal-kejl</td><td>Doseerpomp</td><td>Doseringspumpe</td><td>Pompka dozująca</td><td>Fecho com bomba doseadora</td><td>Pompă dozatoare</td><td>Насос дозирующий</td><td>Dávkovacia pumpa</td><td>Odmerna črpalka</td><td>Pompë dozuese</td><td>Pumpa za doziranje</td><td>Doseringspump</td><td>Ölçme pompası</td><td>Дозуючий насос</td><td>计量泵</td></tr><tr><td>30036000</td><td>Дозиращ вентил</td><td></td><td>Dávkovací ventil</td><td>Doseringsventil</td><td>Dosierventil</td><td>Δοσιμετρική βαλβίδα</td><td>Válvula dosificadora</td><td>mõõteklapp</td><td>Annosventtiili</td><td>Valve doseuse</td><td>Comhla méadraithe</td><td>Odmjerni ventil</td><td>Adagolószelep</td><td>Mæliloki</td><td>Valvola dosatrice</td><td>Дозалайтын бұранда</td><td>Dozavimo vožtuvas</td><td>Dozēšanas vārsts</td><td>Вентил за дозирање</td><td>Valv tal-kejl</td><td>Doseerventiel</td><td>Doseringsventil</td><td>Zawór dozujący</td><td>Fecho com válvula doseadora</td><td>Valvă dozatoare</td><td>Клапан дозирующий</td><td>Dávkovací ventil</td><td>Odmerni ventil</td><td>Valvol dozuese</td><td>Ventil za doziranje</td><td>Doseringsventil</td><td>ölçme valfı</td><td>Дозуючий клапан</td><td>计量阀</td></tr><tr><td>30043000</td><td>Апликатор-игла</td><td></td><td>Jehlový aplikátor</td><td>Applikator med nål</td><td>Verschluss mit Nadel</td><td>Σύστημα εφαρμογής με βελόνα</td><td>Cierre con aguja incorporada</td><td>nõelaplikaator</td><td>Neula-asetin</td><td>Embout avec aiguille</td><td>Forchuradóir snáthaide</td><td>Aplikator s iglom</td><td>Tűvel ellátott feltét</td><td>Nálarlok</td><td>Applicatore con ago</td><td>Ине-аппликатор</td><td>Aplikatorius su adata</td><td>aplikators ar adatu</td><td>Затворач со игла</td><td>Applikatur forma ta' labra</td><td>Sluiting met naald</td><td>Applikator med nål</td><td>Zamknięcie z igłą</td><td>Fecho com agulha</td><td>Sistem de închidere cu ac</td><td>Аппликатор-игла</td><td>Ihlový aplikátor</td><td>Zaporka z iglo</td><td>Aplikator për gjilpërë</td><td>Aplikator sa iglom</td><td>Ampin</td><td>Iğne aplikatörü</td><td>Аплікатор-голка</td><td>带针的瓶盖</td></tr><tr><td>30047000</td><td>Апликатор-пипета</td><td></td><td>Pipetový aplikátor</td><td>Pipetteindsats</td><td>Verschluss mit Pipette</td><td>Ογκομετρικό πώμα</td><td>Pipeta aplicadora</td><td>pipettaplikaator</td><td>Mittapipetti</td><td>Embout pipette</td><td>Forchuradóir pípéid</td><td>Zatvarač s pipetom</td><td>Pipettás zárókupak</td><td>Pìpettulok</td><td>Chiusura con pipetta</td><td>Тамшуыр-аппликатор</td><td>Aplikatorius su pipete</td><td>aplikators ar pipeti</td><td>Затворач со пипета</td><td>Applikatur forma ta' pipetta</td><td>Dop met pipet</td><td>Pipetteinnsats</td><td>Zamknięcie z pipetką</td><td>Fecho com pipeta</td><td>Sistem de închidere cu pipetă</td><td>Аппликатор-пипетка</td><td>Pipetový aplikátor</td><td>Zaporka z merilno kapalko</td><td>Aplikator pipete</td><td>Zatvarač sa pipetom</td><td>Pipettförslutning</td><td>Pipet aplikatörü</td><td>Аплікатор-піпетка</td><td>带滴管的瓶盖</td></tr><tr><td>30056000</td><td>Капачка на винт</td><td></td><td>Šroubovací uzávěr</td><td>Skruelåg</td><td>Schraubdeckel</td><td>Βιδωτό πώμα</td><td>Cierre de rosca</td><td>keeratav kork</td><td>Kierrekorkki</td><td>Bouchon à vis</td><td>Caipín scriú</td><td>Zatvarač s navojem</td><td>Csavaros kupak</td><td>Skrúflok</td><td>Tappo a vite</td><td>Бұрама қақпақ</td><td>Užsukamasis dangtelis</td><td>uzskrūvējams vāciņš</td><td>Навоен затворач</td><td>Għatu bil-kamin</td><td>Schroefdop</td><td>Skrulokk</td><td>Zakrętka</td><td>Fecho com rosca</td><td>Capac cu filet</td><td>Крышка навинчивающаяся</td><td>Uzáver so závitom</td><td>Navojna zaporka</td><td>Kapak me vidhë</td><td>Zatvarač sa navojem</td><td>Skruvlock</td><td>Vidalı kapak</td><td>Кришка, що нагвинчується</td><td>螺纹盖</td></tr><tr><td>30061000</td><td>Спрей помпа</td><td></td><td>Mechanický rozprašovač</td><td>Pumpespray</td><td>Sprühpumpe</td><td>Αντλία ψεκασμού</td><td>Bomba pulverizadora</td><td>spreipump</td><td>Sumutepumppu</td><td>Pompe pour pulvérisation</td><td>Spraechaidéal</td><td>pumpica raspršivača</td><td>Permetpumpa</td><td>Úðapumpa</td><td>Pompa spray</td><td>Бүріккіш насос</td><td>Purškalo pompa</td><td>mehāniskais izsmidzinātājs</td><td>Пумпа за распрскување</td><td>Sprej bil-pompa</td><td>Spraypomp</td><td>Spraypumpe</td><td>Pompka rozpylająca</td><td>Fecho com bomba nebulizadora</td><td>Pompă de pulverizare</td><td>Насос-спрей</td><td>Mechanický rozprašovač</td><td>zaporka z mehanskim pršilnikom</td><td>Pompë sprucuese</td><td>Sprej pumpa</td><td>Spraypump</td><td>Sprey pompası</td><td>Насос-спрей</td><td>喷雾泵</td></tr><tr><td>30062000</td><td>Спрей вентил</td><td></td><td>Kontinuální rozprašovací ventil</td><td>Sprayventil</td><td>Sprühventil</td><td>Βαλβίδα ψεκασμού</td><td>Válvula pulverizadora</td><td>spreiklapp</td><td>Sumuteventtiili</td><td>Valve</td><td>Spraechomhla</td><td>ventil raspršivača</td><td>Permetszelep</td><td>Úðaloki</td><td>Valvola spray</td><td>Бұрандалы бүріккіш</td><td>Purškalo vožtuvas</td><td>Aerosola vārsts</td><td>Вентил за распрскување</td><td>Sprej bil-valv</td><td>Sprayventiel</td><td>Sprayventil</td><td>Zawór rozpylający</td><td>Fecho com válvula nebulizadora</td><td>Valvă de pulverizare</td><td>Клапан-спрей</td><td>Ventil aerodisperzie</td><td>zaporka s pršilnim ventilom</td><td>Valvol sprucuese</td><td>Ventil za raspršivanje</td><td>Sprayventil</td><td>Sprey valfı</td><td>Клапан-спрей</td><td>喷雾阀</td></tr><tr><td>30064000</td><td>Запушалка</td><td></td><td>Zátka</td><td>Prop</td><td>Stopfen</td><td>Πώμα εισχώρησης</td><td>Tapón</td><td>Punnkork</td><td>Tulppa</td><td>Bouchon</td><td>Stopallán</td><td>čep</td><td>Dugó</td><td>Tappi</td><td>Tappo</td><td>Тығын</td><td>Kamštis</td><td>aizbāznis</td><td>Чеп</td><td>Tapp</td><td>Stop</td><td>Propp</td><td>Korek</td><td>Rolha</td><td>Dop</td><td>Пробка</td><td>Zátka</td><td>zamašek</td><td>Tapë</td><td>Čep</td><td>Propp</td><td>Tıpa</td><td>Пробка</td><td>瓶塞</td></tr></table></div>
+    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class="none"><tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13070000</td><td>Valve</td></tr><tr><td>13132000</td><td>Lid</td></tr><tr><td>30011000</td><td>Brush applicator</td></tr><tr><td>30013000</td><td>Cap</td></tr><tr><td>30015000</td><td>Child-resistant closure</td></tr><tr><td>30035000</td><td>Metering pump</td></tr><tr><td>30036000</td><td>Metering valve</td></tr><tr><td>30043000</td><td>Needle applicator</td></tr><tr><td>30047000</td><td>Pipette applicator</td></tr><tr><td>30056000</td><td>Screw cap</td></tr><tr><td>30061000</td><td>Spray pump</td></tr><tr><td>30062000</td><td>Spray valve</td></tr><tr><td>30064000</td><td>Stopper</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class="codes"><tr><td><b>Code</b></td><td><b>Deutsch (German, de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (es)</b></td><td><b>French (fr)</b></td><td><b>Italian (it)</b></td><td><b>Portuguese (pt)</b></td></tr><tr><td>13070000</td><td>Ventil</td><td>Βαλβίδα</td><td>Válvula</td><td>Valve</td><td>Valvola</td><td>Válvula</td></tr><tr><td>13132000</td><td>Verschlusskappe</td><td></td><td>Tapa a presión</td><td></td><td>Coperchio di protezione</td><td>Tampa de pressão</td></tr><tr><td>30011000</td><td>Verschluss mit Pinsel</td><td>Ψυκτροφόρο πώμα</td><td>Pincel aplicador</td><td>Embout avec pinceau</td><td>Tappo con applicatore a pennello</td><td>Fecho com pincel</td></tr><tr><td>30013000</td><td>Schutzkappe</td><td>Πώμα</td><td>Cápsula de cierre</td><td>Opercule</td><td>Capsula di chiusura</td><td>Cápsula de fecho</td></tr><tr><td>30015000</td><td>kindergesicherter Verschluss</td><td>Πώμα ασφαλείας για παιδιά</td><td>Cierre de seguridad a prueba de niños</td><td>Fermeture de sécurité enfant</td><td>Chiusura a prova di bambino</td><td>Fecho resistente à abertura por crianças</td></tr><tr><td>30035000</td><td>Dosierpumpe</td><td>Δοσιμετρική αντλία</td><td>Bomba dosificadora</td><td>Pompe doseuse</td><td>Pompa dosatrice</td><td>Fecho com bomba doseadora</td></tr><tr><td>30036000</td><td>Dosierventil</td><td>Δοσιμετρική βαλβίδα</td><td>Válvula dosificadora</td><td>Valve doseuse</td><td>Valvola dosatrice</td><td>Fecho com válvula doseadora</td></tr><tr><td>30043000</td><td>Verschluss mit Nadel</td><td>Σύστημα εφαρμογής με βελόνα</td><td>Cierre con aguja incorporada</td><td>Embout avec aiguille</td><td>Applicatore con ago</td><td>Fecho com agulha</td></tr><tr><td>30047000</td><td>Verschluss mit Pipette</td><td>Ογκομετρικό πώμα</td><td>Pipeta aplicadora</td><td>Embout pipette</td><td>Chiusura con pipetta</td><td>Fecho com pipeta</td></tr><tr><td>30056000</td><td>Schraubdeckel</td><td>Βιδωτό πώμα</td><td>Cierre de rosca</td><td>Bouchon à vis</td><td>Tappo a vite</td><td>Fecho com rosca</td></tr><tr><td>30061000</td><td>Sprühpumpe</td><td>Αντλία ψεκασμού</td><td>Bomba pulverizadora</td><td>Pompe pour pulvérisation</td><td>Pompa spray</td><td>Fecho com bomba nebulizadora</td></tr><tr><td>30062000</td><td>Sprühventil</td><td>Βαλβίδα ψεκασμού</td><td>Válvula pulverizadora</td><td>Valve</td><td>Valvola spray</td><td>Fecho com válvula nebulizadora</td></tr><tr><td>30064000</td><td>Stopfen</td><td>Πώμα εισχώρησης</td><td>Tapón</td><td>Bouchon</td><td>Tappo</td><td>Rolha</td></tr></table></div>
   </text>
-  <url value="learning-ig.censacrof.github.com/ValueSet/closure"/>
+  <url value="http://learning-ig.censacrof.github.com/ValueSet/closure"/>
   <version value="0.1.0"/>
   <name value="Closure"/>
   <title value="Closure"/>
   <status value="active"/>
   <experimental value="false"/>
-  <date value="2022-12-15T15:54:12+00:00"/>
+  <date value="2022-12-20T11:58:14+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>
@@ -29,1688 +29,356 @@
         <code value="13070000"/>
         <display value="Valve"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Вентил"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
+          <language value="de"/>
           <value value="Ventil"/>
         </designation>
         <designation>
-          <language value="da-DK"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Βαλβίδα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Válvula"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="Klapp"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Venttiili"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Valve"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Comhla"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Loki"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Valvola"/>
         </designation>
         <designation>
-          <language value="lt-LT"/>
-          <value value="Vožtuvas"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="Vārsts"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Ventiel"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zawór"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Válvula"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Valvă"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Клапан"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Ventil"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Vana"/>
         </designation>
       </concept>
       <concept>
         <code value="13132000"/>
         <display value="Lid"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Капак"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Těsnící víčko"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Verschlusskappe"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Tapa a presión"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="Kaas"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Kansi"/>
-        </designation>
-        <designation>
-          <language value="ga-EU"/>
-          <value value="Claibín"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Poklopac"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Lok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Coperchio di protezione"/>
         </designation>
         <designation>
-          <language value="lt-LT"/>
-          <value value="Dangtis"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="Vāks"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Lokk"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Pokrywa"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Tampa de pressão"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Pokrov"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Snäpplock"/>
         </designation>
       </concept>
       <concept>
         <code value="30011000"/>
         <display value="Brush applicator"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Апликатор-четка"/>
-        </designation>
-        <designation>
-          <language value="bs-BA"/>
-          <value value="Zatvarač  sa četkicom"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Štětečkový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Penselindsats"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Verschluss mit Pinsel"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Ψυκτροφόρο πώμα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Pincel aplicador"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="pintselaplikaator"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Sivellinasetin"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Embout avec pinceau"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Forchuradóir scuaibe"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Zatvarač s četkicom"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Ecsettelőfeltét"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Pensillok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Tappo con applicatore a pennello"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Шөтке-аппликатор"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Aplikatorius su teptuku"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="aplikators ar sariņiem"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Затворач со четкица"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Applikatur forma ta' pinzell"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Sluiting met penseel"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Penselapplikator"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Aplikator z pędzelkiem"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com pincel"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Sistem de închidere cu pensulă"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Аппликатор-щетка"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Štetcový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Zaporka s čopičem"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Aplikator për furçe"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Zatvarač sa četkicom"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Borsthuvud"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Fırçalı aplikatör"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Аплікатор з щіточкою"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="带刷瓶盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30013000"/>
         <display value="Cap"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Капачка"/>
-        </designation>
-        <designation>
-          <language value="bs-BA"/>
-          <value value="Zatvarač"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Víčko"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Låg"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Schutzkappe"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Πώμα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Cápsula de cierre"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="kork"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Korkki"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Opercule"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Caipín"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Kapica"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Kupak"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Lok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Capsula di chiusura"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Қақпақ"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Dangtelis"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="vāciņš"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Затворач"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Għatu"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Dop"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Lokk"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Wieczko"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Cápsula de fecho"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Capac fără filet"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Крышка"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Viečko"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="zaporka"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Kapak"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Zatvarač"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Lock"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Kapak"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Кришка"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="瓶盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30015000"/>
         <display value="Child-resistant closure"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Защитена от деца запушалка"/>
-        </designation>
-        <designation>
-          <language value="bs-BA"/>
-          <value value="Sigurnosni zatvarač za djecu"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Dětský bezpečnostní uzávěr"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Børnesikret lukke"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="kindergesicherter Verschluss"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Πώμα ασφαλείας για παιδιά"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Cierre de seguridad a prueba de niños"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="lastekindel kork"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Turvasuljin"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Fermeture de sécurité enfant"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Dúntóir sábháilteachta leanaí"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Zatvarač siguran za djecu"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Gyermekbiztos zárás"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Barnaöryggislok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Chiusura a prova di bambino"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Баладан қорғап жабу"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Vaikų sunkiai atidaromas uždoris"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="bērniem neatverama aizdare"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Детски сигурносен затворач"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Għatu li ma jinfetaħx mit-tfal"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Kindveilige sluiting"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Barnesikret lukkeanordning"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zamknięcie zabezpieczające przed dostępem dzieci"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho resistente à abertura por crianças"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Sistem de închidere securizat pentru copii"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Укупорочный элемент недоступный для вскрытия детьми"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Detský bezpečnostný uzáver"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Za otroke varna zaporka"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Mbyllje rezistente për fëmijë"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Sigurnosni zatvarač za decu"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Barnskyddande förslutning"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Çocuk emniyetli kapak"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Засіб недоступний для відкриття дітьми"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="儿童安全盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30035000"/>
         <display value="Metering pump"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Дозираща помпа"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Dávkovací pumpa"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Doseringspumpe"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Dosierpumpe"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Δοσιμετρική αντλία"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Bomba dosificadora"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="mõõtepump"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Annospumppu"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Pompe doseuse"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Caidéal méadraithe"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Odmjerna pumpica"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Adagolópumpa"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Mælipumpa"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Pompa dosatrice"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Дозалайтын насос"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Dozavimo pompa"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="dozējošais sūknis"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Пумпа за дозирање"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Pompa tal-kejl"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Doseerpomp"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Doseringspumpe"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Pompka dozująca"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com bomba doseadora"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Pompă dozatoare"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Насос дозирующий"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Dávkovacia pumpa"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Odmerna črpalka"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Pompë dozuese"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Pumpa za doziranje"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Doseringspump"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Ölçme pompası"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Дозуючий насос"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="计量泵"/>
         </designation>
       </concept>
       <concept>
         <code value="30036000"/>
         <display value="Metering valve"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Дозиращ вентил"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Dávkovací ventil"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Doseringsventil"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Dosierventil"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Δοσιμετρική βαλβίδα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Válvula dosificadora"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="mõõteklapp"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Annosventtiili"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Valve doseuse"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Comhla méadraithe"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Odmjerni ventil"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Adagolószelep"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Mæliloki"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Valvola dosatrice"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Дозалайтын бұранда"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Dozavimo vožtuvas"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="Dozēšanas vārsts"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Вентил за дозирање"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Valv tal-kejl"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Doseerventiel"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Doseringsventil"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zawór dozujący"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com válvula doseadora"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Valvă dozatoare"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Клапан дозирующий"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Dávkovací ventil"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Odmerni ventil"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Valvol dozuese"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Ventil za doziranje"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Doseringsventil"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="ölçme valfı"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Дозуючий клапан"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="计量阀"/>
         </designation>
       </concept>
       <concept>
         <code value="30043000"/>
         <display value="Needle applicator"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Апликатор-игла"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Jehlový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Applikator med nål"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Verschluss mit Nadel"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Σύστημα εφαρμογής με βελόνα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Cierre con aguja incorporada"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="nõelaplikaator"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Neula-asetin"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Embout avec aiguille"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Forchuradóir snáthaide"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Aplikator s iglom"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Tűvel ellátott feltét"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Nálarlok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Applicatore con ago"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Ине-аппликатор"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Aplikatorius su adata"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="aplikators ar adatu"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Затворач со игла"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Applikatur forma ta' labra"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Sluiting met naald"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Applikator med nål"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zamknięcie z igłą"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com agulha"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Sistem de închidere cu ac"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Аппликатор-игла"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Ihlový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Zaporka z iglo"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Aplikator për gjilpërë"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Aplikator sa iglom"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Ampin"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Iğne aplikatörü"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Аплікатор-голка"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="带针的瓶盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30047000"/>
         <display value="Pipette applicator"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Апликатор-пипета"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Pipetový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Pipetteindsats"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Verschluss mit Pipette"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Ογκομετρικό πώμα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Pipeta aplicadora"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="pipettaplikaator"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Mittapipetti"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Embout pipette"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Forchuradóir pípéid"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Zatvarač s pipetom"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Pipettás zárókupak"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Pìpettulok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Chiusura con pipetta"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Тамшуыр-аппликатор"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Aplikatorius su pipete"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="aplikators ar pipeti"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Затворач со пипета"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Applikatur forma ta' pipetta"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Dop met pipet"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Pipetteinnsats"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zamknięcie z pipetką"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com pipeta"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Sistem de închidere cu pipetă"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Аппликатор-пипетка"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Pipetový aplikátor"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Zaporka z merilno kapalko"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Aplikator pipete"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Zatvarač sa pipetom"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Pipettförslutning"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Pipet aplikatörü"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Аплікатор-піпетка"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="带滴管的瓶盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30056000"/>
         <display value="Screw cap"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Капачка на винт"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Šroubovací uzávěr"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Skruelåg"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Schraubdeckel"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Βιδωτό πώμα"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Cierre de rosca"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="keeratav kork"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Kierrekorkki"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Bouchon à vis"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Caipín scriú"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="Zatvarač s navojem"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Csavaros kupak"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Skrúflok"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Tappo a vite"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Бұрама қақпақ"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Užsukamasis dangtelis"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="uzskrūvējams vāciņš"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Навоен затворач"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Għatu bil-kamin"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Schroefdop"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Skrulokk"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zakrętka"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com rosca"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Capac cu filet"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Крышка навинчивающаяся"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Uzáver so závitom"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="Navojna zaporka"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Kapak me vidhë"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Zatvarač sa navojem"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Skruvlock"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Vidalı kapak"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Кришка, що нагвинчується"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="螺纹盖"/>
         </designation>
       </concept>
       <concept>
         <code value="30061000"/>
         <display value="Spray pump"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Спрей помпа"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Mechanický rozprašovač"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Pumpespray"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Sprühpumpe"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Αντλία ψεκασμού"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Bomba pulverizadora"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="spreipump"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Sumutepumppu"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Pompe pour pulvérisation"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Spraechaidéal"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="pumpica raspršivača"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Permetpumpa"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Úðapumpa"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Pompa spray"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Бүріккіш насос"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Purškalo pompa"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="mehāniskais izsmidzinātājs"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Пумпа за распрскување"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Sprej bil-pompa"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Spraypomp"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Spraypumpe"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Pompka rozpylająca"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com bomba nebulizadora"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Pompă de pulverizare"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Насос-спрей"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Mechanický rozprašovač"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="zaporka z mehanskim pršilnikom"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Pompë sprucuese"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Sprej pumpa"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Spraypump"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Sprey pompası"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Насос-спрей"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="喷雾泵"/>
         </designation>
       </concept>
       <concept>
         <code value="30062000"/>
         <display value="Spray valve"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Спрей вентил"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Kontinuální rozprašovací ventil"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Sprayventil"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Sprühventil"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Βαλβίδα ψεκασμού"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Válvula pulverizadora"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="spreiklapp"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Sumuteventtiili"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Valve"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Spraechomhla"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="ventil raspršivača"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Permetszelep"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Úðaloki"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Valvola spray"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Бұрандалы бүріккіш"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Purškalo vožtuvas"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="Aerosola vārsts"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Вентил за распрскување"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Sprej bil-valv"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Sprayventiel"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Sprayventil"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Zawór rozpylający"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Fecho com válvula nebulizadora"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Valvă de pulverizare"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Клапан-спрей"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Ventil aerodisperzie"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="zaporka s pršilnim ventilom"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Valvol sprucuese"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Ventil za raspršivanje"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Sprayventil"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Sprey valfı"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Клапан-спрей"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="喷雾阀"/>
         </designation>
       </concept>
       <concept>
         <code value="30064000"/>
         <display value="Stopper"/>
         <designation>
-          <language value="bg-BG"/>
-          <value value="Запушалка"/>
-        </designation>
-        <designation>
-          <language value="cs-CZ"/>
-          <value value="Zátka"/>
-        </designation>
-        <designation>
-          <language value="da-DK"/>
-          <value value="Prop"/>
-        </designation>
-        <designation>
-          <language value="de-DE"/>
+          <language value="de"/>
           <value value="Stopfen"/>
         </designation>
         <designation>
-          <language value="el-GR"/>
+          <language value="el"/>
           <value value="Πώμα εισχώρησης"/>
         </designation>
         <designation>
-          <language value="es-ES"/>
+          <language value="es"/>
           <value value="Tapón"/>
         </designation>
         <designation>
-          <language value="et-EE"/>
-          <value value="Punnkork"/>
-        </designation>
-        <designation>
-          <language value="fi-FI"/>
-          <value value="Tulppa"/>
-        </designation>
-        <designation>
-          <language value="fr-FR"/>
+          <language value="fr"/>
           <value value="Bouchon"/>
         </designation>
         <designation>
-          <language value="ga-EU"/>
-          <value value="Stopallán"/>
-        </designation>
-        <designation>
-          <language value="hr-HR"/>
-          <value value="čep"/>
-        </designation>
-        <designation>
-          <language value="hu-HU"/>
-          <value value="Dugó"/>
-        </designation>
-        <designation>
-          <language value="is-IS"/>
-          <value value="Tappi"/>
-        </designation>
-        <designation>
-          <language value="it-IT"/>
+          <language value="it"/>
           <value value="Tappo"/>
         </designation>
         <designation>
-          <language value="kk-KZ"/>
-          <value value="Тығын"/>
-        </designation>
-        <designation>
-          <language value="lt-LT"/>
-          <value value="Kamštis"/>
-        </designation>
-        <designation>
-          <language value="lv-LV"/>
-          <value value="aizbāznis"/>
-        </designation>
-        <designation>
-          <language value="mk-MK"/>
-          <value value="Чеп"/>
-        </designation>
-        <designation>
-          <language value="mt-MT"/>
-          <value value="Tapp"/>
-        </designation>
-        <designation>
-          <language value="nl-NL"/>
-          <value value="Stop"/>
-        </designation>
-        <designation>
-          <language value="no-NO"/>
-          <value value="Propp"/>
-        </designation>
-        <designation>
-          <language value="pl-PL"/>
-          <value value="Korek"/>
-        </designation>
-        <designation>
-          <language value="pt-PT"/>
+          <language value="pt"/>
           <value value="Rolha"/>
-        </designation>
-        <designation>
-          <language value="ro-RO"/>
-          <value value="Dop"/>
-        </designation>
-        <designation>
-          <language value="ru-RU"/>
-          <value value="Пробка"/>
-        </designation>
-        <designation>
-          <language value="sk-SK"/>
-          <value value="Zátka"/>
-        </designation>
-        <designation>
-          <language value="sl-SI"/>
-          <value value="zamašek"/>
-        </designation>
-        <designation>
-          <language value="sq-AL"/>
-          <value value="Tapë"/>
-        </designation>
-        <designation>
-          <language value="sr-RS"/>
-          <value value="Čep"/>
-        </designation>
-        <designation>
-          <language value="sv-SE"/>
-          <value value="Propp"/>
-        </designation>
-        <designation>
-          <language value="tr-TR"/>
-          <value value="Tıpa"/>
-        </designation>
-        <designation>
-          <language value="uk-UA"/>
-          <value value="Пробка"/>
-        </designation>
-        <designation>
-          <language value="zh-CN"/>
-          <value value="瓶塞"/>
         </designation>
       </concept>
     </include>

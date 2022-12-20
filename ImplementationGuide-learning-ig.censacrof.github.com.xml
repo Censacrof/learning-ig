@@ -3,13 +3,13 @@
 <ImplementationGuide xmlns="http://hl7.org/fhir">
   <id value="learning-ig.censacrof.github.com"/>
   <text>
-    <status value="extensions"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>
+    <status value="extensions"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>learningig</h2><p>The official URL for this implementation guide is: </p><pre>http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com</pre></div>
   </text>
-  <url value="learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com"/>
+  <url value="http://learning-ig.censacrof.github.com/ImplementationGuide/learning-ig.censacrof.github.com"/>
   <version value="0.1.0"/>
   <name value="learningig"/>
   <status value="draft"/>
-  <date value="2022-12-15T15:54:12+00:00"/>
+  <date value="2022-12-20T11:58:14+00:00"/>
   <publisher value="Example Publisher"/>
   <contact>
     <name value="Example Publisher"/>
@@ -107,7 +107,7 @@
         <valueString value="path-history"/>
       </extension>
       <extension url="value">
-        <valueString value="learning-ig.censacrof.github.com/history.html"/>
+        <valueString value="http://learning-ig.censacrof.github.com/history.html"/>
       </extension>
     </extension>
     <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-parameter">
@@ -299,7 +299,7 @@
         <valueString value="path-history"/>
       </extension>
       <extension url="value">
-        <valueString value="learning-ig.censacrof.github.com/history.html"/>
+        <valueString value="http://learning-ig.censacrof.github.com/history.html"/>
       </extension>
     </extension>
     <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-parameter">

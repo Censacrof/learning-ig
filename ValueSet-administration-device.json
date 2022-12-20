@@ -3,15 +3,15 @@
   "id" : "administration-device",
   "text" : {
     "status" : "generated",
-    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13072000</td><td>Oral applicator</td></tr><tr><td>13114000</td><td>Pen</td></tr><tr><td>30000500</td><td>Administration system</td></tr><tr><td>30002000</td><td>Applicator</td></tr><tr><td>30003000</td><td>Automatic injection device</td></tr><tr><td>30005000</td><td>Balling gun</td></tr><tr><td>30010000</td><td>Brush</td></tr><tr><td>30012000</td><td>Cannula</td></tr><tr><td>30016000</td><td>Cup</td></tr><tr><td>30017000</td><td>Dabbing applicator</td></tr><tr><td>30018200</td><td>Dose dispenser</td></tr><tr><td>30019000</td><td>Dredging applicator</td></tr><tr><td>30021000</td><td>Drench gun</td></tr><tr><td>30022000</td><td>Dropper applicator</td></tr><tr><td>30025000</td><td>High pressure transdermal delivery device</td></tr><tr><td>30026000</td><td>Implanter</td></tr><tr><td>30026500</td><td>Inhaler</td></tr><tr><td>30027000</td><td>In-ovo injection device</td></tr><tr><td>30028000</td><td>Injection needle</td></tr><tr><td>30029000</td><td>Injection syringe</td></tr><tr><td>30030000</td><td>Internal graduated calibration chamber</td></tr><tr><td>30031000</td><td>Intramammary syringe</td></tr><tr><td>30033000</td><td>Measuring device</td></tr><tr><td>30034000</td><td>Measuring spoon</td></tr><tr><td>30037000</td><td>Mouthpiece</td></tr><tr><td>30040000</td><td>Multipuncturer</td></tr><tr><td>30041000</td><td>Nasal applicator</td></tr><tr><td>30042000</td><td>Nebuliser</td></tr><tr><td>30043500</td><td>Needle-free injector</td></tr><tr><td>30044000</td><td>Nozzle</td></tr><tr><td>30045000</td><td>Oral syringe</td></tr><tr><td>30046000</td><td>Pipette</td></tr><tr><td>30053000</td><td>Prick test applicator</td></tr><tr><td>30055000</td><td>Scarifier</td></tr><tr><td>30058000</td><td>Spatula</td></tr><tr><td>30059000</td><td>Spot-on applicator</td></tr><tr><td>30063000</td><td>Stab vaccinator</td></tr><tr><td>30068000</td><td>Vaginal sponge applicator</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>bg</b></td><td><b>bs</b></td><td><b>Czech (cs)</b></td><td><b>Dansk (Danish, da)</b></td><td><b>Deutsch (Deutschland) (German (Germany), de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (Spain) (es)</b></td><td><b>et</b></td><td><b>Finnish (fi)</b></td><td><b>French (France) (fr)</b></td><td><b>ga</b></td><td><b>Croatian (hr)</b></td><td><b>hu</b></td><td><b>is</b></td><td><b>Italian (Italy) (it)</b></td><td><b>kk</b></td><td><b>lt</b></td><td><b>lv</b></td><td><b>mk</b></td><td><b>mt</b></td><td><b>Nederlands (Nederland) (Dutch (Netherlands), nl)</b></td><td><b>Norwegian (Norway) (no)</b></td><td><b>Polskie (Polish, pl)</b></td><td><b>Portuguese (pt)</b></td><td><b>ro</b></td><td><b>Русский (Россия) (Russian (Russia), ru)</b></td><td><b>sk</b></td><td><b>sl</b></td><td><b>sq</b></td><td><b>Serbian (Serbia) (sr)</b></td><td><b>Swedish (Sweden) (sv)</b></td><td><b>tr</b></td><td><b>uk</b></td><td><b>中文 （中国） (Chinese (China), zh)</b></td></tr><tr><td>13072000</td><td>Апликатор за перорални форми</td><td></td><td>Aplikátor pro perorální podání</td><td>Oral applikator</td><td>Applikator für die orale Verabreichung</td><td>Εξάρτημα χορήγησης  από του στόματος</td><td>Aplicador para uso oral</td><td>Suukaudse manustamise aplikaator</td><td>Oraaliannostelija</td><td>Applicateur pour administration orale</td><td>Forchuradóir béil</td><td>Aplikator za usta</td><td></td><td>Munngjafaráhald</td><td>Applicatore per somministrazione orale</td><td></td><td>Geriamasis aplikatorius</td><td>Perorālais aplikators</td><td></td><td></td><td>Applicator voor oraal gebruik</td><td>Oralapplikator</td><td>Aplikator doustny</td><td>Aplicador oral</td><td>Aplicator pentru administrare orală</td><td>Аппликатор пероральный</td><td>Perorálny aplikátor</td><td>Peroralni aplikator</td><td></td><td>Oralni aplikator</td><td>Oral applikator</td><td>Ağızdan uygulayıcı</td><td></td><td></td></tr><tr><td>13114000</td><td>Писалка</td><td>Pen</td><td>Pero</td><td></td><td>Pen</td><td></td><td>Pluma</td><td>Pen-seade</td><td>Injektiokynä</td><td>Stylo</td><td>Peann</td><td>Brizgalica</td><td></td><td>Lyfjapenni</td><td>Penna</td><td></td><td>Švirkštiklis</td><td>Pildspalvveida šļirce</td><td></td><td></td><td>Pen</td><td>Penn</td><td>Wstrzykiwacz półautomatyczny</td><td>Caneta</td><td></td><td>Шприц-ручка</td><td>Pero</td><td>Injekcijski peresnik</td><td></td><td>Pen</td><td>Injektionspenna</td><td></td><td></td><td></td></tr><tr><td>30000500</td><td>Система за прилагане</td><td>Sistem za primjenu</td><td>Aplikační systém</td><td>Administrationssystem</td><td>Applikationssystem</td><td>Σύστημα χορήγησης</td><td>Sistema de administración</td><td>Manustamissüsteem</td><td>Antovälineistö</td><td>Système d'administration</td><td>Córas tabhartha</td><td>Sustav za primjenu</td><td></td><td>Búnaður til lyfjagjafar</td><td>Sistema di somministrazione</td><td>Енгізу жүйесі</td><td>Įleidimo sistema</td><td>Ievadīšanas sistēma</td><td></td><td></td><td>Toedieningssysteem</td><td>Administreringssystem</td><td>Zestaw do podawania</td><td>Sistema de administração</td><td>Sistem de administrare</td><td>Система для введения</td><td>Aplikačný systém</td><td>Sistem za aplikacijo zdravila</td><td>Sistemi dhënies</td><td>Sistem za primenu</td><td>Administreringssystem</td><td>Uygulama sistemi</td><td>Система приймання</td><td></td></tr><tr><td>30002000</td><td>Апликатор</td><td>Aplikator</td><td>Aplikátor</td><td>Applikator</td><td>Applikator</td><td>Εξάρτημα χορήγησης</td><td>Aplicador</td><td>aplikaator</td><td>Asetin</td><td>Applicateur</td><td>Forchuradóir</td><td>aplikator</td><td>Applikátor</td><td>Áhald</td><td>Applicatore</td><td>Аппликатор</td><td>Aplikatorius</td><td>aplikators</td><td>Апликатор</td><td>Applikatur</td><td>Applicator</td><td>Applikator</td><td>Aplikator</td><td>Aplicador</td><td>Aplicator</td><td>Аппликатор</td><td>Aplikátor</td><td>Aplikator</td><td>Aplikator</td><td>Aplikator</td><td>Applikator</td><td>Aplikatör</td><td>Аплікатор</td><td>给药器</td></tr><tr><td>30003000</td><td>Средство за автоматично инжектиране</td><td></td><td>Automatický injektor</td><td>Automatsprøjte</td><td>automatischer Injektor</td><td>Συσκευή αυτόματης ένεσης</td><td>Inyector automático</td><td>automaatsüstal</td><td>Automaattiruisku</td><td>Injecteur automatique</td><td>Gléas insteallta uathoibríoch</td><td>Naprava za automatsko injektiranje</td><td>Tömegoltó készülék</td><td>Sjálfvirkt inndælingartæki</td><td>Dispositivo automatico per iniezone</td><td>Автоматтандырылған инъекциялық құрылғы</td><td>Automatinis injektorius</td><td>automātiskais injektors</td><td>Автоматски инjектор</td><td>Strument għall-injezzjoni awtomatika</td><td>Automatisch injectie-apparaat</td><td>Automatsprøyte</td><td>Wstrzykiwacz automatyczny</td><td>Seringa automática</td><td>-</td><td></td><td>Automatická injekčná pomôcka</td><td>Avtomatska injekcijska brizga</td><td>Pajisje për injektim automatik</td><td>Automatski injektor</td><td>Automatspruta</td><td>Otomatik enjeksiyon aracı</td><td>Пристрій для автоматичної ін'єкції</td><td>自动注射装置</td></tr><tr><td>30005000</td><td>Пистолет за твърди лекарствени форми</td><td></td><td>Pistolový injektor</td><td>Doseringspistol</td><td>Bolusgeber</td><td>Συσκευή χορήγησης βώλων</td><td>Aplicador para administración intrarruminal</td><td>boolipüstol</td><td>Pilleripyssy</td><td>Applicateur pour dispositif intraruminal</td><td>Gunna piollairí</td><td>Aplikator za čvrste oblike</td><td>Bóluszbeadó pisztoly</td><td>Inngjafabyssa fyrir fast lyfjaform</td><td>Applicatore per dispositivo intraruminale</td><td>Дәрілік қалыптағы қатты пистолет</td><td>Boliusų davyklė</td><td>pistole</td><td>Интраруминален апликатор</td><td>Pistola li twassal doża solida fil-gerżuma</td><td>Doseerpistool voor intra-ruminale toediening</td><td>Inngiver</td><td>Aplikator kęsów</td><td>Aplicador para bólus</td><td>-</td><td></td><td>Pilulková pištoľ</td><td>Aplikator za bolus</td><td>Pajisje pë aplikime intraruminale</td><td>Intraruminalni aplikator</td><td>Doseringspistol</td><td>İlaç tabancası</td><td>Болюсадавец</td><td>投丸器</td></tr><tr><td>30010000</td><td>Четка</td><td>Četkica</td><td>Štěteček</td><td>Pensel</td><td>Pinsel</td><td>Ψύκτρα</td><td>Pincel</td><td>pintsel</td><td>Sivellin</td><td>Pinceau applicateur</td><td>Scuab</td><td>četkica</td><td>Ecset</td><td>Pensill</td><td>Pennello</td><td>Шөтке</td><td>Teptukas</td><td>suka</td><td>Четкица</td><td>Pinzell</td><td>Penseel</td><td>Pensel</td><td>Pędzelek</td><td>Pincel</td><td>Pensulă</td><td>Щеточка</td><td>Štetec</td><td>čopič</td><td>Furçë</td><td>četkica</td><td>Pensel</td><td>Fırça</td><td>Щіточка</td><td>刷</td></tr><tr><td>30012000</td><td>Канюла</td><td>Kanila</td><td>Kanyla</td><td>Sprøjte</td><td>Kanüle</td><td>Σωληνίσκος</td><td>Cánula</td><td>kanüül</td><td>Kanyyli</td><td>Canule</td><td>Cannúl</td><td>Kanila</td><td>Kanül</td><td>Dæla</td><td>Cannula</td><td>Канюля</td><td>Kaniulė</td><td>kanula</td><td>Канила</td><td>Kannula</td><td>Canule</td><td>Sprøyte</td><td>Kaniula</td><td>Cânula</td><td>Canulă</td><td>Канюля</td><td>Kanyla</td><td>kanila</td><td>Kanulë</td><td>Kanila</td><td>Kanyl</td><td>Kanül</td><td>Канюля</td><td>插管</td></tr><tr><td>30016000</td><td>Чашка</td><td></td><td>Odměrka</td><td>Bæger</td><td>Messbecher</td><td>Κύπελλο</td><td>Vaso dosificador</td><td>mõõtekork</td><td>Lääkemitta</td><td>Godet</td><td>Cupán</td><td>Čaša/Čašica</td><td>Adagolópohár</td><td>Bikar</td><td>Bicchiere dosatore</td><td>Ыдыс</td><td>Taurelė</td><td>mērkausiņš</td><td>Меричка</td><td>Tazza</td><td>Maatbekertje</td><td>Beger</td><td>Miarka</td><td>Copo-medida</td><td>Măsură dozatoare</td><td>Стаканчик</td><td>Pohár</td><td>Merica</td><td>Kupë</td><td>Merica</td><td>Doseringsbägare</td><td>Ölçek</td><td>Стаканчик</td><td>杯</td></tr><tr><td>30017000</td><td>Апликатор-тампон</td><td></td><td>Nanášecí aplikátor</td><td>Applikationspude</td><td>Verschluss mit Tupfer</td><td>Πώμα με εξάρτημα επάλειψης</td><td>Cierre con aplicador para toques</td><td>tupsutusaplikaator</td><td>Tyynyasetin</td><td>Embout applicateur</td><td>Forchuradóir dabála</td><td>Zatvarač s jastučićem</td><td>Nedvesítő feltét</td><td>Púðalok</td><td>Tappo con applicatore</td><td>Тампон-аппликатор</td><td>Aplikatorius su teptuvu</td><td>aplikators ar tamponu</td><td>Затворач со нанесувач</td><td>Applikatur biex ixxappap</td><td>Depper</td><td>Applikasjonspute</td><td>Zamknięcie z bagietką</td><td>Fecho com aplicador de contacto</td><td>Aplicator pentru tamponare</td><td>Аппликатор-тампон</td><td>Nanášací aplikátor</td><td>Zaporka z aplikatorjem</td><td>Aplikator për lëngje</td><td>Zatvarač za nanošenje</td><td>Baddningsapplikator</td><td>Temias aplikatörü</td><td>Аплікатор з тампоном</td><td></td></tr><tr><td>30018200</td><td>Дозиращо устройство</td><td></td><td>Dávkovací zařízení</td><td></td><td>Dosiergerät</td><td>Δοσομετρητής</td><td>Dispensador de dosis</td><td>Annusti</td><td>Annostelulaite</td><td>Dispensateur de dose</td><td>Dáileoir dáileoige</td><td>Dozator</td><td></td><td>Skammtari</td><td>Dispensatore di dose</td><td></td><td>Dozės skaičiuoklis</td><td>Devu sadalītājs</td><td></td><td></td><td>Dosisdispenser</td><td>Dosedispenser</td><td>Dozownik</td><td>Dispensador de dose</td><td>Dozator</td><td>Дозирующее устройство</td><td>Dávkovač</td><td>Odmernik</td><td></td><td>Dozni dispenzer</td><td>Dosdispenser</td><td>Doz dağıtımlı</td><td></td><td></td></tr><tr><td>30019000</td><td>Апликатор за посипване</td><td></td><td>Aplikátor zásypu</td><td>Strølåg</td><td>Verschluss mit Streuvorrichtung</td><td>Πώμα με εξάρτημα επίπασης</td><td>Cierre espolvoreador</td><td>puisteaplikaator</td><td>Sirotin</td><td>Embout poudreur</td><td>Forchuradóir dreideála</td><td>Aplikator za posip</td><td>Szórófeltét</td><td>Sáldurlok</td><td>Aspersore</td><td>Себу аппликаторы</td><td>Aplikatorius su barstytuvu</td><td>pūderējošais aplikators</td><td>Затворач со посипувач</td><td>Applikatur biex ittalla'</td><td>Strooidop</td><td>Strølokk</td><td>Zamknięcie do zasypek</td><td>Fecho polvilhador</td><td>Aplicator pentru pudrare</td><td>Аппликатор для нанесения присыпки</td><td>Zásypový aplikátor</td><td>Zaporka s posipnikom</td><td>Aplikator për pluhurosje</td><td>Zatvarač za posipanje</td><td>Strölock</td><td>Serpme aplikatörü</td><td>Аплікатор для нанесення присипки</td><td>带撒粉器的瓶盖</td></tr><tr><td>30021000</td><td>Пистолет за перорални течности</td><td></td><td>Pistolový aplikátor tekutin</td><td>Drench pistol</td><td>Applikator für eine Flüssigkeit zum Einnehmen</td><td>Συσκευή χορήγησης στοματικών διαλυμάτων</td><td>Pistola dosificadora</td><td>Jootmispüstol</td><td>Annospyssy</td><td>Embout buccal</td><td>Gunna droinse</td><td>Aplikator tekućih oralnih oblika</td><td>Adagolópisztoly</td><td>Inngjafarbyssa fyrir mixtúru</td><td>Pistola dosatrice per somministrazioni orali</td><td>Оттегімен қанықтырылған пистолет</td><td></td><td>aplikators mikstūrai</td><td>Апликатор за напивка</td><td>Pistola biex tagħti likwidu orali</td><td>Drench pistool</td><td>Doseringspistol</td><td>Aplikator płynów</td><td>Pistola doseadora</td><td></td><td></td><td>Aplikačná pištoľ</td><td>brizgalnik za tekočine</td><td>Pajisje dozuese për dhënie barnash nga goja</td><td>Aplikator za lekovite tečnosti</td><td>Doseringspistol</td><td>Direnç tabancası</td><td>Шприц-пистолет</td><td>灌药器</td></tr><tr><td>30022000</td><td>Апликатор капкомер</td><td></td><td>Uzávěr s kapátkem</td><td>Dråbeindsats</td><td>Verschluss mit Tropfer</td><td>Σταγονομετρικό βιδωτό πώμα</td><td>Tapón cuentagotas</td><td>tilguti</td><td>Tiputin</td><td>Embout compte-gouttes</td><td>Forchuradóir le braonaire</td><td>Zatvarač s kapaljkom</td><td>Cseppentőfeltét</td><td>Skrúflok með dropateljara</td><td>Contagocce</td><td>Тамшыға арналған аппликатор</td><td>Aplikatorius su lašintuvu</td><td>aplikators ar pilinātāju</td><td>Затворач со капалка</td><td>Applikatur għat-tqattir</td><td>Dop met druppelpipet</td><td>Dråpeinnsats</td><td>Kroplomierz</td><td>Fecho conta-gotas</td><td>Aplicator pentru picurare</td><td>Аппликатор-капельница</td><td>Kvapkadlo</td><td>zaporka s kapalko</td><td>Aplikator për pikatore</td><td>Zatvarač sa kapaljkom</td><td>Droppinsats</td><td>Damlalıklı kapak</td><td>Аплікатор- крапельниця</td><td>带滴头的瓶盖</td></tr><tr><td>30025000</td><td>Трансдермално устройство под високо налягане</td><td></td><td>Transdermální tlakové zařízení</td><td>Transdermal højtryksapplikator</td><td>Intradermaldruckinjektor</td><td>Σύστημα διαδερμικής χορήγησης υπό πίεση</td><td>Dispositivo a presión para liberación transdermica</td><td>transdermaalne kõrgrõhkjaotussüsteem</td><td>-</td><td>Injecteur intradermique sous pression</td><td>Gléas seachadta trasdeirmeach ardbhrú</td><td>Visokotlačni injektor za transdermalni sustav</td><td>Nagynyomású transzdermális applikátor</td><td>Háþrýstitæki til lyfjagjafar um húð</td><td>Dispositivo sotto pressione a rilascio transdermico</td><td>Жоғары қысыммен жеткізілетін трансдермальдік құрылғы</td><td>Slėginis transderminis injektorius</td><td>augstspiediena transdermālā ierīce</td><td>Трансдермален инjектор под висок притисок</td><td>Strument għall-amministrazzjoni bi pressjoni għolja biex tgħaddi s-sustanza mill-ġilda</td><td>Hogedrukinjector voor transdermale toediening</td><td>Transdermal høytrykksapplikator</td><td>Wstrzykiwacz śródskórny ciśnieniowy</td><td>Injector transdérmico sob pressão</td><td>Injector transdermic sub presiune</td><td></td><td>Transdermálny injektor pod tlakom</td><td>Transdermalni visokotlačni injektor</td><td>Pajisje transdermike me trysni të lartë</td><td>Transdermalni injektor pod visokim pritiskom</td><td>Transdermal högtrycksapplikator</td><td>Basınçlı transdermal uygulayıcı</td><td></td><td>高压透皮给药装置</td></tr><tr><td>30026000</td><td>Имплантатор</td><td></td><td>Implantátor</td><td>Implantatinjektor</td><td>Implantatinjektor</td><td>Συσκευή εμφύτευσης</td><td>Inyector de implantes</td><td>implantaator</td><td>Implantaattiasetin</td><td>Pistolet pour implant</td><td>Ionphlandóir</td><td>implantator</td><td>Implantátum bejuttató eszköz</td><td>Tæki til ísetningar vefjalyfs</td><td>Iniettore per impianto</td><td>Имплантатор</td><td>Implantuotuvas</td><td>implanters</td><td>Имплантатор</td><td>Strument biex jitwaħħal impjant</td><td>Implantaatinjector</td><td>Implantatinjektor</td><td>Wstrzykiwacz do implantu</td><td>Seringa para implantes</td><td>-</td><td></td><td>Implantátový injektor</td><td>implantator</td><td>Injektor për implant</td><td>Implantator</td><td>Implantatinjektor</td><td>Implante edici</td><td>Імплантер</td><td>植入剂给药器</td></tr><tr><td>30026500</td><td>Инхалатор</td><td></td><td>Inhalátor</td><td>Inhalator</td><td>Inhalator</td><td>Συσκευή εισπνοής</td><td>Inhalador</td><td>Inhalaator</td><td>Inhalaattori</td><td>Inhalateur</td><td>Análóir</td><td>Inhalator</td><td></td><td>Innöndunartæki</td><td>Inalatore</td><td>Ингалятор</td><td>Inhaliatorius</td><td>Inhalators</td><td></td><td></td><td>Inhalator</td><td>Inhalator</td><td>Inhalator</td><td>Inalador</td><td>Inhalator</td><td>Ингалятор</td><td>Inhalátor</td><td>Inhalator</td><td>Inhalues</td><td>Inhalator</td><td>Inhalator</td><td>Soluklatıcı</td><td>Інгалятор</td><td></td></tr><tr><td>30027000</td><td>Средство за инжектиране в яйце</td><td></td><td>In-ovo injektor</td><td>Injektionsudstyr til æg</td><td>Eiinjektor</td><td>Συσκευή χορήγησης in ovo</td><td>Inyector automático in ovo</td><td>munasüstal</td><td>Munaruisku</td><td>Dispositif pour injection in ovo</td><td>Gléas insteallta d'uibheacha suthaithe</td><td>Naprava za injektiranje in ovo</td><td>Tojásinjektor</td><td>Tæki til inndælingar í egg</td><td>Dispositivo per iniezione in ovo</td><td>Аналық без ішілік инъекциялық құрылғы</td><td>Injektorius į kiaušinį</td><td>injektors olai</td><td>In ovo инjектор</td><td>Strument biex tinjetta l-bajda femminili</td><td>In-ovo injectie-apparaat</td><td>Injeksjonsutstyr til egg</td><td>Wstrzykiwacz do jaja</td><td>Seringa para via transcoriónica</td><td>-</td><td></td><td>In-ovo injektor</td><td>Aplikator za vnos v jajčno celico</td><td>Pajisje për injektim në vezë</td><td>In-ovo injektor</td><td>Injektionsspruta för ägg</td><td>Yumurta içi injeksiyon aracı</td><td>Пристрій для in ovo ін'єкції</td><td>受精卵注射装置</td></tr><tr><td>30028000</td><td>Инжекционна игла</td><td></td><td>Injekční jehla</td><td>Kanyle</td><td>Injektionsnadel</td><td>Βελόνη σύριγγας</td><td>Aguja para inyección</td><td>Süstenõel</td><td>Injektioneula</td><td>Aiguille</td><td>Snáthaid insteallta</td><td>igla za injekciju</td><td>Injekcióstű</td><td>Nál</td><td>Ago per iniezione</td><td>Инъекциялық ине</td><td>Injekcinė adata</td><td>injekcijas adata</td><td>Инjекциска игла</td><td>Labra ta' l-injezzjoni</td><td>Injectienaald</td><td>Kanyle</td><td>Igła iniekcyjna</td><td>Agulha para injecção</td><td>Ac pentru injecţie</td><td>Игла инъекционная</td><td>Injekčná ihla</td><td>injekcijska igla</td><td>Gjilpërë për injeksion</td><td>Injekciona igla</td><td>Injektionsnål</td><td>Enjeksiyon iğnesi</td><td>Ін'єкційна голка</td><td>注射针</td></tr><tr><td>30029000</td><td>Спринцовка</td><td></td><td>Injekční stříkačka</td><td>Injektionssprøjte</td><td>Injektionsspritze</td><td>Σύριγγα ένεσης</td><td>Jeringa para inyección</td><td>süstal</td><td>Injektioruisku</td><td>Seringue</td><td>Steallaire insteallta</td><td>Štrcaljka za injekciju</td><td>Injekciós fecskendő</td><td>Sprauta</td><td>Siringa per iniezione</td><td>Инъекциялық шприц</td><td>Injekcinis švirkštas</td><td>injekcijas šļirce</td><td>Инjекциски шприц</td><td>Siringa għall-injezzjoni</td><td>Injectiespuit</td><td>Injeksjonssprøyte</td><td>Strzykawka</td><td>Seringa para injectáveis</td><td>Seringă</td><td>Шприц инъекционный</td><td>Injekčná striekačka</td><td>Injekcijska brizga</td><td>Shiringë injektimi</td><td>Injekcioni špric</td><td>Injektionsspruta</td><td>Enjektör</td><td>Ін'єкційний шприц</td><td>注射器</td></tr><tr><td>30030000</td><td>Вътрешно градуирана дозираща камера</td><td></td><td>Nádoba s vnitřní kalibrací</td><td>Justerbar doseringssprøjte</td><td>Intern graduierte Dosierkammer</td><td>Δοσιμετρικό εξάρτημα</td><td>Dispensador de dosis múltiples</td><td>sisegradueeringuga manustamisanum</td><td>Säädettävä annosruisku</td><td>Dispositif à cran d'arrêt</td><td>Cuasán calabraithe grádaithe inmheánach</td><td>Kalibrirana mjerica za kutanu primjenu</td><td>Osztással ellátott adagolótartály</td><td>Lyfjaskammtari</td><td>Bolo ruminale</td><td>Іші калибрленген градуирленген камера</td><td></td><td>iekšēja graduēta kalibrēšanas kamera</td><td>Комора за дозирање течности</td><td>Kompartiment tal-kalibrar b'marki tal-kejl minn ġewwa</td><td>Doseerkamer met schaalverdeling</td><td>Justerbar doseringssprøyte</td><td>Dozownik kalibrowany do płynów</td><td>Câmara de calibração graduada</td><td>-</td><td></td><td>Kalibračná nádoba</td><td>Graduirani odmernik</td><td></td><td>Kalibrisana komora za doziranje tečnosti</td><td>Justerbar doseringsspruta</td><td>İç dereceli kalibrasyon odası</td><td></td><td></td></tr><tr><td>30031000</td><td>Интрамамарна спринцовка</td><td></td><td>Intramamární injektor</td><td>Intramammærsprøjte</td><td>Euterinjektor</td><td>Ενδομαστική σύριγγα</td><td>Jeringa intramamaria</td><td>Intramammaarsüstal</td><td>Intramammaariruisku</td><td>Seringue pour administration intramammaire</td><td>Steallaire iomhmamach</td><td>intramamarna štrcaljka</td><td>Intramammális fecskendő</td><td>Spenadæla</td><td>Siringa intramammaria</td><td>Сүт безі ішілік шприц</td><td>Intramaminis švirkštas</td><td>injektors tesmenim</td><td>Интрамамарен инjектор</td><td>Siringa intramammarja</td><td>Injector voor intramammair gebruik</td><td>Intramammærsprøyte</td><td>Tubostrzykawka dowymieniowa</td><td>Injetor intramamário</td><td>-</td><td></td><td>Intramamálna injekčná striekačka</td><td>Intramamarni injektor</td><td>Shiringë intramamare</td><td>Intramamarni špric</td><td>Spruta för intramammarium</td><td>Meme içi şırınga</td><td>Інтрамамарний шприц</td><td>乳房注射器</td></tr><tr><td>30033000</td><td>Мерително устройство</td><td></td><td>Dávkovač</td><td>Måleredskab</td><td>Dosierhilfe</td><td>Δοσιμετρικό εξάρτημα</td><td>Dosificador</td><td>Mõõtevahend</td><td>Mitta-annostelija</td><td>Dispositif de mesure</td><td>Gléas tomhais</td><td>Odmjerni pribor</td><td>Adagoló eszköz</td><td>Mælitæki</td><td>Dosatore</td><td>Өлшеуіш құрылғы</td><td>Dozatorius</td><td>mērierīce</td><td>Дозатор</td><td>Strument tal-kejl</td><td>Doseerhulpmiddel</td><td>Måleredskap</td><td>Dozownik</td><td>Dispositivo doseador</td><td>Dispozitiv de măsurat</td><td>Дозатор</td><td>Odmerka</td><td>Odmernik</td><td>Pajisje matëse</td><td>Dozer</td><td>Doseringshjälpmedel</td><td>Ölçü kabı</td><td>Мірний засіб</td><td>量具</td></tr><tr><td>30034000</td><td>Мерителна лъжичка</td><td></td><td>Odměrná lžička</td><td>Måleske</td><td>Messlöffel</td><td>Δοσιμετρικό κοχλιάριο</td><td>Cucharilla de medida</td><td>mõõtelusikas</td><td>Mittalusikka</td><td>Cuillère-mesure</td><td>Spúnóg tomhais</td><td>Odmjerna žlica</td><td>Adagolókanál</td><td>Mæliskeið</td><td>Cucchiaio dosatore</td><td>Өлшеуіш қасық</td><td>Matavimo šaukštas</td><td>mērkarote</td><td>Одмерна лажица</td><td>Mgħarfa għall-qies</td><td>Maatlepel</td><td>Måleskje</td><td>Łyżka miarowa</td><td>Colher-medida</td><td>Linguriţă dozatoare</td><td>Мерная ложка</td><td>Odmerná lyžica</td><td>merilna žlička</td><td>Lugë matëse</td><td>Kašika za doziranje</td><td>Doseringssked</td><td>Ölçü kaşığı</td><td>Мірна ложка</td><td>量勺</td></tr><tr><td>30037000</td><td>Мундщук</td><td></td><td>Náustek</td><td>Mundstykke</td><td>Mundstück</td><td>Εξάρτημα στοματικής προσαρμογής</td><td>Aplicador bucal</td><td>huulik</td><td>Suukappale</td><td>Embout buccal</td><td>Béalóg</td><td>Nastavak za usta</td><td>Szájfeltét</td><td>Munnstykki</td><td>Boccaglio</td><td>Ауыз қуысына арналған аппликатор</td><td>Kandiklis</td><td>iemutis</td><td>Апликатор за уста</td><td>Biċċa tal-ħalq</td><td>Mondstuk</td><td>Munnstykke</td><td>Ustnik</td><td>Aplicador bucal</td><td>Aplicator bucal</td><td>Мундштук</td><td>Náustok</td><td>Ustnik</td><td>Pajisje ndihmëse që përdoret për marrjen ose inhalimin e një produkti mjekësor nëprmjet gojës</td><td>Nastavak za usta</td><td>Munstycke</td><td>Ağız aplikatörü</td><td>Насадка для рота</td><td>吸嘴</td></tr><tr><td>30040000</td><td>Апликатор за мултикожен тест</td><td></td><td>Multipunkční aplikátor</td><td>Multipunkturapplikator</td><td>Multipunkturstempel</td><td>Εξάρτημα πολλαπλής νύξεως</td><td>Aplicador para punción múltiple</td><td>multipunktaator</td><td>Monikärkineula</td><td>Applicateur pour multipuncture</td><td>Ilphollaire</td><td>Višeubodni aplikator</td><td>Többhegyü börpróba eszköz</td><td>Fjölstungutæki</td><td>Dispositivo per intradermoreazione per puntura multipla</td><td>Көп пункциялаушы</td><td>Daugiataškis įdūrimo įtaisas</td><td>ierīce daudzkārtīgām punkcijām</td><td>Повеќекратен убодувач</td><td>Strument li jagħmel aktar minn toqba waħda fil-ġilda</td><td>Prikker voor meervoudig gebruik</td><td>Multipunkturapplikator</td><td>Aplikator wielopunktowy</td><td>Aplicador para punção múltipla</td><td>Dispozitiv pentru puncții multiple</td><td>Аппликатор для мультикожного теста</td><td>Multipunkčný aplikátor</td><td>Multipli vbodnik</td><td>Aplikator për shumë shpime</td><td>Višeubodni aplikator</td><td>Multipunkturapplikator</td><td>Multiponksiyon aleti</td><td>Аплікатор для множинної пунктури</td><td></td></tr><tr><td>30041000</td><td>Апликатор за нос</td><td></td><td>Nosní aplikátor</td><td>Nasal applikator</td><td>Nasenapplikator</td><td>Εξάρτημα ρινικής προσαρμογής</td><td>Aplicador nasal</td><td>ninaaplikaator</td><td>Nenäkappale</td><td>Embout nasal</td><td>Forchuradóir sróine</td><td>Aplikator za nos</td><td>Orrfeltét</td><td>Nefpípetta</td><td>Applicatore nasale</td><td>Мұрынға арналған аппликатор</td><td>Nosies aplikatorius</td><td>deguna aplikators</td><td>Апликатор за нос</td><td>Applikatur ta' l-imnieħer</td><td>Neuspipet</td><td>Nesepipette</td><td>Aplikator do nosa</td><td>Aplicador nasal</td><td>Aplicator nazal</td><td>Аппликатор назальный</td><td>Nosový aplikátor</td><td>Nosnik</td><td>Aplikator për hundë</td><td>Nazalni aplikator</td><td>Näspipett</td><td>Burun aplikatörü</td><td>Аплікатор для носа</td><td>鼻腔给药器</td></tr><tr><td>30042000</td><td>Небулизатор</td><td></td><td>Rozprašovač</td><td>Nebulisator</td><td>Vernebler</td><td>Εκνεφωτής</td><td>Nebulizador</td><td>nebulisaator</td><td>Sumutin</td><td>Nébuliseur</td><td>Néalaitheoir</td><td>Nebulizator</td><td>Porlasztó</td><td>Eimgjafi</td><td>Nebulizzatore</td><td>Пульверизатор</td><td>Purkštuvas</td><td>smidzinātājs</td><td>Небулизатор</td><td>Nebulizzatur</td><td>Vernevelaar</td><td>Nebulisator</td><td>Nebulizator</td><td>Nebulizador</td><td>Nebulizator</td><td>Небулайзер</td><td>Rozprašovač</td><td>Nebulator</td><td>Sprucues</td><td>Raspršivač</td><td>Nebulisator</td><td>Nebulizör</td><td>Небулайзер</td><td>雾化器</td></tr><tr><td>30043500</td><td>Безиглен инжектор</td><td></td><td>Tlakový injektor</td><td>Nålefri injektor</td><td>nadelfreier Injektor</td><td>Σύστημα διαδερμικής χορήγησης χωρίς βελόνα</td><td>Inyector sin aguja</td><td>Nõelata injektor</td><td>Neulaton ruisku</td><td>Injecteur sans aiguille</td><td>Insteallaire saor ó snáthaid</td><td>Injektor bez igle</td><td></td><td>Nálarlaust inndælingartæki</td><td>Iniettore privo di ago</td><td>Инесіз инжектор</td><td>Neadatinis injektorius</td><td>Injektors bez adatas</td><td></td><td></td><td>Naaldvrije injector</td><td>Nålefri injektor</td><td>Wstrzykiwacz bezigłowy</td><td>Injetor sem seringa</td><td>Injector fară ac</td><td>Безигольный инжектор</td><td>Bezihlový injektor</td><td>Brezigelni injektor</td><td></td><td>Injektor bez igle</td><td>Nålfri injektor</td><td>İğnesiz enjektör</td><td>Шприц без голки</td><td></td></tr><tr><td>30044000</td><td>Накрайник</td><td></td><td>Hubice</td><td>Tud</td><td>Sprühkopf</td><td>Ρύγχος</td><td>Boquilla</td><td>otsik</td><td>Suutin</td><td>Embout</td><td>Buinne</td><td>Mlaznica</td><td>Szórófej</td><td>Sproti</td><td>Erogatore</td><td>Ұштық қондырма</td><td>Antgalis</td><td>izsmidzinātājs</td><td>Распрсувач</td><td>Żennuna</td><td>Tuit</td><td>Tut</td><td>Dysza</td><td>Adaptador</td><td>Vârf aplicator</td><td>Насадка</td><td>Dýza</td><td>Šoba</td><td>Pajisje ndihmëse për marrje të drejtuar të një lëngu ose përgatese gjysëm të ngurtë në një zonë specifike</td><td>Aplikator za ciljanu primenu</td><td>Munstycke</td><td>Püskürtücü başlık</td><td>Насадка</td><td>喷嘴</td></tr><tr><td>30045000</td><td>Спринцовка за перорални форми</td><td></td><td>Stříkačka pro perorální podání</td><td>Oral sprøjte</td><td>Applikationsspritze für Zubereitungen zum Einnehmen</td><td>Σύριγγα για χορήγηση από του στόματος</td><td>Jeringa para uso oral</td><td>suusüstal</td><td>Mittaruisku</td><td>Seringue pour administration orale</td><td>Steallaire béil</td><td>Štrcaljka za usta</td><td>Szájfecskendő</td><td>Munngjafarsprauta</td><td>Siringa per somministrazione orale</td><td>Оральдік шприц</td><td>Geriamasis švirkštas</td><td>Perorālā šļirce</td><td>Перорален инjектор</td><td>Siringa tal-ħalq</td><td>Doseerspuit voor orale toediening</td><td>Oralsprøyte</td><td>Strzykawka doustna</td><td>Seringa para uso oral</td><td>Seringă pentru administrare orală</td><td>Шприц оральный</td><td>Perorálna striekačka</td><td>Brizga za peroralno dajanje</td><td>Shiringë për gojë</td><td>Oralni špric</td><td>Oral doseringsspruta</td><td>Ağızdan kullanım için şırınga</td><td>Оральний шприц</td><td>口腔注射器</td></tr><tr><td>30046000</td><td>Пипета</td><td></td><td>Pipeta</td><td>Pipette</td><td>Pipette</td><td>Πιπέτα</td><td>Pipeta</td><td>pipett</td><td>Pipetti</td><td>Pipette</td><td>Pípéad</td><td>pipeta</td><td>Cseppentőpipettás feltét</td><td>Pípetta</td><td>Pipetta</td><td>Тамшуыр</td><td>Pipetė</td><td>pipete</td><td>Пипета</td><td>Pipetta</td><td>Pipet</td><td>Pipette</td><td>Pipetka</td><td>Pipeta</td><td>Pipetă</td><td>Пипетка</td><td>Pipeta</td><td>merilna kapalka</td><td>Pipetë</td><td>Pipeta</td><td>Pipett</td><td>Pipet</td><td>Піпетка</td><td>滴管</td></tr><tr><td>30053000</td><td>Апликатор за изпитване чрез убождане</td><td></td><td>Aplikátor vpichových testů</td><td>Priktestapplikator</td><td>Teststempel</td><td>Εξάρτημα εφαρμογής αλλεργιογόνων δτα νύξεως</td><td>Aplicador para pruebas de alergenos</td><td>nahatorketestaplikaator</td><td>Ihon pistotestineula</td><td>Applicateur pour prick test</td><td>Forchuradóir sáthástála</td><td>Aplikator za ispitivanje ubodom</td><td>Börpróba lándzsa</td><td>Stunguáhald til ofnæmisprófunar</td><td>Dispositivo per prick test</td><td>Егу тест-аппликаторы</td><td>Duriamasis testų aplikatorius</td><td>dūriena testa aplikators</td><td>Убоден тест апликатор</td><td>Applikatur għal test li jsir b’tingiż fil-ġilda</td><td>Priktestapplicator</td><td>Prikktestapplikator</td><td>Aplikator do skórnych prób punktowych</td><td>Estilete aplicador</td><td>Aplicator pentru teste prin înțepare</td><td>Аппликатор для инъекционного теста</td><td>Aplikátor na vpichové testy</td><td>Vbodnik</td><td>Aplkator për provën me shpim</td><td>Alergen-test aplikator</td><td>Pricktestapplikator</td><td>Prik test aplikatörü</td><td>Аплікатор для тесту з наколюванням</td><td>点刺试验针</td></tr><tr><td>30055000</td><td>Скарификатор</td><td></td><td>Skarifikátor</td><td>Skarificeringsinstrument</td><td>Einritzer</td><td>Ακίδα σκαριφισμού</td><td>Escarificador</td><td>Skarifikaator</td><td>Raspi</td><td>Vaccinostyle</td><td>Corraitheoir</td><td>Skarifikator</td><td>Karcoló eszköz</td><td>Húðrispari</td><td>Scarificatore</td><td>Скарификатор</td><td>Skarifikatorius</td><td>skarifikators</td><td>Скарификатор</td><td>Strument li jobrox il-ġilda</td><td>Scarificator</td><td>Skarifiseringsinstrument</td><td>Skaryfikator</td><td>Escarificador</td><td>-</td><td></td><td>Skarifikátor</td><td>Skarifikator</td><td>Skarifikator</td><td>Skarifikator</td><td>Skarificeringsinstrument</td><td>Kazıntı cihazı</td><td>Скарифікатор</td><td>划痕器</td></tr><tr><td>30058000</td><td>Шпатула</td><td></td><td>Špachtle</td><td>Spatel</td><td>Spatel</td><td>Σπαθίδα</td><td>Espátula</td><td>spaatel</td><td>Lasta</td><td>Spatule</td><td>Spadal</td><td>Špatula</td><td>Spatula</td><td>Spaði</td><td>Spatola</td><td>Шпатель</td><td>Mentelė</td><td>špātele</td><td>Шпатула</td><td>Spatula</td><td>Spatel</td><td>Spatel</td><td>Łopatka</td><td>Espátula</td><td>Spatulă</td><td>Шпатель</td><td>Špachtľa</td><td>lopatka</td><td>Spatul</td><td>Špatula</td><td>Spatel</td><td>Spatül</td><td>Шпатель</td><td>药刀</td></tr><tr><td>30059000</td><td>Апликатор за прилагане върху ограничен участък</td><td></td><td>Aplikátor pro nakapání na kůži - spot-on</td><td>Spot-on applikator</td><td>Tropfapplikator</td><td>Συσκευή επίχυσης σε σημείο</td><td>Aplicador para unción puntual</td><td>täpiravimi aplikaator</td><td>Paikallisvalelukaadin</td><td>Applicateur pour spot-on</td><td>Forchuradóir ar spota</td><td>Aplikator za nakapavanje</td><td>Csepegtető adagolóeszköz</td><td>Blettunaráhald</td><td>Applicatore per spot-on</td><td>Дақ-аппликатор</td><td>Užlašinimo įtaisas</td><td>aplikators-pilinātājs</td><td>Апликатор за накапување</td><td>Applikatur għal użu lokalizzat</td><td>Spot-on applicator</td><td>Påflekkingsapplikator</td><td>Przyrząd do nakraplania</td><td>Aplicador para unção punctiforme</td><td>-</td><td></td><td>Aplikátor na kožu</td><td>Aplikator kožnega nanosa</td><td>Aplikator për pika në lëkurë</td><td>Aplikator za nakapavanje</td><td>Spot on-applikator</td><td>Damlatma aplikatörü</td><td>Апликатор для точкового нанесення</td><td>点滴给药器</td></tr><tr><td>30063000</td><td>Ваксинатор чрез набождане</td><td></td><td>Vakcinátor pro vpich</td><td>Dobbeltnål</td><td>Impfautomat</td><td>Ακίδα εμβολιασμού</td><td>Punzón</td><td>nõelvaktsinaator</td><td>Kaksoisneula</td><td>Stylet</td><td>Sá-vacsaíneoir</td><td>Ubodni aplikator cjepiva</td><td>Oltógerely</td><td>Áhald til bólusetningar fugla</td><td>Dispositivo a punta per vaccinazione</td><td>Теспеге егуші</td><td>Duriantis vakcinatorius</td><td>vakcinācijas ierīce</td><td>Убоден вакцинатор</td><td>Strument għat-tilqim</td><td>Stilet</td><td>Dobbeltnål</td><td>Aplikator szczepionek</td><td>estilete de inoculação</td><td>-</td><td></td><td>Pištoľový vakcinátor</td><td>vbodni vakcinator</td><td>Pajisje për vaksinim të zogjve me shpim</td><td>Ubodni vakcinator</td><td>Ympapplikator</td><td>Batırarak aşı uygulayıcı</td><td></td><td>穿刺接种器</td></tr><tr><td>30068000</td><td>Апликатор за вагинална гъба</td><td></td><td>Aplikátor vaginální hubky</td><td>Vaginalsvampapplikator</td><td>Applikator für ein Schwämmchen zur vaginalen Anwendung</td><td>Συσκευή για ενδοκολπική τοποθέτηση σπόγγων</td><td>Aplicador de esponjas vaginales</td><td>vaginaalse tampooni aplikaator</td><td>Emätintamponiasetin</td><td>Applicateur pour éponge vaginale</td><td>Forchuradóir spúinse faighne</td><td>aplikator spužvice za rodnicu</td><td>Hüvelyszivacs bejuttató eszköz</td><td>Áhald til ísetningar leggangasvampa</td><td>Applicatore per spugnetta intravaginale</td><td>Қынаптық аппликатор</td><td></td><td>vaginālo sūklīšu aplikators</td><td>Апликатор за вагинален сунґер</td><td>Applikatur għal sponża vaġinali</td><td>Applicator voor spons voor vaginaal gebruik</td><td>Vaginalsvampapplikator</td><td>Aplikator gąbek dopochwowych</td><td>Aplicador para esponja vaginal</td><td>-</td><td></td><td>Aplikátor vaginálnej hubky</td><td>Aplikator vaginalne gobice</td><td>Aplikator për sfungjer vaginal</td><td>Aplikator za vaginalni sunđer</td><td>Vaginalsvampapplikator</td><td>Vaginal sünger uygulayıcı</td><td></td><td>阴道海绵塞投放器</td></tr></table></div>"
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <code>https://standardterms.edqm.eu/#</code><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td>13072000</td><td>Oral applicator</td></tr><tr><td>13114000</td><td>Pen</td></tr><tr><td>30000500</td><td>Administration system</td></tr><tr><td>30002000</td><td>Applicator</td></tr><tr><td>30003000</td><td>Automatic injection device</td></tr><tr><td>30005000</td><td>Balling gun</td></tr><tr><td>30010000</td><td>Brush</td></tr><tr><td>30012000</td><td>Cannula</td></tr><tr><td>30016000</td><td>Cup</td></tr><tr><td>30017000</td><td>Dabbing applicator</td></tr><tr><td>30018200</td><td>Dose dispenser</td></tr><tr><td>30019000</td><td>Dredging applicator</td></tr><tr><td>30021000</td><td>Drench gun</td></tr><tr><td>30022000</td><td>Dropper applicator</td></tr><tr><td>30025000</td><td>High pressure transdermal delivery device</td></tr><tr><td>30026000</td><td>Implanter</td></tr><tr><td>30026500</td><td>Inhaler</td></tr><tr><td>30027000</td><td>In-ovo injection device</td></tr><tr><td>30028000</td><td>Injection needle</td></tr><tr><td>30029000</td><td>Injection syringe</td></tr><tr><td>30030000</td><td>Internal graduated calibration chamber</td></tr><tr><td>30031000</td><td>Intramammary syringe</td></tr><tr><td>30033000</td><td>Measuring device</td></tr><tr><td>30034000</td><td>Measuring spoon</td></tr><tr><td>30037000</td><td>Mouthpiece</td></tr><tr><td>30040000</td><td>Multipuncturer</td></tr><tr><td>30041000</td><td>Nasal applicator</td></tr><tr><td>30042000</td><td>Nebuliser</td></tr><tr><td>30043500</td><td>Needle-free injector</td></tr><tr><td>30044000</td><td>Nozzle</td></tr><tr><td>30045000</td><td>Oral syringe</td></tr><tr><td>30046000</td><td>Pipette</td></tr><tr><td>30053000</td><td>Prick test applicator</td></tr><tr><td>30055000</td><td>Scarifier</td></tr><tr><td>30058000</td><td>Spatula</td></tr><tr><td>30059000</td><td>Spot-on applicator</td></tr><tr><td>30063000</td><td>Stab vaccinator</td></tr><tr><td>30068000</td><td>Vaginal sponge applicator</td></tr></table></li></ul><p><b>Additional Language Displays</b></p><table class=\"codes\"><tr><td><b>Code</b></td><td><b>Deutsch (German, de)</b></td><td><b>Greek (el)</b></td><td><b>Spanish (es)</b></td><td><b>French (fr)</b></td><td><b>Italian (it)</b></td><td><b>Portuguese (pt)</b></td></tr><tr><td>13072000</td><td>Applikator für die orale Verabreichung</td><td>Εξάρτημα χορήγησης  από του στόματος</td><td>Aplicador para uso oral</td><td>Applicateur pour administration orale</td><td>Applicatore per somministrazione orale</td><td>Aplicador oral</td></tr><tr><td>13114000</td><td>Pen</td><td></td><td>Pluma</td><td>Stylo</td><td>Penna</td><td>Caneta</td></tr><tr><td>30000500</td><td>Applikationssystem</td><td>Σύστημα χορήγησης</td><td>Sistema de administración</td><td>Système d'administration</td><td>Sistema di somministrazione</td><td>Sistema de administração</td></tr><tr><td>30002000</td><td>Applikator</td><td>Εξάρτημα χορήγησης</td><td>Aplicador</td><td>Applicateur</td><td>Applicatore</td><td>Aplicador</td></tr><tr><td>30003000</td><td>automatischer Injektor</td><td>Συσκευή αυτόματης ένεσης</td><td>Inyector automático</td><td>Injecteur automatique</td><td>Dispositivo automatico per iniezone</td><td>Seringa automática</td></tr><tr><td>30005000</td><td>Bolusgeber</td><td>Συσκευή χορήγησης βώλων</td><td>Aplicador para administración intrarruminal</td><td>Applicateur pour dispositif intraruminal</td><td>Applicatore per dispositivo intraruminale</td><td>Aplicador para bólus</td></tr><tr><td>30010000</td><td>Pinsel</td><td>Ψύκτρα</td><td>Pincel</td><td>Pinceau applicateur</td><td>Pennello</td><td>Pincel</td></tr><tr><td>30012000</td><td>Kanüle</td><td>Σωληνίσκος</td><td>Cánula</td><td>Canule</td><td>Cannula</td><td>Cânula</td></tr><tr><td>30016000</td><td>Messbecher</td><td>Κύπελλο</td><td>Vaso dosificador</td><td>Godet</td><td>Bicchiere dosatore</td><td>Copo-medida</td></tr><tr><td>30017000</td><td>Verschluss mit Tupfer</td><td>Πώμα με εξάρτημα επάλειψης</td><td>Cierre con aplicador para toques</td><td>Embout applicateur</td><td>Tappo con applicatore</td><td>Fecho com aplicador de contacto</td></tr><tr><td>30018200</td><td>Dosiergerät</td><td>Δοσομετρητής</td><td>Dispensador de dosis</td><td>Dispensateur de dose</td><td>Dispensatore di dose</td><td>Dispensador de dose</td></tr><tr><td>30019000</td><td>Verschluss mit Streuvorrichtung</td><td>Πώμα με εξάρτημα επίπασης</td><td>Cierre espolvoreador</td><td>Embout poudreur</td><td>Aspersore</td><td>Fecho polvilhador</td></tr><tr><td>30021000</td><td>Applikator für eine Flüssigkeit zum Einnehmen</td><td>Συσκευή χορήγησης στοματικών διαλυμάτων</td><td>Pistola dosificadora</td><td>Embout buccal</td><td>Pistola dosatrice per somministrazioni orali</td><td>Pistola doseadora</td></tr><tr><td>30022000</td><td>Verschluss mit Tropfer</td><td>Σταγονομετρικό βιδωτό πώμα</td><td>Tapón cuentagotas</td><td>Embout compte-gouttes</td><td>Contagocce</td><td>Fecho conta-gotas</td></tr><tr><td>30025000</td><td>Intradermaldruckinjektor</td><td>Σύστημα διαδερμικής χορήγησης υπό πίεση</td><td>Dispositivo a presión para liberación transdermica</td><td>Injecteur intradermique sous pression</td><td>Dispositivo sotto pressione a rilascio transdermico</td><td>Injector transdérmico sob pressão</td></tr><tr><td>30026000</td><td>Implantatinjektor</td><td>Συσκευή εμφύτευσης</td><td>Inyector de implantes</td><td>Pistolet pour implant</td><td>Iniettore per impianto</td><td>Seringa para implantes</td></tr><tr><td>30026500</td><td>Inhalator</td><td>Συσκευή εισπνοής</td><td>Inhalador</td><td>Inhalateur</td><td>Inalatore</td><td>Inalador</td></tr><tr><td>30027000</td><td>Eiinjektor</td><td>Συσκευή χορήγησης in ovo</td><td>Inyector automático in ovo</td><td>Dispositif pour injection in ovo</td><td>Dispositivo per iniezione in ovo</td><td>Seringa para via transcoriónica</td></tr><tr><td>30028000</td><td>Injektionsnadel</td><td>Βελόνη σύριγγας</td><td>Aguja para inyección</td><td>Aiguille</td><td>Ago per iniezione</td><td>Agulha para injecção</td></tr><tr><td>30029000</td><td>Injektionsspritze</td><td>Σύριγγα ένεσης</td><td>Jeringa para inyección</td><td>Seringue</td><td>Siringa per iniezione</td><td>Seringa para injectáveis</td></tr><tr><td>30030000</td><td>Intern graduierte Dosierkammer</td><td>Δοσιμετρικό εξάρτημα</td><td>Dispensador de dosis múltiples</td><td>Dispositif à cran d'arrêt</td><td>Bolo ruminale</td><td>Câmara de calibração graduada</td></tr><tr><td>30031000</td><td>Euterinjektor</td><td>Ενδομαστική σύριγγα</td><td>Jeringa intramamaria</td><td>Seringue pour administration intramammaire</td><td>Siringa intramammaria</td><td>Injetor intramamário</td></tr><tr><td>30033000</td><td>Dosierhilfe</td><td>Δοσιμετρικό εξάρτημα</td><td>Dosificador</td><td>Dispositif de mesure</td><td>Dosatore</td><td>Dispositivo doseador</td></tr><tr><td>30034000</td><td>Messlöffel</td><td>Δοσιμετρικό κοχλιάριο</td><td>Cucharilla de medida</td><td>Cuillère-mesure</td><td>Cucchiaio dosatore</td><td>Colher-medida</td></tr><tr><td>30037000</td><td>Mundstück</td><td>Εξάρτημα στοματικής προσαρμογής</td><td>Aplicador bucal</td><td>Embout buccal</td><td>Boccaglio</td><td>Aplicador bucal</td></tr><tr><td>30040000</td><td>Multipunkturstempel</td><td>Εξάρτημα πολλαπλής νύξεως</td><td>Aplicador para punción múltiple</td><td>Applicateur pour multipuncture</td><td>Dispositivo per intradermoreazione per puntura multipla</td><td>Aplicador para punção múltipla</td></tr><tr><td>30041000</td><td>Nasenapplikator</td><td>Εξάρτημα ρινικής προσαρμογής</td><td>Aplicador nasal</td><td>Embout nasal</td><td>Applicatore nasale</td><td>Aplicador nasal</td></tr><tr><td>30042000</td><td>Vernebler</td><td>Εκνεφωτής</td><td>Nebulizador</td><td>Nébuliseur</td><td>Nebulizzatore</td><td>Nebulizador</td></tr><tr><td>30043500</td><td>nadelfreier Injektor</td><td>Σύστημα διαδερμικής χορήγησης χωρίς βελόνα</td><td>Inyector sin aguja</td><td>Injecteur sans aiguille</td><td>Iniettore privo di ago</td><td>Injetor sem seringa</td></tr><tr><td>30044000</td><td>Sprühkopf</td><td>Ρύγχος</td><td>Boquilla</td><td>Embout</td><td>Erogatore</td><td>Adaptador</td></tr><tr><td>30045000</td><td>Applikationsspritze für Zubereitungen zum Einnehmen</td><td>Σύριγγα για χορήγηση από του στόματος</td><td>Jeringa para uso oral</td><td>Seringue pour administration orale</td><td>Siringa per somministrazione orale</td><td>Seringa para uso oral</td></tr><tr><td>30046000</td><td>Pipette</td><td>Πιπέτα</td><td>Pipeta</td><td>Pipette</td><td>Pipetta</td><td>Pipeta</td></tr><tr><td>30053000</td><td>Teststempel</td><td>Εξάρτημα εφαρμογής αλλεργιογόνων δτα νύξεως</td><td>Aplicador para pruebas de alergenos</td><td>Applicateur pour prick test</td><td>Dispositivo per prick test</td><td>Estilete aplicador</td></tr><tr><td>30055000</td><td>Einritzer</td><td>Ακίδα σκαριφισμού</td><td>Escarificador</td><td>Vaccinostyle</td><td>Scarificatore</td><td>Escarificador</td></tr><tr><td>30058000</td><td>Spatel</td><td>Σπαθίδα</td><td>Espátula</td><td>Spatule</td><td>Spatola</td><td>Espátula</td></tr><tr><td>30059000</td><td>Tropfapplikator</td><td>Συσκευή επίχυσης σε σημείο</td><td>Aplicador para unción puntual</td><td>Applicateur pour spot-on</td><td>Applicatore per spot-on</td><td>Aplicador para unção punctiforme</td></tr><tr><td>30063000</td><td>Impfautomat</td><td>Ακίδα εμβολιασμού</td><td>Punzón</td><td>Stylet</td><td>Dispositivo a punta per vaccinazione</td><td>estilete de inoculação</td></tr><tr><td>30068000</td><td>Applikator für ein Schwämmchen zur vaginalen Anwendung</td><td>Συσκευή για ενδοκολπική τοποθέτηση σπόγγων</td><td>Aplicador de esponjas vaginales</td><td>Applicateur pour éponge vaginale</td><td>Applicatore per spugnetta intravaginale</td><td>Aplicador para esponja vaginal</td></tr></table></div>"
   },
-  "url" : "learning-ig.censacrof.github.com/ValueSet/administration-device",
+  "url" : "http://learning-ig.censacrof.github.com/ValueSet/administration-device",
   "version" : "0.1.0",
   "name" : "AdministrationDevice",
   "title" : "Administration device",
   "status" : "active",
   "experimental" : false,
-  "date" : "2022-12-15T15:54:12+00:00",
+  "date" : "2022-12-20T11:58:14+00:00",
   "publisher" : "Example Publisher",
   "contact" : [{
     "name" : "Example Publisher",
@@ -29,4936 +29,1060 @@
         "code" : "13072000",
         "display" : "Oral applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за перорални форми"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor pro perorální podání"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Oral applikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Applikator für die orale Verabreichung"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα χορήγησης  από του στόματος"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador para uso oral"
         },
         {
-          "language" : "et-EE",
-          "value" : "Suukaudse manustamise aplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Oraaliannostelija"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour administration orale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir béil"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za usta"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Munngjafaráhald"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore per somministrazione orale"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Geriamasis aplikatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Perorālais aplikators"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Applicator voor oraal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Oralapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator doustny"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador oral"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator pentru administrare orală"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор пероральный"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Perorálny aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Peroralni aplikator"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Oralni aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Oral applikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ağızdan uygulayıcı"
         }]
       },
       {
         "code" : "13114000",
         "display" : "Pen",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Писалка"
-        },
-        {
-          "language" : "bs-BA",
+          "language" : "de",
           "value" : "Pen"
         },
         {
-          "language" : "cs-CZ",
-          "value" : "Pero"
-        },
-        {
-          "language" : "de-DE",
-          "value" : "Pen"
-        },
-        {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pluma"
         },
         {
-          "language" : "et-EE",
-          "value" : "Pen-seade"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Injektiokynä"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Stylo"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Peann"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Brizgalica"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Lyfjapenni"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Penna"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Švirkštiklis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Pildspalvveida šļirce"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Pen"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Penn"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz półautomatyczny"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Caneta"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Шприц-ручка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pero"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Injekcijski peresnik"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Pen"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Injektionspenna"
         }]
       },
       {
         "code" : "30000500",
         "display" : "Administration system",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Система за прилагане"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Sistem za primjenu"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikační systém"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Administrationssystem"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Applikationssystem"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύστημα χορήγησης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Sistema de administración"
         },
         {
-          "language" : "et-EE",
-          "value" : "Manustamissüsteem"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Antovälineistö"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Système d'administration"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Córas tabhartha"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Sustav za primjenu"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Búnaður til lyfjagjafar"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Sistema di somministrazione"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Енгізу жүйесі"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Įleidimo sistema"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Ievadīšanas sistēma"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Toedieningssysteem"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Administreringssystem"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zestaw do podawania"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Sistema de administração"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Sistem de administrare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Система для введения"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikačný systém"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Sistem za aplikacijo zdravila"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Sistemi dhënies"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Sistem za primenu"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Administreringssystem"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Uygulama sistemi"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Система приймання"
         }]
       },
       {
         "code" : "30002000",
         "display" : "Applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Aplikator"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor"
-        },
-        {
-          "language" : "da-DK",
+          "language" : "de",
           "value" : "Applikator"
         },
         {
-          "language" : "de-DE",
-          "value" : "Applikator"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα χορήγησης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador"
         },
         {
-          "language" : "et-EE",
-          "value" : "aplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Asetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "aplikator"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Applikátor"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Áhald"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Applicator"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Applikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Aplikator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Applikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Aplikatör"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "给药器"
         }]
       },
       {
         "code" : "30003000",
         "display" : "Automatic injection device",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Средство за автоматично инжектиране"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Automatický injektor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Automatsprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "automatischer Injektor"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή αυτόματης ένεσης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Inyector automático"
         },
         {
-          "language" : "et-EE",
-          "value" : "automaatsüstal"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Automaattiruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Injecteur automatique"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gléas insteallta uathoibríoch"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Naprava za automatsko injektiranje"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Tömegoltó készülék"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Sjálfvirkt inndælingartæki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo automatico per iniezone"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Автоматтандырылған инъекциялық құрылғы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Automatinis injektorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "automātiskais injektors"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Автоматски инjектор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument għall-injezzjoni awtomatika"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Automatisch injectie-apparaat"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Automatsprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz automatyczny"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Seringa automática"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Automatická injekčná pomôcka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Avtomatska injekcijska brizga"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje për injektim automatik"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Automatski injektor"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Automatspruta"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Otomatik enjeksiyon aracı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Пристрій для автоматичної ін'єкції"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "自动注射装置"
         }]
       },
       {
         "code" : "30005000",
         "display" : "Balling gun",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Пистолет за твърди лекарствени форми"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Pistolový injektor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Doseringspistol"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Bolusgeber"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή χορήγησης βώλων"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador para administración intrarruminal"
         },
         {
-          "language" : "et-EE",
-          "value" : "boolipüstol"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Pilleripyssy"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour dispositif intraruminal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gunna piollairí"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za čvrste oblike"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Bóluszbeadó pisztoly"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Inngjafabyssa fyrir fast lyfjaform"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore per dispositivo intraruminale"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Дәрілік қалыптағы қатты пистолет"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Boliusų davyklė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "pistole"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Интраруминален апликатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Pistola li twassal doża solida fil-gerżuma"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerpistool voor intra-ruminale toediening"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Inngiver"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator kęsów"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador para bólus"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pilulková pištoľ"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Aplikator za bolus"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje pë aplikime intraruminale"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Intraruminalni aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringspistol"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "İlaç tabancası"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Болюсадавец"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "投丸器"
         }]
       },
       {
         "code" : "30010000",
         "display" : "Brush",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Четка"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Četkica"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Štěteček"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Pensel"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Pinsel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ψύκτρα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pincel"
         },
         {
-          "language" : "et-EE",
-          "value" : "pintsel"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sivellin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Pinceau applicateur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Scuab"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "četkica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Ecset"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Pensill"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Pennello"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Шөтке"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Teptukas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "suka"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Четкица"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Pinzell"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Penseel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Pensel"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Pędzelek"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Pincel"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Pensulă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Щеточка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Štetec"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "čopič"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Furçë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "četkica"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Pensel"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Fırça"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Щіточка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "刷"
         }]
       },
       {
         "code" : "30012000",
         "display" : "Cannula",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Канюла"
-        },
-        {
-          "language" : "bs-BA",
-          "value" : "Kanila"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Kanyla"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Sprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Kanüle"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σωληνίσκος"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cánula"
         },
         {
-          "language" : "et-EE",
-          "value" : "kanüül"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kanyyli"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Canule"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Cannúl"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kanila"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Kanül"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Dæla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Cannula"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Канюля"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Kaniulė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "kanula"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Канила"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Kannula"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Canule"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Sprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Kaniula"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Cânula"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Canulă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Канюля"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Kanyla"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "kanila"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Kanulë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Kanila"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Kanyl"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Kanül"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Канюля"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "插管"
         }]
       },
       {
         "code" : "30016000",
         "display" : "Cup",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Чашка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Odměrka"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Bæger"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Messbecher"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Κύπελλο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Vaso dosificador"
         },
         {
-          "language" : "et-EE",
-          "value" : "mõõtekork"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Lääkemitta"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Godet"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Cupán"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Čaša/Čašica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagolópohár"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Bikar"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Bicchiere dosatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Ыдыс"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Taurelė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "mērkausiņš"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Меричка"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Tazza"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Maatbekertje"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Beger"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Miarka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Copo-medida"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Măsură dozatoare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Стаканчик"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pohár"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Merica"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Kupë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Merica"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringsbägare"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ölçek"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Стаканчик"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "杯"
         }]
       },
       {
         "code" : "30017000",
         "display" : "Dabbing applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор-тампон"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Nanášecí aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Applikationspude"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Tupfer"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πώμα με εξάρτημα επάλειψης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cierre con aplicador para toques"
         },
         {
-          "language" : "et-EE",
-          "value" : "tupsutusaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tyynyasetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout applicateur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir dabála"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač s jastučićem"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Nedvesítő feltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Púðalok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Tappo con applicatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Тампон-аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su teptuvu"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators ar tamponu"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со нанесувач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur biex ixxappap"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Depper"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Applikasjonspute"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zamknięcie z bagietką"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho com aplicador de contacto"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator pentru tamponare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор-тампон"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Nanášací aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Zaporka z aplikatorjem"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për lëngje"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač za nanošenje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Baddningsapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Temias aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор з тампоном"
         }]
       },
       {
         "code" : "30018200",
         "display" : "Dose dispenser",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Дозиращо устройство"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Dávkovací zařízení"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Dosiergerät"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσομετρητής"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Dispensador de dosis"
         },
         {
-          "language" : "et-EE",
-          "value" : "Annusti"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Annostelulaite"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Dispensateur de dose"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Dáileoir dáileoige"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Dozator"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Skammtari"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispensatore di dose"
         },
         {
-          "language" : "lt-LT",
-          "value" : "Dozės skaičiuoklis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Devu sadalītājs"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Dosisdispenser"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Dosedispenser"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Dozownik"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Dispensador de dose"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Dozator"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Дозирующее устройство"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Dávkovač"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Odmernik"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Dozni dispenzer"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Dosdispenser"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Doz dağıtımlı"
         }]
       },
       {
         "code" : "30019000",
         "display" : "Dredging applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за посипване"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor zásypu"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Strølåg"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Streuvorrichtung"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πώμα με εξάρτημα επίπασης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cierre espolvoreador"
         },
         {
-          "language" : "et-EE",
-          "value" : "puisteaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sirotin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout poudreur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir dreideála"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za posip"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Szórófeltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Sáldurlok"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Aspersore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Себу аппликаторы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su barstytuvu"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "pūderējošais aplikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со посипувач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur biex ittalla'"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Strooidop"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Strølokk"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Zamknięcie do zasypek"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho polvilhador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator pentru pudrare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор для нанесения присыпки"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Zásypový aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Zaporka s posipnikom"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për pluhurosje"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač za posipanje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Strölock"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Serpme aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор для нанесення присипки"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "带撒粉器的瓶盖"
         }]
       },
       {
         "code" : "30021000",
         "display" : "Drench gun",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Пистолет за перорални течности"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Pistolový aplikátor tekutin"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Drench pistol"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Applikator für eine Flüssigkeit zum Einnehmen"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή χορήγησης στοματικών διαλυμάτων"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pistola dosificadora"
         },
         {
-          "language" : "et-EE",
-          "value" : "Jootmispüstol"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Annospyssy"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout buccal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gunna droinse"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator tekućih oralnih oblika"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagolópisztoly"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Inngjafarbyssa fyrir mixtúru"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Pistola dosatrice per somministrazioni orali"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Оттегімен қанықтырылған пистолет"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators mikstūrai"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор за напивка"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Pistola biex tagħti likwidu orali"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Drench pistool"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Doseringspistol"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator płynów"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Pistola doseadora"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikačná pištoľ"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "brizgalnik za tekočine"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje dozuese për dhënie barnash nga goja"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator za lekovite tečnosti"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringspistol"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Direnç tabancası"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Шприц-пистолет"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "灌药器"
         }]
       },
       {
         "code" : "30022000",
         "display" : "Dropper applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор капкомер"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Uzávěr s kapátkem"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Dråbeindsats"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Verschluss mit Tropfer"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σταγονομετρικό βιδωτό πώμα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Tapón cuentagotas"
         },
         {
-          "language" : "et-EE",
-          "value" : "tilguti"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Tiputin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout compte-gouttes"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir le braonaire"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Zatvarač s kapaljkom"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Cseppentőfeltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Skrúflok með dropateljara"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Contagocce"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Тамшыға арналған аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Aplikatorius su lašintuvu"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators ar pilinātāju"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Затворач со капалка"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur għat-tqattir"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Dop met druppelpipet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Dråpeinnsats"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Kroplomierz"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Fecho conta-gotas"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator pentru picurare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор-капельница"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Kvapkadlo"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "zaporka s kapalko"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për pikatore"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Zatvarač sa kapaljkom"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Droppinsats"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Damlalıklı kapak"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор- крапельниця"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "带滴头的瓶盖"
         }]
       },
       {
         "code" : "30025000",
         "display" : "High pressure transdermal delivery device",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Трансдермално устройство под високо налягане"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Transdermální tlakové zařízení"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Transdermal højtryksapplikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Intradermaldruckinjektor"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύστημα διαδερμικής χορήγησης υπό πίεση"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Dispositivo a presión para liberación transdermica"
         },
         {
-          "language" : "et-EE",
-          "value" : "transdermaalne kõrgrõhkjaotussüsteem"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "-"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Injecteur intradermique sous pression"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gléas seachadta trasdeirmeach ardbhrú"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Visokotlačni injektor za transdermalni sustav"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Nagynyomású transzdermális applikátor"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Háþrýstitæki til lyfjagjafar um húð"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo sotto pressione a rilascio transdermico"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Жоғары қысыммен жеткізілетін трансдермальдік құрылғы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Slėginis transderminis injektorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "augstspiediena transdermālā ierīce"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Трансдермален инjектор под висок притисок"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument għall-amministrazzjoni bi pressjoni għolja biex tgħaddi s-sustanza mill-ġilda"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Hogedrukinjector voor transdermale toediening"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Transdermal høytrykksapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz śródskórny ciśnieniowy"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Injector transdérmico sob pressão"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Injector transdermic sub presiune"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Transdermálny injektor pod tlakom"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Transdermalni visokotlačni injektor"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje transdermike me trysni të lartë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Transdermalni injektor pod visokim pritiskom"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Transdermal högtrycksapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Basınçlı transdermal uygulayıcı"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "高压透皮给药装置"
         }]
       },
       {
         "code" : "30026000",
         "display" : "Implanter",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Имплантатор"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Implantátor"
-        },
-        {
-          "language" : "da-DK",
+          "language" : "de",
           "value" : "Implantatinjektor"
         },
         {
-          "language" : "de-DE",
-          "value" : "Implantatinjektor"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή εμφύτευσης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Inyector de implantes"
         },
         {
-          "language" : "et-EE",
-          "value" : "implantaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Implantaattiasetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Pistolet pour implant"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Ionphlandóir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "implantator"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Implantátum bejuttató eszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Tæki til ísetningar vefjalyfs"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Iniettore per impianto"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Имплантатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Implantuotuvas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "implanters"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Имплантатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument biex jitwaħħal impjant"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Implantaatinjector"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Implantatinjektor"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz do implantu"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Seringa para implantes"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Implantátový injektor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "implantator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Injektor për implant"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Implantator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Implantatinjektor"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Implante edici"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Імплантер"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "植入剂给药器"
         }]
       },
       {
         "code" : "30026500",
         "display" : "Inhaler",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Инхалатор"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Inhalátor"
-        },
-        {
-          "language" : "da-DK",
+          "language" : "de",
           "value" : "Inhalator"
         },
         {
-          "language" : "de-DE",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή εισπνοής"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Inhalador"
         },
         {
-          "language" : "et-EE",
-          "value" : "Inhalaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Inhalaattori"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Inhalateur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Análóir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Innöndunartæki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Inalatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Ингалятор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Inhaliatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Inhalators"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Inalador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Ингалятор"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Inhalátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Inhalues"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Inhalator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Soluklatıcı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Інгалятор"
         }]
       },
       {
         "code" : "30027000",
         "display" : "In-ovo injection device",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Средство за инжектиране в яйце"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "In-ovo injektor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Injektionsudstyr til æg"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Eiinjektor"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή χορήγησης in ovo"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Inyector automático in ovo"
         },
         {
-          "language" : "et-EE",
-          "value" : "munasüstal"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Munaruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Dispositif pour injection in ovo"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gléas insteallta d'uibheacha suthaithe"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Naprava za injektiranje in ovo"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Tojásinjektor"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Tæki til inndælingar í egg"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo per iniezione in ovo"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Аналық без ішілік инъекциялық құрылғы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Injektorius į kiaušinį"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "injektors olai"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "In ovo инjектор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument biex tinjetta l-bajda femminili"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "In-ovo injectie-apparaat"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Injeksjonsutstyr til egg"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz do jaja"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Seringa para via transcoriónica"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "In-ovo injektor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Aplikator za vnos v jajčno celico"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje për injektim në vezë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "In-ovo injektor"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Injektionsspruta för ägg"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Yumurta içi injeksiyon aracı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Пристрій для in ovo ін'єкції"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "受精卵注射装置"
         }]
       },
       {
         "code" : "30028000",
         "display" : "Injection needle",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Инжекционна игла"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Injekční jehla"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Kanyle"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Injektionsnadel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Βελόνη σύριγγας"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aguja para inyección"
         },
         {
-          "language" : "et-EE",
-          "value" : "Süstenõel"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Injektioneula"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Aiguille"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Snáthaid insteallta"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "igla za injekciju"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Injekcióstű"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Nál"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Ago per iniezione"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Инъекциялық ине"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Injekcinė adata"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "injekcijas adata"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Инjекциска игла"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Labra ta' l-injezzjoni"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Injectienaald"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Kanyle"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Igła iniekcyjna"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Agulha para injecção"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Ac pentru injecţie"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Игла инъекционная"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Injekčná ihla"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "injekcijska igla"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Gjilpërë për injeksion"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Injekciona igla"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Injektionsnål"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Enjeksiyon iğnesi"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Ін'єкційна голка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "注射针"
         }]
       },
       {
         "code" : "30029000",
         "display" : "Injection syringe",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Спринцовка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Injekční stříkačka"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Injektionssprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Injektionsspritze"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύριγγα ένεσης"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Jeringa para inyección"
         },
         {
-          "language" : "et-EE",
-          "value" : "süstal"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Injektioruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Seringue"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Steallaire insteallta"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Štrcaljka za injekciju"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Injekciós fecskendő"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Sprauta"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Siringa per iniezione"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Инъекциялық шприц"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Injekcinis švirkštas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "injekcijas šļirce"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Инjекциски шприц"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Siringa għall-injezzjoni"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Injectiespuit"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Injeksjonssprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Strzykawka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Seringa para injectáveis"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Seringă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Шприц инъекционный"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Injekčná striekačka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Injekcijska brizga"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Shiringë injektimi"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Injekcioni špric"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Injektionsspruta"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Enjektör"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Ін'єкційний шприц"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "注射器"
         }]
       },
       {
         "code" : "30030000",
         "display" : "Internal graduated calibration chamber",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Вътрешно градуирана дозираща камера"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Nádoba s vnitřní kalibrací"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Justerbar doseringssprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Intern graduierte Dosierkammer"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσιμετρικό εξάρτημα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Dispensador de dosis múltiples"
         },
         {
-          "language" : "et-EE",
-          "value" : "sisegradueeringuga manustamisanum"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Säädettävä annosruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Dispositif à cran d'arrêt"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Cuasán calabraithe grádaithe inmheánach"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Kalibrirana mjerica za kutanu primjenu"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Osztással ellátott adagolótartály"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Lyfjaskammtari"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Bolo ruminale"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Іші калибрленген градуирленген камера"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "iekšēja graduēta kalibrēšanas kamera"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Комора за дозирање течности"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Kompartiment tal-kalibrar b'marki tal-kejl minn ġewwa"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerkamer met schaalverdeling"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Justerbar doseringssprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Dozownik kalibrowany do płynów"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Câmara de calibração graduada"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Kalibračná nádoba"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Graduirani odmernik"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Kalibrisana komora za doziranje tečnosti"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Justerbar doseringsspruta"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "İç dereceli kalibrasyon odası"
         }]
       },
       {
         "code" : "30031000",
         "display" : "Intramammary syringe",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Интрамамарна спринцовка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Intramamární injektor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Intramammærsprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Euterinjektor"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ενδομαστική σύριγγα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Jeringa intramamaria"
         },
         {
-          "language" : "et-EE",
-          "value" : "Intramammaarsüstal"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Intramammaariruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Seringue pour administration intramammaire"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Steallaire iomhmamach"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "intramamarna štrcaljka"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Intramammális fecskendő"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Spenadæla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Siringa intramammaria"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Сүт безі ішілік шприц"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Intramaminis švirkštas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "injektors tesmenim"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Интрамамарен инjектор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Siringa intramammarja"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Injector voor intramammair gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Intramammærsprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Tubostrzykawka dowymieniowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Injetor intramamário"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Intramamálna injekčná striekačka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Intramamarni injektor"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Shiringë intramamare"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Intramamarni špric"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Spruta för intramammarium"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Meme içi şırınga"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Інтрамамарний шприц"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "乳房注射器"
         }]
       },
       {
         "code" : "30033000",
         "display" : "Measuring device",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Мерително устройство"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Dávkovač"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Måleredskab"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Dosierhilfe"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσιμετρικό εξάρτημα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Dosificador"
         },
         {
-          "language" : "et-EE",
-          "value" : "Mõõtevahend"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Mitta-annostelija"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Dispositif de mesure"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Gléas tomhais"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Odmjerni pribor"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagoló eszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mælitæki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dosatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Өлшеуіш құрылғы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Dozatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "mērierīce"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Дозатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument tal-kejl"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerhulpmiddel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Måleredskap"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Dozownik"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Dispositivo doseador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Dispozitiv de măsurat"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Дозатор"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Odmerka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Odmernik"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje matëse"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Dozer"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringshjälpmedel"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ölçü kabı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Мірний засіб"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "量具"
         }]
       },
       {
         "code" : "30034000",
         "display" : "Measuring spoon",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Мерителна лъжичка"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Odměrná lžička"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Måleske"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Messlöffel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Δοσιμετρικό κοχλιάριο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Cucharilla de medida"
         },
         {
-          "language" : "et-EE",
-          "value" : "mõõtelusikas"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Mittalusikka"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Cuillère-mesure"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Spúnóg tomhais"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Odmjerna žlica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Adagolókanál"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Mæliskeið"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Cucchiaio dosatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Өлшеуіш қасық"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Matavimo šaukštas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "mērkarote"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Одмерна лажица"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Mgħarfa għall-qies"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Maatlepel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Måleskje"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Łyżka miarowa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Colher-medida"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Linguriţă dozatoare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Мерная ложка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Odmerná lyžica"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "merilna žlička"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Lugë matëse"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Kašika za doziranje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Doseringssked"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ölçü kaşığı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Мірна ложка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "量勺"
         }]
       },
       {
         "code" : "30037000",
         "display" : "Mouthpiece",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Мундщук"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Náustek"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Mundstykke"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Mundstück"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα στοματικής προσαρμογής"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador bucal"
         },
         {
-          "language" : "et-EE",
-          "value" : "huulik"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Suukappale"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout buccal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Béalóg"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Nastavak za usta"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Szájfeltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Munnstykki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Boccaglio"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Ауыз қуысына арналған аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Kandiklis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "iemutis"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор за уста"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Biċċa tal-ħalq"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Mondstuk"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Munnstykke"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Ustnik"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador bucal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator bucal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Мундштук"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Náustok"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Ustnik"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje ndihmëse që përdoret për marrjen ose inhalimin e një produkti mjekësor nëprmjet gojës"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Nastavak za usta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Munstycke"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ağız aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Насадка для рота"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "吸嘴"
         }]
       },
       {
         "code" : "30040000",
         "display" : "Multipuncturer",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за мултикожен тест"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Multipunkční aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Multipunkturapplikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Multipunkturstempel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα πολλαπλής νύξεως"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador para punción múltiple"
         },
         {
-          "language" : "et-EE",
-          "value" : "multipunktaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Monikärkineula"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour multipuncture"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Ilphollaire"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Višeubodni aplikator"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Többhegyü börpróba eszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Fjölstungutæki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo per intradermoreazione per puntura multipla"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Көп пункциялаушы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Daugiataškis įdūrimo įtaisas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "ierīce daudzkārtīgām punkcijām"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Повеќекратен убодувач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument li jagħmel aktar minn toqba waħda fil-ġilda"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Prikker voor meervoudig gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Multipunkturapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator wielopunktowy"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador para punção múltipla"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Dispozitiv pentru puncții multiple"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор для мультикожного теста"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Multipunkčný aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Multipli vbodnik"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për shumë shpime"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Višeubodni aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Multipunkturapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Multiponksiyon aleti"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор для множинної пунктури"
         }]
       },
       {
         "code" : "30041000",
         "display" : "Nasal applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за нос"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Nosní aplikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Nasal applikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Nasenapplikator"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα ρινικής προσαρμογής"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador nasal"
         },
         {
-          "language" : "et-EE",
-          "value" : "ninaaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Nenäkappale"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout nasal"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir sróine"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za nos"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Orrfeltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Nefpípetta"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore nasale"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Мұрынға арналған аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Nosies aplikatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "deguna aplikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор за нос"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur ta' l-imnieħer"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Neuspipet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Nesepipette"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator do nosa"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador nasal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator nazal"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор назальный"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Nosový aplikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Nosnik"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për hundë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Nazalni aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Näspipett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Burun aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор для носа"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "鼻腔给药器"
         }]
       },
       {
         "code" : "30042000",
         "display" : "Nebuliser",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Небулизатор"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Rozprašovač"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Nebulisator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Vernebler"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εκνεφωτής"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Nebulizador"
         },
         {
-          "language" : "et-EE",
-          "value" : "nebulisaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Sumutin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Nébuliseur"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Néalaitheoir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Nebulizator"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Porlasztó"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Eimgjafi"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Nebulizzatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Пульверизатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Purkštuvas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "smidzinātājs"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Небулизатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Nebulizzatur"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Vernevelaar"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Nebulisator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Nebulizator"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Nebulizador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Nebulizator"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Небулайзер"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Rozprašovač"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Nebulator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Sprucues"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Raspršivač"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Nebulisator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Nebulizör"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Небулайзер"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "雾化器"
         }]
       },
       {
         "code" : "30043500",
         "display" : "Needle-free injector",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Безиглен инжектор"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Tlakový injektor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Nålefri injektor"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "nadelfreier Injektor"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύστημα διαδερμικής χορήγησης χωρίς βελόνα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Inyector sin aguja"
         },
         {
-          "language" : "et-EE",
-          "value" : "Nõelata injektor"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Neulaton ruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Injecteur sans aiguille"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Insteallaire saor ó snáthaid"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Injektor bez igle"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Nálarlaust inndælingartæki"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Iniettore privo di ago"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Инесіз инжектор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Neadatinis injektorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Injektors bez adatas"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Naaldvrije injector"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Nålefri injektor"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Wstrzykiwacz bezigłowy"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Injetor sem seringa"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Injector fară ac"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Безигольный инжектор"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Bezihlový injektor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Brezigelni injektor"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Injektor bez igle"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Nålfri injektor"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "İğnesiz enjektör"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Шприц без голки"
         }]
       },
       {
         "code" : "30044000",
         "display" : "Nozzle",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Накрайник"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Hubice"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Tud"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Sprühkopf"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ρύγχος"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Boquilla"
         },
         {
-          "language" : "et-EE",
-          "value" : "otsik"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Suutin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Embout"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Buinne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Mlaznica"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Szórófej"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Sproti"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Erogatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Ұштық қондырма"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Antgalis"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "izsmidzinātājs"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Распрсувач"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Żennuna"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Tuit"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Tut"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Dysza"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Adaptador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Vârf aplicator"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Насадка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Dýza"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Šoba"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje ndihmëse për marrje të drejtuar të një lëngu ose përgatese gjysëm të ngurtë në një zonë specifike"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator za ciljanu primenu"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Munstycke"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Püskürtücü başlık"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Насадка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "喷嘴"
         }]
       },
       {
         "code" : "30045000",
         "display" : "Oral syringe",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Спринцовка за перорални форми"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Stříkačka pro perorální podání"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Oral sprøjte"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Applikationsspritze für Zubereitungen zum Einnehmen"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σύριγγα για χορήγηση από του στόματος"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Jeringa para uso oral"
         },
         {
-          "language" : "et-EE",
-          "value" : "suusüstal"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Mittaruisku"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Seringue pour administration orale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Steallaire béil"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Štrcaljka za usta"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Szájfecskendő"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Munngjafarsprauta"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Siringa per somministrazione orale"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Оральдік шприц"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Geriamasis švirkštas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "Perorālā šļirce"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Перорален инjектор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Siringa tal-ħalq"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Doseerspuit voor orale toediening"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Oralsprøyte"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Strzykawka doustna"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Seringa para uso oral"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Seringă pentru administrare orală"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Шприц оральный"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Perorálna striekačka"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Brizga za peroralno dajanje"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Shiringë për gojë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Oralni špric"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Oral doseringsspruta"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Ağızdan kullanım için şırınga"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Оральний шприц"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "口腔注射器"
         }]
       },
       {
         "code" : "30046000",
         "display" : "Pipette",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Пипета"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Pipeta"
-        },
-        {
-          "language" : "da-DK",
+          "language" : "de",
           "value" : "Pipette"
         },
         {
-          "language" : "de-DE",
-          "value" : "Pipette"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Πιπέτα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Pipeta"
         },
         {
-          "language" : "et-EE",
-          "value" : "pipett"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Pipetti"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Pipette"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Pípéad"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "pipeta"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Cseppentőpipettás feltét"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Pípetta"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Pipetta"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Тамшуыр"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Pipetė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "pipete"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Пипета"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Pipetta"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Pipet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Pipette"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Pipetka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Pipeta"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Pipetă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Пипетка"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pipeta"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "merilna kapalka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pipetë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Pipeta"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Pipett"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Pipet"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Піпетка"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "滴管"
         }]
       },
       {
         "code" : "30053000",
         "display" : "Prick test applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за изпитване чрез убождане"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor vpichových testů"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Priktestapplikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Teststempel"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Εξάρτημα εφαρμογής αλλεργιογόνων δτα νύξεως"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador para pruebas de alergenos"
         },
         {
-          "language" : "et-EE",
-          "value" : "nahatorketestaplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Ihon pistotestineula"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour prick test"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir sáthástála"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za ispitivanje ubodom"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Börpróba lándzsa"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Stunguáhald til ofnæmisprófunar"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo per prick test"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Егу тест-аппликаторы"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Duriamasis testų aplikatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "dūriena testa aplikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Убоден тест апликатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur għal test li jsir b’tingiż fil-ġilda"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Priktestapplicator"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Prikktestapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator do skórnych prób punktowych"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Estilete aplicador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Aplicator pentru teste prin înțepare"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Аппликатор для инъекционного теста"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikátor na vpichové testy"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Vbodnik"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplkator për provën me shpim"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Alergen-test aplikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Pricktestapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Prik test aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Аплікатор для тесту з наколюванням"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "点刺试验针"
         }]
       },
       {
         "code" : "30055000",
         "display" : "Scarifier",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Скарификатор"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Skarifikátor"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Skarificeringsinstrument"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Einritzer"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ακίδα σκαριφισμού"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Escarificador"
         },
         {
-          "language" : "et-EE",
-          "value" : "Skarifikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Raspi"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Vaccinostyle"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Corraitheoir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Skarifikator"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Karcoló eszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Húðrispari"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Scarificatore"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Скарификатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Skarifikatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "skarifikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Скарификатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument li jobrox il-ġilda"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Scarificator"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Skarifiseringsinstrument"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Skaryfikator"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Escarificador"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Skarifikátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Skarifikator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Skarifikator"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Skarifikator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Skarificeringsinstrument"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Kazıntı cihazı"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Скарифікатор"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "划痕器"
         }]
       },
       {
         "code" : "30058000",
         "display" : "Spatula",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Шпатула"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Špachtle"
-        },
-        {
-          "language" : "da-DK",
+          "language" : "de",
           "value" : "Spatel"
         },
         {
-          "language" : "de-DE",
-          "value" : "Spatel"
-        },
-        {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Σπαθίδα"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Espátula"
         },
         {
-          "language" : "et-EE",
-          "value" : "spaatel"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Lasta"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Spatule"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Spadal"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Špatula"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Spatula"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Spaði"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Spatola"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Шпатель"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Mentelė"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "špātele"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Шпатула"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Spatula"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Spatel"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Spatel"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Łopatka"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Espátula"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "Spatulă"
-        },
-        {
-          "language" : "ru-RU",
-          "value" : "Шпатель"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Špachtľa"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "lopatka"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Spatul"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Špatula"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Spatel"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Spatül"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Шпатель"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "药刀"
         }]
       },
       {
         "code" : "30059000",
         "display" : "Spot-on applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за прилагане върху ограничен участък"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor pro nakapání na kůži - spot-on"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Spot-on applikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Tropfapplikator"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή επίχυσης σε σημείο"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador para unción puntual"
         },
         {
-          "language" : "et-EE",
-          "value" : "täpiravimi aplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Paikallisvalelukaadin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour spot-on"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir ar spota"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Aplikator za nakapavanje"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Csepegtető adagolóeszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Blettunaráhald"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore per spot-on"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Дақ-аппликатор"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Užlašinimo įtaisas"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "aplikators-pilinātājs"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор за накапување"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur għal użu lokalizzat"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Spot-on applicator"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Påflekkingsapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Przyrząd do nakraplania"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador para unção punctiforme"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikátor na kožu"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Aplikator kožnega nanosa"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për pika në lëkurë"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator za nakapavanje"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Spot on-applikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Damlatma aplikatörü"
-        },
-        {
-          "language" : "uk-UA",
-          "value" : "Апликатор для точкового нанесення"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "点滴给药器"
         }]
       },
       {
         "code" : "30063000",
         "display" : "Stab vaccinator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Ваксинатор чрез набождане"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Vakcinátor pro vpich"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Dobbeltnål"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Impfautomat"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Ακίδα εμβολιασμού"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Punzón"
         },
         {
-          "language" : "et-EE",
-          "value" : "nõelvaktsinaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Kaksoisneula"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Stylet"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Sá-vacsaíneoir"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "Ubodni aplikator cjepiva"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Oltógerely"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Áhald til bólusetningar fugla"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Dispositivo a punta per vaccinazione"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Теспеге егуші"
-        },
-        {
-          "language" : "lt-LT",
-          "value" : "Duriantis vakcinatorius"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "vakcinācijas ierīce"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Убоден вакцинатор"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Strument għat-tilqim"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Stilet"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Dobbeltnål"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator szczepionek"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "estilete de inoculação"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Pištoľový vakcinátor"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "vbodni vakcinator"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Pajisje për vaksinim të zogjve me shpim"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Ubodni vakcinator"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Ympapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Batırarak aşı uygulayıcı"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "穿刺接种器"
         }]
       },
       {
         "code" : "30068000",
         "display" : "Vaginal sponge applicator",
         "designation" : [{
-          "language" : "bg-BG",
-          "value" : "Апликатор за вагинална гъба"
-        },
-        {
-          "language" : "cs-CZ",
-          "value" : "Aplikátor vaginální hubky"
-        },
-        {
-          "language" : "da-DK",
-          "value" : "Vaginalsvampapplikator"
-        },
-        {
-          "language" : "de-DE",
+          "language" : "de",
           "value" : "Applikator für ein Schwämmchen zur vaginalen Anwendung"
         },
         {
-          "language" : "el-GR",
+          "language" : "el",
           "value" : "Συσκευή για ενδοκολπική τοποθέτηση σπόγγων"
         },
         {
-          "language" : "es-ES",
+          "language" : "es",
           "value" : "Aplicador de esponjas vaginales"
         },
         {
-          "language" : "et-EE",
-          "value" : "vaginaalse tampooni aplikaator"
-        },
-        {
-          "language" : "fi-FI",
-          "value" : "Emätintamponiasetin"
-        },
-        {
-          "language" : "fr-FR",
+          "language" : "fr",
           "value" : "Applicateur pour éponge vaginale"
         },
         {
-          "language" : "ga-EU",
-          "value" : "Forchuradóir spúinse faighne"
-        },
-        {
-          "language" : "hr-HR",
-          "value" : "aplikator spužvice za rodnicu"
-        },
-        {
-          "language" : "hu-HU",
-          "value" : "Hüvelyszivacs bejuttató eszköz"
-        },
-        {
-          "language" : "is-IS",
-          "value" : "Áhald til ísetningar leggangasvampa"
-        },
-        {
-          "language" : "it-IT",
+          "language" : "it",
           "value" : "Applicatore per spugnetta intravaginale"
         },
         {
-          "language" : "kk-KZ",
-          "value" : "Қынаптық аппликатор"
-        },
-        {
-          "language" : "lv-LV",
-          "value" : "vaginālo sūklīšu aplikators"
-        },
-        {
-          "language" : "mk-MK",
-          "value" : "Апликатор за вагинален сунґер"
-        },
-        {
-          "language" : "mt-MT",
-          "value" : "Applikatur għal sponża vaġinali"
-        },
-        {
-          "language" : "nl-NL",
-          "value" : "Applicator voor spons voor vaginaal gebruik"
-        },
-        {
-          "language" : "no-NO",
-          "value" : "Vaginalsvampapplikator"
-        },
-        {
-          "language" : "pl-PL",
-          "value" : "Aplikator gąbek dopochwowych"
-        },
-        {
-          "language" : "pt-PT",
+          "language" : "pt",
           "value" : "Aplicador para esponja vaginal"
-        },
-        {
-          "language" : "ro-RO",
-          "value" : "-"
-        },
-        {
-          "language" : "sk-SK",
-          "value" : "Aplikátor vaginálnej hubky"
-        },
-        {
-          "language" : "sl-SI",
-          "value" : "Aplikator vaginalne gobice"
-        },
-        {
-          "language" : "sq-AL",
-          "value" : "Aplikator për sfungjer vaginal"
-        },
-        {
-          "language" : "sr-RS",
-          "value" : "Aplikator za vaginalni sunđer"
-        },
-        {
-          "language" : "sv-SE",
-          "value" : "Vaginalsvampapplikator"
-        },
-        {
-          "language" : "tr-TR",
-          "value" : "Vaginal sünger uygulayıcı"
-        },
-        {
-          "language" : "zh-CN",
-          "value" : "阴道海绵塞投放器"
         }]
       }]
     }]
